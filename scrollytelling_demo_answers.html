@@ -72,6 +72,7 @@
                <img src="images/Intro.png" class="img-fluid" alt="Responsive image">
             </div>
      </div>
+     
      <div class="row">
      	
 
@@ -184,7 +185,14 @@
 
 
         new ScrollMagic.Scene({triggerElement: "#text1"})
-            .setClassToggle(".img", "active") 
+            .setClassToggle("img", "active") 
+            .addTo(controller);
+
+        new ScrollMagic.Scene({triggerElement: "#text1"})
+            .on('start', function() {
+            document.getElementById("img").src = "images/1a.png"
+            console.log('Function is triggered')
+                }) 
             .addTo(controller);
 
 
