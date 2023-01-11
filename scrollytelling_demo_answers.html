@@ -32,8 +32,8 @@
     #visualdiv {
           position: -webkit-sticky;
           position: sticky;
-          top: -1px;
-          padding: 100px;
+          top: -50px;
+          padding: 10px;
           transition: opacity 0.8s;
          -webkit-transition: opacity 0.8s;
         }
@@ -49,22 +49,7 @@
 
    }
 
-   .text1opacity, .text2opacity {
-        font-size:30px;
-        fill:blue;
-        opacity:0;
-        transition: opacity 0.8s;
-         -webkit-transition: opacity 0.8s;
-        }
-
-    .text3opacity {
-        font-size:30px;
-        fill:blue;
-        opacity:0;
-        transition: opacity 0.8s;
-        color: blue;
-         -webkit-transition: opacity 0.8s;
-        } 
+ 
 
 	.active {
         	opacity:1;
@@ -92,35 +77,95 @@
 
      	<div class="col-4">
      	
-        <p> Part of the City Scanner project, Flatburn is an open-source environmental sensor that can be mounted on vehicles.</p>
+        <p id="text1"> Part of the <test style= 'color:#fe5f1a'>City Scanner</test> project, Flatburn is an <test style= 'color:#fe5f1a'>open-source</test> environmental sensor that can be mounted on vehicles.</p>
 
      	<br><br>
-        <p id="text1">This autonomous device is powered using a solar panel and is mounted on vehicles using magnetic pads.</p>
-        
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
         <br><br>
 
-        <p id="text2">Flatburn is 3D printed.</p>
+        <p id="text2">This <test style= 'color:#fe5f1a'>autonomous</test> device is powered using a solar panel and is mounted on vehicles using magnetic pads.</p>
         
         <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
 
-        <p id="text3">The core module houses the PCB, antenna, and data storage board.</p>
+        <p id="text3">Flatburn is <test style= 'color:#fe5f1a'>3D printed.</test></p>
         
         <br><br>
-        <p id="text4"> The <test style= 'color:#fe5f1a'>core module</test> houses the PCB, antenna, and data storage board.</p>
-        
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
         <br><br>
 
-        <p id="text5"> The <test style= 'color:#fe5f1a'>sensing module</test> houses heat, noise and air quality sensors.</p>
+        <p id="text4">The <test style= 'color:#fe5f1a'>core module</test> houses the PCB, antenna, and data storage board.</p>
         
         <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
 
+        <p id="text5"> The <test style= 'color:#fe5f1a'>sensing module</test> houses heat, noise and air quality sensors..</p>
+        
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
 
-        <p id="text6"> Build your own Flatburn.
-
+        <p id="text6">Build your own Flatburn.
+            <br><br>
             Help your community
-            monitor its environment.</p>
+            monitor its environment. </p>
         
         <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+
+
+      
 
         
      	</div>
@@ -145,7 +190,7 @@
 
         new ScrollMagic.Scene({triggerElement: "#text2"})
             .on('start', function() {
-            document.getElementById("img").src = "images/1a.png"
+            document.getElementById("img").src = "images/1b.png"
             console.log('Function is triggered')
                 }) 
             .addTo(controller);
@@ -153,21 +198,28 @@
 
         new ScrollMagic.Scene({triggerElement: "#text3"})
             .on('start', function() {
-            document.getElementById("img").src = "images/1b.png"
+            document.getElementById("img").src = "images/1j.png"
             console.log('Function is triggered')
                 }) 
             .addTo(controller);           
 								
         new ScrollMagic.Scene({triggerElement: "#text4"})
             .on('start', function() {
-            document.getElementById("img").src = "images/1c.png"
+            document.getElementById("img").src = "images/1d.png"
             console.log('Function is triggered')
                 }) 
             .addTo(controller); 
 
         new ScrollMagic.Scene({triggerElement: "#text5"})
             .on('start', function() {
-            document.getElementById("img").src = "images/1d.png"
+            document.getElementById("img").src = "images/1f.png"
+            console.log('Function is triggered')
+                }) 
+            .addTo(controller); 
+
+        new ScrollMagic.Scene({triggerElement: "#text6"})
+            .on('start', function() {
+            document.getElementById("img").src = "images/1a.png"
             console.log('Function is triggered')
                 }) 
             .addTo(controller); 
