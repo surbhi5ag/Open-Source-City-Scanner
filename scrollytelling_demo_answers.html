@@ -80,11 +80,11 @@
 
 </head>
 <body>
-  <main role="main" class="container-sm" paddding=10px>
+  <main role="main" class="container-sm">
      <div class="row">
-        <div class="col-12">
+        <div class="col-12" >
             
-               <img src="images/Intro.png" >
+               <img src="images/Intro.png" class="img-fluid" alt="Responsive image">
             </div>
      </div>
      <div class="row">
@@ -101,7 +101,6 @@
 
         <p id="text2">Flatburn is 3D printed.</p>
         
-        <br><br>
         <br><br>
 
         <p id="text3">The core module houses the PCB, antenna, and data storage board.</p>
@@ -123,9 +122,7 @@
         
         <br><br>
 
-        <p id="text7"> The <test style= 'color:#fe5f1a'>core module</test> houses the PCB, antenna, and data storage board.</p>
         
-        <br><br>
      	</div>
      	<div class="col-8">
      		<div id="visualdiv">
@@ -164,6 +161,13 @@
         new ScrollMagic.Scene({triggerElement: "#text4"})
             .on('start', function() {
             document.getElementById("img").src = "images/1c.png"
+            console.log('Function is triggered')
+                }) 
+            .addTo(controller); 
+
+        new ScrollMagic.Scene({triggerElement: "#text5"})
+            .on('start', function() {
+            document.getElementById("img").src = "images/1d.png"
             console.log('Function is triggered')
                 }) 
             .addTo(controller); 
