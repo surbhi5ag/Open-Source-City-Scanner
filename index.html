@@ -176,17 +176,12 @@
         var controller = new ScrollMagic.Controller();
         
         
-            var images2 = [
-                    
-        "./images/intro-01.jpg",
-		"./images/intro-02.jpg",
-        "./images/intro-03.jpg",
-        "./images/intro-04.jpg",
-        "./images/intro-05.jpg",
-        "./images/intro-06.jpg",
-        "./images/intro-07.jpg"
-        
-	];
+            var images2 = [];
+
+for (let i = 0; i < 50; i++) {
+  const path = `./images/cover-${String(i).padStart(2, "0")}.jpg`;
+  images2.push(path);
+}
                 
     
     // TweenMax can tween any property of any object. We use this object to cycle through the array
