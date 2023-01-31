@@ -108,13 +108,111 @@
         text: center;
         vertical-align: middle;
     }
+        
+    #intro h1 {
+	position: absolute;
+	text-align: center;
+	width: 100%;
+	top: 45vh;
+    left: 25vw;
+	margin: 0;
+        font-size: 25pt;}
+        
+    .rabbit{
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+    .fish {
+        opacity: 0;}
+        
+        .rabbit{
+            z-index: 100;
+            
+    }
+        
+        
 
 	</style>
 
 
 </head>
 <body>
-  <main role="main" class="container-fluid" >
+ <main role="main" class="container-fluid" >
+    <div id="start">
+    <div id="intro">
+        <h1>TRY MY BEST</h1>
+        <img class="rabbit" id="myimg" src="./images/intro-01.jpg">
+    </div>
+    
+    <script>                
+                var images = [
+                    
+        "./images/intro-01.jpg",
+		"./images/intro-02.jpg",
+        "./images/intro-03.jpg",
+        "./images/intro-04.jpg",
+        "./images/intro-05.jpg",
+        "./images/intro-06.jpg",
+        "./images/intro-07.jpg"
+        
+	];
+                
+    
+    // TweenMax can tween any property of any object. We use this object to cycle through the array
+	var obj = {curImg: 0};
+
+	// create animation tween
+	var runner = TweenMax.to(obj, 0.5,
+		{
+			curImg: images.length - 1,	// animate propery curImg to number of images
+			roundProps: "curImg",				// only integers so it can be used as an array index
+			repeat: 0,									// repeat 3 times
+			immediateRender: true,			// load first image automatically
+			ease: Linear.easeNone,			// show every image the same ammount of time
+			onUpdate: function () {
+			  $("#myimg").attr("src", images[obj.curImg]); // set the image source
+			}
+		}
+	);
+                
+                
+                var disappear = TweenMax.to("#myimg", 1, {className: "+=fish"});
+                
+
+
+                // container pin
+                var startpin = new ScrollMagic.Scene({
+                        duration: 400
+                    })
+                    .setPin("div#start")
+                    .addTo(controller);
+                
+                //COVER ANIMATION
+                new ScrollMagic.Scene({ duration: 300})
+					.setTween(runner)
+//					.addIndicators({name: "animation"}) // add indicators (requires plugin)
+					.addTo(controller);
+                
+                //COVER DISAPPEAR
+                new ScrollMagic.Scene({ duration: 100, offset: 350})
+					.setTween(disappear)
+//					.addIndicators({name: "disappear"}) // add indicators (requires plugin)
+					.addTo(controller);               
+
+            </script>
+     </div>
+        
+    
+    
+    
+    
+        
+        
+<!--  <main role="main" class="container-fluid" >-->
      <div class="row" style="min-height: 100vh;">
         <div class="col-12">
             
