@@ -7,12 +7,18 @@
    	<link rel="stylesheet" href="./index_files/bootstrap.min.css">
 	<script src="./index_files/ScrollMagic.min.js.download"></script>
     <style>
+        html, 
+        body {
+        height: 100%;
+        }
+
 
 		p {
 			font-family: 'Open Sans', sans-serif;
 			color:#353536;
 			font-weight:bold;
             padding-left:10%;
+            font-size:20px;
 		}
 
 		svg {
@@ -93,13 +99,23 @@
             opacity:0.5;
         }
 
+    .row {
+    height: 100%;
+    
+        }
+
+    .col-sm {
+        text: center;
+        vertical-align: middle;
+    }
+
 	</style>
 
 
 </head>
 <body>
-  <main role="main" class="container-fluid">
-     <div class="row">
+  <main role="main" class="container-fluid" >
+     <div class="row" style="min-height: 100vh;">
         <div class="col-12">
             
                <img src="images/Intro.svg" class="img_2" alt="Responsive image" id="intro">
@@ -114,10 +130,13 @@
         <br><br>
         <br><br>
         <br><br>
-     <div class="row">
+
+ 
+
+     <div class="row" style="min-height: 100vh;">
      	
 
-     	<div class="col-3">
+     	<div class="col-sm-3">
      	
         <p id="text1"> Part of the <test style="color:#fe5f1a">City Scanner</test> project, Flatburn is an <test style="color:#fe5f1a">open-source</test> environmental sensor that can be mounted on vehicles.</p>
 
@@ -211,7 +230,7 @@
 
         
      	</div>
-     	<div class="col-9">
+     	<div class="col-sm-9">
      		<div id="visualdiv">
                 <img class="img" src="images/1a.png" id="img">
      		</div>
@@ -221,12 +240,56 @@
 
      	</div>
     
+         
+    </div>
+
+
+     <div class="row" style="min-height: 100vh;" >
+        <div class="col-sm" style="display: flex; justify-content: center; align-items: center; height: 100vh">
+            
+            <p>Build</p>
+               
+            </div>
+
+        <div class="col-sm" style="display: flex; justify-content: center; align-items: center; height: 100vh">
+        
+            <p>Explore</p>
+            
+            </div>
+
+        <div class="col-sm" style="display: flex; justify-content: center; align-items: center; height: 100vh">
+    
+            <p>Learn</p>
+            
+            </div>
+
      </div>
 
+     <div class="row" style="min-height: 100vh;" >
+        <div class="col-sm" style="display: flex; justify-content: center; align-items: center; height: 100vh">
+            
+            <p>Build</p>
+               
+            </div>
+
+        <div class="col-sm" style="display: flex; justify-content: center; align-items: center; height: 100vh">
+        
+            <p>Explore</p>
+            
+            </div>
+
+        <div class="col-sm" style="display: flex; justify-content: center; align-items: center; height: 100vh">
+    
+            <p>Learn</p>
+            
+            </div>
+
+     </div>
+    </main>
 
  
      
-  </main><!-- /.container -->
+  <!-- /.container -->
 
 
 <script type="text/javascript">    
