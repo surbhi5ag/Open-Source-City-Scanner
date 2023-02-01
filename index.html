@@ -137,9 +137,25 @@
     top: 0;
     left: 0;
 }
+        
+.themaps{
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
 
     .fish {
         opacity: 0;}
+        
+        .rabbit{
+            z-index: 100;
+            
+    }
+        
+        .fishok {
+        opacity: 1;}
         
         .rabbit{
             z-index: 100;
@@ -200,6 +216,8 @@ for (let i = 0; i < 50; i++) {
 			}
 		}
 	);
+        
+    
                 
                 
                 var disappear = TweenMax.to("#myimg", 1, {className: "+=fish"});
@@ -235,23 +253,10 @@ for (let i = 0; i < 50; i++) {
         
         
 <!--  <main role="main" class="container-fluid" >-->
-     <div class="row" style="min-height: 100vh;">
+     <div class="row" style="height: 100vh;">
         <div class="col-12">
-            
-<!--               <img src="images/Intro.svg" class="img_2" alt="Responsive image" id="intro">-->
-<!--
-               <div class="centered_1" id="intro1">Centered</div>
-               <div class="centered_2" id="intro2">Centered</div>
-               <div class="centered_3" id="intro3">Centered</div>
--->
             </div>
      </div>
-     <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
 
  
 
@@ -352,9 +357,127 @@ for (let i = 0; i < 50; i++) {
 
         
      	</div>
+         
+         <script type="text/javascript">    
+    var controller = new ScrollMagic.Controller();
+    
+    
+    var obj2 = {curImg: 0};
+    
+	// create animation tween
+	var runner2 = TweenMax.to(obj2, 0.5,
+		{
+			curImg: images2.length - 1,	// animate propery curImg to number of images
+			roundProps: "curImg",				// only integers so it can be used as an array index
+			repeat: 0,									// repeat 3 times
+			immediateRender: true,			// load first image automatically
+			ease: Linear.easeNone,			// show every image the same ammount of time
+			onUpdate: function () {
+			  $("#img1").attr("src", images2[obj2.curImg]); // set the image source
+			}
+		}
+	);
+    
+    var obj3 = {curImg: 0};
+    
+	// create animation tween
+	var runner3 = TweenMax.to(obj3, 0.5,
+		{
+			curImg: images2.length - 1,	// animate propery curImg to number of images
+			roundProps: "curImg",				// only integers so it can be used as an array index
+			repeat: 0,									// repeat 3 times
+			immediateRender: true,			// load first image automatically
+			ease: Linear.easeNone,			// show every image the same ammount of time
+			onUpdate: function () {
+			  $("#img1").attr("src", images2[obj3.curImg]); // set the image source
+			}
+		}
+	);
+
+        new ScrollMagic.Scene({triggerElement: "#text1", duration: 300 })
+//            .on('start', function() {
+//            document.getElementById("intro").src = "images/Intro_1.svg"
+//            console.log('Function is triggered')
+//                }) 
+            .setTween(runner2)
+            .addTo(controller);
+
+    
+        new ScrollMagic.Scene({triggerElement: "#text2", duration: 300})
+            .setTween(runner3)
+            .addTo(controller);
+    
+
+
+//        new ScrollMagic.Scene({triggerElement: "#intro2"})
+//            .on('start', function() {
+//            document.getElementById("intro").src = "images/Intro_2.svg"
+//            console.log('Function is triggered')
+//                }) 
+//            .addTo(controller);
+//
+//        new ScrollMagic.Scene({triggerElement: "#intro3"})
+//            .on('start', function() {
+//            document.getElementById("intro").src = "images/Intro_3.svg"
+//            console.log('Function is triggered')
+//                }) 
+//            .addTo(controller);
+//
+//        new ScrollMagic.Scene({triggerElement: "#text1"})
+//            .setClassToggle("img", "active") 
+//            .addTo(controller);
+//
+//        new ScrollMagic.Scene({triggerElement: "#text1", duration: 300})
+//            .on('start', function() {
+//            document.getElementById("img").src = "images/1a.png"
+//            console.log('Function is triggered')
+//                }) 
+//            .addTo(controller);
+//
+//
+//        new ScrollMagic.Scene({triggerElement: "#text2", duration: 300})
+//            .on('start', function() {
+//            document.getElementById("img").src = "images/1b.png"
+//            console.log('Function is triggered')
+//                }) 
+//            .addTo(controller);
+//
+//
+//        new ScrollMagic.Scene({triggerElement: "#text3"})
+//            .on('start', function() {
+//            document.getElementById("img").src = "images/1j.png"
+//            console.log('Function is triggered')
+//                }) 
+//            .addTo(controller);           
+//								
+//        new ScrollMagic.Scene({triggerElement: "#text4"})
+//            .on('start', function() {
+//            document.getElementById("img").src = "images/1d.png"
+//            console.log('Function is triggered')
+//                }) 
+//            .addTo(controller); 
+//
+//        new ScrollMagic.Scene({triggerElement: "#text5"})
+//            .on('start', function() {
+//            document.getElementById("img").src = "images/1f.png"
+//            console.log('Function is triggered')
+//                }) 
+//            .addTo(controller); 
+//
+//        new ScrollMagic.Scene({triggerElement: "#text6"})
+//            .on('start', function() {
+//            document.getElementById("img").src = "images/1a.png"
+//            console.log('Function is triggered')
+//                }) 
+//            .addTo(controller); 
+            
+            
+</script>
+         
+         
      	<div class="col-9">
      		<div id="visualdiv">
-                <img class="img" src="images/1a.png" id="img">
+                <img class="img" src="./images/cover-00.jpg" id="img1">
      		</div>
 
 
@@ -366,7 +489,7 @@ for (let i = 0; i < 50; i++) {
     </div>
 
 
-     <div class="row" style="min-height: 100vh;" >
+     <div class="row" style="min-height: 100vh; opacity: 0" id="links">
         <div class="col-sm" style="display: flex; justify-content: center; align-items: center; height: 100vh">
             
             <p>Build</p>
@@ -387,152 +510,88 @@ for (let i = 0; i < 50; i++) {
 
      </div>
 
-     <div class="row" style="min-height: 100vh;" >
+     <div class="row" style="height: 100vh; opacity: 0" id="maps" >
+        <div class="col-md-12" style="height: 100vh">
+            
+            <img class="themaps" id="themaps" src="./images/1c.png">
+               
+            </div>
+
+        
+         </div>
+     
+     <div class="row" style="height: 100vh; opacity: 0" id="footer" >
         <div class="col-sm" style="display: flex; justify-content: center; align-items: center; height: 100vh">
             
-            <p>Build</p>
+            <p>This</p>
                
             </div>
 
         <div class="col-sm" style="display: flex; justify-content: center; align-items: center; height: 100vh">
         
-            <p>Explore</p>
+            <p>is the</p>
             
             </div>
 
         <div class="col-sm" style="display: flex; justify-content: center; align-items: center; height: 100vh">
     
-            <p>Learn</p>
+            <p>footer</p>
             
             </div>
+         </div>
+         
+    <script>
+         
+          var controller = new ScrollMagic.Controller();
 
-     </div>
+        
+         new ScrollMagic.Scene({triggerElement: "#links", triggerHook: 0.8, offset:300,  duration: 150 })
+            .setTween("#links", {opacity: "1"})
+//            .addIndicators({name: "links on"})
+            .addTo(controller);
+        
+        new ScrollMagic.Scene({triggerElement: "#maps", triggerHook: 0.8, duration: 150 })
+            .setTween("#links", {opacity: "0"})
+//            .addIndicators({name: "links off"})
+            .addTo(controller);
+        
+        new ScrollMagic.Scene({triggerElement: "#maps", triggerHook: 0.8, offset: 300, duration: 150 })
+            .setTween("#maps", {opacity: "1"}, )
+//            .addIndicators({name: "maps on"})
+            .addTo(controller);
+        
+        new ScrollMagic.Scene({triggerElement: "#footer", triggerHook: 0.8, duration: 150 })
+            .setTween("#maps", {opacity: "0"})
+//            .addIndicators({name: "maps off"})
+            .addTo(controller);
+        
+        new ScrollMagic.Scene({triggerElement: "#footer", triggerHook: 0.8, offset: 300, duration: 150 })
+            .setTween("#footer", {opacity: "1"}, )
+//            .addIndicators({name: "footer"})
+            .addTo(controller);
+        
+
+        
+        
+         
+         
+     
+     </script>
+         
+     
+
     </main>
 
  
      
-  <!-- /.container -->
 
 
-<script type="text/javascript">    
-    var controller = new ScrollMagic.Controller();
-
-        new ScrollMagic.Scene({triggerElement: "#intro1"})
-            .on('start', function() {
-            document.getElementById("intro").src = "images/Intro_1.svg"
-            console.log('Function is triggered')
-                }) 
-            .addTo(controller);
-    
 
 
-        new ScrollMagic.Scene({triggerElement: "#intro2"})
-            .on('start', function() {
-            document.getElementById("intro").src = "images/Intro_2.svg"
-            console.log('Function is triggered')
-                }) 
-            .addTo(controller);
-
-        new ScrollMagic.Scene({triggerElement: "#intro3"})
-            .on('start', function() {
-            document.getElementById("intro").src = "images/Intro_3.svg"
-            console.log('Function is triggered')
-                }) 
-            .addTo(controller);
-
-        new ScrollMagic.Scene({triggerElement: "#text1"})
-            .setClassToggle("img", "active") 
-            .addTo(controller);
-
-        new ScrollMagic.Scene({triggerElement: "#text1", duration: 300})
-            .on('start', function() {
-            document.getElementById("img").src = "images/1a.png"
-            console.log('Function is triggered')
-                }) 
-            .addTo(controller);
-
-
-        new ScrollMagic.Scene({triggerElement: "#text2", duration: 300})
-            .on('start', function() {
-            document.getElementById("img").src = "images/1b.png"
-            console.log('Function is triggered')
-                }) 
-            .addTo(controller);
-
-
-        new ScrollMagic.Scene({triggerElement: "#text3"})
-            .on('start', function() {
-            document.getElementById("img").src = "images/1j.png"
-            console.log('Function is triggered')
-                }) 
-            .addTo(controller);           
-								
-        new ScrollMagic.Scene({triggerElement: "#text4"})
-            .on('start', function() {
-            document.getElementById("img").src = "images/1d.png"
-            console.log('Function is triggered')
-                }) 
-            .addTo(controller); 
-
-        new ScrollMagic.Scene({triggerElement: "#text5"})
-            .on('start', function() {
-            document.getElementById("img").src = "images/1f.png"
-            console.log('Function is triggered')
-                }) 
-            .addTo(controller); 
-
-        new ScrollMagic.Scene({triggerElement: "#text6"})
-            .on('start', function() {
-            document.getElementById("img").src = "images/1a.png"
-            console.log('Function is triggered')
-                }) 
-            .addTo(controller); 
-            
-            
-</script>
 
 </body></html>
 
 
 
 
-<!--
-<script>
-	// define images
-	var images = [
-		"images/1a.png",
-		"images/1b.png",
-		"images/1c.png"
-	];
 
-	// TweenMax can tween any property of any object. We use this object to cycle through the array
-	var obj = {curImg: 0};
-
-	// create tween
-	var tween = TweenMax.to(obj, 0.5,
-		{
-			curImg: images.length - 1,	// animate propery curImg to number of images
-			roundProps: "curImg",				// only integers so it can be used as an array index
-			repeat: 3,									// repeat 3 times
-			immediateRender: true,			// load first image automatically
-			ease: Linear.easeNone,			// show every image the same ammount of time
-			onUpdate: function () {
-			  $("#myimg").attr("src", images[obj.curImg]); // set the image source
-			}
-		}
-	);
-
-	// init controller
-	var controller = new ScrollMagic.Controller();
-
-	// build scene
-	var scene = new ScrollMagic.Scene({triggerElement: "#trigger", duration: 300})
-					.setTween(tween)
-//					.addIndicators() // add indicators (requires plugin)
-					.addTo(controller);
-
-	// handle form change
-	$("form.move input[name=duration]:radio").change(function () {
-		scene.duration($(this).val());
-	});
-</script>-->
