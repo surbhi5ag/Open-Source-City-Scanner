@@ -29,7 +29,6 @@
 			font-family: 'Open Sans', sans-serif;
 			color:#353536;
 			font-weight:bold;
-            padding-left:10%;
             font-size:20px;
 		}
 
@@ -132,6 +131,15 @@
         
     .rabbit{
     width: 100vw;
+    height: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    vertical-align: middle;
+}
+        
+        .white{
+    width: 100vw;
     height: 100vh;
     position: absolute;
     top: 0;
@@ -149,10 +157,6 @@
     .fish {
         opacity: 0;}
         
-        .rabbit{
-            z-index: 100;
-            
-    }
         
         .fishok {
         opacity: 1;}
@@ -170,7 +174,28 @@
             
         }
         
+        .spacer {
+            margin-bottom: 80vh;
+        }
         
+        .footers{
+            padding-top: 15%;
+            padding-right: 5%;
+            padding-left: 5%;
+            font-size:13px;
+        }
+    
+        .story {
+            padding-left: 5%;
+        }
+        
+        .bigtext {
+            font-family: 'Open Sans', sans-serif;
+			color:#353536;
+			font-weight:lighter;
+            font-size:40px;
+            text-align: left;
+        }
 
 	</style>
 
@@ -178,11 +203,13 @@
 </head>
 <body>
  <main role="main" class="container-fluid" >
-   <div class="row">
+   <div class="row spacer">
      <div class="col-md-12" id="start">
     
         <p class="text-center col">We empower communities around the world <br> to monitor their environment.</p>
+        <img class="white" id="white" src="./images/white.jpg">
         <img class="rabbit" id="myimg" src="./images/intro-01.jpg">
+        
        </div>
      
     
@@ -221,6 +248,7 @@ for (let i = 0; i < 50; i++) {
                 
                 
                 var disappear = TweenMax.to("#myimg", 1, {className: "+=fish"});
+                var whitedisappear = TweenMax.to("#white", 1, {className: "+=fish"});
                 
 
 
@@ -243,6 +271,14 @@ for (let i = 0; i < 50; i++) {
 //					.addIndicators({name: "disappear"}) // add indicators (requires plugin)
 					.addTo(controller);               
 
+        
+                //COVER DISAPPEAR
+                new ScrollMagic.Scene({ duration: 100, offset: 350})
+					.setTween(whitedisappear)
+//					.addIndicators({name: "disappear"}) // add indicators (requires plugin)
+					.addTo(controller);  
+        
+        
             </script>
      </div>
         
@@ -253,17 +289,19 @@ for (let i = 0; i < 50; i++) {
         
         
 <!--  <main role="main" class="container-fluid" >-->
+<!--
      <div class="row" style="height: 100vh;">
         <div class="col-12">
             </div>
      </div>
+-->
 
  
 
      <div class="row" style="min-height: 100vh;">
      	
 
-     	<div class="col-3">
+     	<div class="col-3 story">
      	
         <p id="text1"> Part of the <test style="color:#fe5f1a">City Scanner</test> project, Flatburn is an <test style="color:#fe5f1a">open-source</test> environmental sensor that can be mounted on vehicles.</p>
 
@@ -534,19 +572,29 @@ for (let i = 1; i < 61; i++) {
      <div class="row" style="min-height: 100vh; opacity: 0" id="links">
         <div class="col-sm" style="display: flex; justify-content: center; align-items: center; height: 100vh">
             
-            <p>Build</p>
+            <p><span class="bigtext">Build</span> <br>
+            3D Files <br>
+            Handbook <br>
+            Checklist</p>
                
             </div>
 
         <div class="col-sm" style="display: flex; justify-content: center; align-items: center; height: 100vh">
         
-            <p>Explore</p>
+            <p> <span class="bigtext">Explore</span><br>
+            Datasets <br>
+            Data collection document</p>
+            
             
             </div>
 
         <div class="col-sm" style="display: flex; justify-content: center; align-items: center; height: 100vh">
     
-            <p>Learn</p>
+            <p><span class="bigtext">Learn</span><br>
+            Coding Exercise <br>
+            Facilitator Handbook</p>
+            
+            
             
             </div>
 
@@ -563,21 +611,47 @@ for (let i = 1; i < 61; i++) {
          </div>
      
      <div class="row" style="height: 100vh; opacity: 0" id="footer" >
-        <div class="col-sm" style="display: flex; justify-content: center; align-items: center; height: 100vh">
+        <div class="col-sm footers" style="display: flex, .text-center">
             
-            <p>This</p>
+            
+            <p class="footers"><span class="bigtext">Team</span> <br>
+            
+            Carlo Ratti Director <br>
+Simone Mora Research and Project Lead <br>
+Fábio Duarte Co-Lead and Design Manager <br><br>
+
+Research<br>
+Sanjana Paul, An Wang, Oluwatobi Oyinlola <br><br>
+
+Design <br>
+Niklas Hagemann (device), Surbhi Agrawal (website)<br><br><br>
+                <span class="bigtext">Collaboration</span> <br>
+                City Scanner has been funded by members of the Senseable City Lab Consortium. Special thanks to DAR Group, Teck...., EKTU, Stockholm, AMS Institute, Landwey, FAE ..., ETC ETC to be discussed with Simone.
+</p>
                
             </div>
 
-        <div class="col-sm" style="display: flex; justify-content: center; align-items: center; height: 100vh">
+        <div class="col-sm footers" style="display: flex, .text-center">
         
-            <p>is the</p>
+            <p class="footers"><span class="bigtext">Publications</span> <br>
+            todo... <br>
+            todo...<br>
+            </p>
             
             </div>
 
-        <div class="col-sm" style="display: flex; justify-content: center; align-items: center; height: 100vh">
+        <div class="col-sm footers" style="display: flex, .text-center">
     
-            <p>footer</p>
+            <p class="footers"><span class="bigtext">Press Material</span> <br>
+            
+            Here [LINK] you find high-res images, videos, and press release about Flatburn - the open source city scanner. <br><br>
+
+Explore more about the initiative at: <br>
+
+City Scanner [LINK] <br>
+Urban Sensing [LINK] <br>
+City Veins [LINK] <br>
+            </p>
             
             </div>
          </div>
