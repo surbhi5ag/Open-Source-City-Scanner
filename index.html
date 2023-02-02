@@ -363,7 +363,7 @@ for (let i = 0; i < 50; i++) {
              
     var images3 = [];
 
-for (let i = 0; i < 10; i++) {
+for (let i = 0; i < 4; i++) {
   const path = `./images/part1/clip1-${String(i).padStart(2, "0")}.png`;
   images3.push(path);
 }
@@ -385,18 +385,25 @@ for (let i = 0; i < 10; i++) {
 		}
 	);
     
+    var images4 = [];
+
+for (let i = 6; i < 56; i++) {
+  const path = `./images/part1/clip1-${String(i).padStart(2, "0")}.png`;
+  images4.push(path);
+}
+             
     var obj3 = {curImg: 0};
     
 	// create animation tween
 	var runner3 = TweenMax.to(obj3, 0.5,
 		{
-			curImg: images2.length - 1,	// animate propery curImg to number of images
+			curImg: images4.length - 1,	// animate propery curImg to number of images
 			roundProps: "curImg",				// only integers so it can be used as an array index
 			repeat: 0,									// repeat 3 times
 			immediateRender: true,			// load first image automatically
 			ease: Linear.easeNone,			// show every image the same ammount of time
 			onUpdate: function () {
-			  $("#img1").attr("src", images2[obj3.curImg]); // set the image source
+			  $("#img1").attr("src", images4[obj3.curImg]); // set the image source
 			}
 		}
 	);
