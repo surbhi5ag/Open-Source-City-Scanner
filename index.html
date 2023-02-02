@@ -407,6 +407,30 @@ for (let i = 5; i < 61; i++) {
 			}
 		}
 	);
+             
+             
+    var images5 = [];
+
+for (let i = 1; i < 61; i++) {
+  const path = `./images/part2/clip2-${String(i).padStart(2, "0")}.png`;
+  images5.push(path);
+}
+             
+    var obj4 = {curImg: 0};
+    
+	// create animation tween
+	var runner4 = TweenMax.to(obj4, 0.5,
+		{
+			curImg: images5.length - 1,	// animate propery curImg to number of images
+			roundProps: "curImg",				// only integers so it can be used as an array index
+			repeat: 0,									// repeat 3 times
+			immediateRender: true,			// load first image automatically
+			ease: Linear.easeNone,			// show every image the same ammount of time
+			onUpdate: function () {
+			  $("#img1").attr("src", images5[obj4.curImg]); // set the image source
+			}
+		}
+	);
 
         new ScrollMagic.Scene({triggerElement: "#text1", duration: 300 })
 //            .on('start', function() {
@@ -419,6 +443,10 @@ for (let i = 5; i < 61; i++) {
     
         new ScrollMagic.Scene({triggerElement: "#text2", duration: 300})
             .setTween(runner3)
+            .addTo(controller);
+             
+        new ScrollMagic.Scene({triggerElement: "#text3", duration: 300})
+            .setTween(runner4)
             .addTo(controller);
     
 
