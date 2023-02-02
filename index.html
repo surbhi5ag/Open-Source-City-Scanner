@@ -360,6 +360,13 @@ for (let i = 0; i < 50; i++) {
          
          <script type="text/javascript">    
     var controller = new ScrollMagic.Controller();
+             
+    var images3 = [];
+
+for (let i = 0; i < 121; i++) {
+  const path = `./images/part1/clip1-${String(i).padStart(2, "0")}.png`;
+  images3.push(path);
+}
     
     
     var obj2 = {curImg: 0};
@@ -367,13 +374,13 @@ for (let i = 0; i < 50; i++) {
 	// create animation tween
 	var runner2 = TweenMax.to(obj2, 0.5,
 		{
-			curImg: images2.length - 1,	// animate propery curImg to number of images
+			curImg: images3.length - 1,	// animate propery curImg to number of images
 			roundProps: "curImg",				// only integers so it can be used as an array index
 			repeat: 0,									// repeat 3 times
 			immediateRender: true,			// load first image automatically
 			ease: Linear.easeNone,			// show every image the same ammount of time
 			onUpdate: function () {
-			  $("#img1").attr("src", images2[obj2.curImg]); // set the image source
+			  $("#img1").attr("src", images3[obj2.curImg]); // set the image source
 			}
 		}
 	);
