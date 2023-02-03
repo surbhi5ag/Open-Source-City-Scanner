@@ -1,33 +1,33 @@
 var controller = new ScrollMagic.Controller();
              
-    var images3 = [];
-
-for (let i = 0; i < 3; i++) {
-  const path = `./images/part1/clip1-${String(i).padStart(2, "0")}.png`;
-  images3.push(path);
-}
-    
-    
-    var obj2 = {curImg: 0};
-    
-	// create animation tween
-	var runner2 = TweenMax.to(obj2, 0.5,
-		{
-			curImg: images3.length - 1,	// animate propery curImg to number of images
-			roundProps: "curImg",				// only integers so it can be used as an array index
-			repeat: 0,									// repeat 3 times
-			immediateRender: true,			// load first image automatically
-			ease: Linear.easeNone,			// show every image the same ammount of time
-			onUpdate: function () {
-			  $("#img1").attr("src", images3[obj2.curImg]); // set the image source
-			}
-		}
-	);
+//    var images3 = [];
+//
+//for (let i = 0; i < 3; i++) {
+//  const path = `./images/part1/clip1-${String(i).padStart(2, "0")}.png`;
+//  images3.push(path);
+//}
+//    
+//    
+//    var obj2 = {curImg: 0};
+//    
+//	// create animation tween
+//	var runner2 = TweenMax.to(obj2, 0.5,
+//		{
+//			curImg: images3.length - 1,	// animate propery curImg to number of images
+//			roundProps: "curImg",				// only integers so it can be used as an array index
+//			repeat: 0,									// repeat 3 times
+//			immediateRender: true,			// load first image automatically
+//			ease: Linear.easeNone,			// show every image the same ammount of time
+//			onUpdate: function () {
+//			  $("#img1").attr("src", images3[obj2.curImg]); // set the image source
+//			}
+//		}
+//	);
     
     var images4 = [];
 
-for (let i = 5; i < 61; i++) {
-  const path = `./images/part1/clip1-${String(i).padStart(2, "0")}.png`;
+for (let i = 1; i <= 240; i++) {
+  const path = `./images/animations/${String(i).padStart(4, "0")}.png`;
   images4.push(path);
 }
              
@@ -48,29 +48,29 @@ for (let i = 5; i < 61; i++) {
 	);
              
              
-    var images5 = [];
-
-for (let i = 1; i < 61; i++) {
-  const path = `./images/part2/clip2-${String(i).padStart(2, "0")}.png`;
-  images5.push(path);
-}
-             
-    var obj4 = {curImg: 0};
-    
-	// create animation tween
-	var runner4 = TweenMax.to(obj4, 0.5,
-		{
-			curImg: images5.length - 1,	// animate propery curImg to number of images
-			roundProps: "curImg",				// only integers so it can be used as an array index
-			repeat: 0,									// repeat 3 times
-			immediateRender: true,			// load first image automatically
-			ease: Linear.easeNone,			// show every image the same ammount of time
-			onUpdate: function () {
-			  $("#img1").attr("src", images5[obj4.curImg]); // set the image source
-			}
-		}
-	);
-
+//    var images5 = [];
+//
+//for (let i = 1; i < 61; i++) {
+//  const path = `./images/part2/clip2-${String(i).padStart(2, "0")}.png`;
+//  images5.push(path);
+//}
+//             
+//    var obj4 = {curImg: 0};
+//    
+//	// create animation tween
+//	var runner4 = TweenMax.to(obj4, 0.5,
+//		{
+//			curImg: images5.length - 1,	// animate propery curImg to number of images
+//			roundProps: "curImg",				// only integers so it can be used as an array index
+//			repeat: 0,									// repeat 3 times
+//			immediateRender: true,			// load first image automatically
+//			ease: Linear.easeNone,			// show every image the same ammount of time
+//			onUpdate: function () {
+//			  $("#img1").attr("src", images5[obj4.curImg]); // set the image source
+//			}
+//		}
+//	);
+//
 
 
 
@@ -152,22 +152,22 @@ for (let i = 1; i < 61; i++) {
 
 
 
-        new ScrollMagic.Scene({triggerElement: "#trigger1", duration: 300 })
-//            .on('start', function() {
-//            document.getElementById("intro").src = "images/Intro_1.svg"
-//            console.log('Function is triggered')
-//                }) 
-            .setTween(runner2)
-            .addTo(controller);
+//        new ScrollMagic.Scene({triggerElement: "#trigger1", duration: 300 })
+////            .on('start', function() {
+////            document.getElementById("intro").src = "images/Intro_1.svg"
+////            console.log('Function is triggered')
+////                }) 
+//            .setTween(runner2)
+//            .addTo(controller);
 
     
-        new ScrollMagic.Scene({triggerElement: "#trigger2", duration: 300})
+        new ScrollMagic.Scene({triggerElement: "#trigger1", duration: 4000})
             .setTween(runner3)
             .addTo(controller);
              
-        new ScrollMagic.Scene({triggerElement: "#trigger3", duration: 300})
-            .setTween(runner4)
-            .addTo(controller);
+//        new ScrollMagic.Scene({triggerElement: "#trigger3", duration: 300})
+//            .setTween(runner4)
+//            .addTo(controller);
     
 
 
