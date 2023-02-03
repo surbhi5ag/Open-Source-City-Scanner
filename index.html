@@ -196,6 +196,25 @@
             font-size:40px;
             text-align: left;
         }
+        
+        #pinContainer {
+		width: 100vw;
+		height: 100vh;
+		overflow: hidden;
+		-webkit-perspective: 1000;
+		        perspective: 1000;
+	}
+	#slideContainer {
+		width: 400vw; /* to contain 4 panels, each with 100% of window width */
+		height: 100vh;
+        overflow: hidden;
+	}
+	.panel {
+		height: 100%;
+		width: 25%; /* relative to parent -> 25% of 400% = 100% of window width */
+		float: left;
+        overflow: hidden;
+	}
 
 	</style>
 
@@ -557,7 +576,7 @@ for (let i = 1; i < 61; i++) {
          
      	<div class="col-9">
      		<div id="visualdiv">
-                <img class="img" src="./images/cover-00.jpg" id="img1">
+                <img class="img" src="./images/part1/clip1-00.png" id="img1">
      		</div>
 
 
@@ -568,6 +587,24 @@ for (let i = 1; i < 61; i++) {
          
     </div>
 
+     
+<div  id="pinContainer">
+	<div id="slideContainer">
+		<div class="panel" style="background-color: black;">
+			<b>ONE</b>
+		</div>
+		<div class="panel" style="background-color: dimgrey;">
+			<b>TWO</b>
+		</div>
+		<div class="panel" style="background-color: darkgrey;">
+			<b>THREE</b>
+		</div>
+		<div class="panel" style="background-color: lightgray;">
+			<b>FOUR</b>
+		</div>
+	</div>
+</div>
+     
 
      <div class="row" style="min-height: 100vh; opacity: 0" id="links">
         <div class="col-sm" style="display: flex; justify-content: center; align-items: center; height: 100vh">
@@ -659,6 +696,31 @@ City Veins [LINK] <br>
     <script>
          
           var controller = new ScrollMagic.Controller();
+        
+        var wipeAnimation = new TimelineMax()
+			// animate to second panel
+			
+			.to("#slideContainer", 1,   {x: "-25%"})	// move in to first panel
+			
+			// animate to third panel
+			
+			.to("#slideContainer", 1,   {x: "-50%"})
+			
+			// animate to forth panel
+			
+			.to("#slideContainer", 1,   {x: "-75%"})
+			
+
+		// create scene to pin and link animation
+		new ScrollMagic.Scene({
+				triggerElement: "#pinContainer",
+				triggerHook: "onLeave",
+				duration: "500%"
+			})
+			.setPin("#pinContainer")
+			.setTween(wipeAnimation)
+			.addIndicators() // add indicators (requires plugin)
+			.addTo(controller);
 
         
          new ScrollMagic.Scene({triggerElement: "#links", triggerHook: 0.8, offset:300,  duration: 150 })
