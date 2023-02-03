@@ -21,223 +21,8 @@
     <script src="./assets/js/lib/modernizr.custom.min.js"></script>
     <script src="./assets/js/lib/iscroll-probe.js"></script>
 -->
-    <style>
-        html, 
-        body {
-        height: 100%;
-        }
 
-
-		p {
-			font-family: 'Open Sans', sans-serif;
-			color:#353536;
-			font-weight:bold;
-            font-size:20px;
-		}
-        
-        .container-fluid {
-            padding-left: 0px!important;
-        }
-
-		svg {
-			width:100%;
-			height:600px;
-			padding-left:0%;
-			padding-right:50px;		
-		}
-		
-		h1 {
-			font-size:60px;
-			font-weight:200;
-			line-height:1.3;
-		}
-		
-
-
-    #visualdiv {
-          position: -webkit-sticky;
-          position: sticky;
-          top: -50px;
-          padding: 10px;
-          transition: opacity 0.8s;
-         -webkit-transition: opacity 0.8s;
-        }
-
-
-   .img{
-    max-width: 100%;
-    max-height: 100%;
-    position: relative;
-    opacity: 1;
-    transition: opacity 1.2s;
-    -webkit-transition: opacity 1.2s;
-        }
-
-    .img_2{
-    max-width: 100%;
-    max-height: 100%;
-    position: relative;
-    opacity: 1;
-    transition: opacity 1.2s;
-    -webkit-transition: opacity 1.2s;
-        }
-
-
-	.active {
-        	opacity:1;
-    	}
-
-
-    .deactive {
-            opacity:0;
-        }
-
-     
-    .centered_1 {
-            position: absolute;
-            top: 30%;
-            left: 10%;
-            transform: translate(-50%, -50%);
-            opacity:0.5;
-        }
-
-    .centered_2 {
-            position: absolute;
-            top: 60%;
-            left: 10%;
-            transform: translate(-50%, -50%);
-            opacity:0.5;
-        }
-
-    .centered_3 {
-            position: absolute;
-            top: 90%;
-            left: 10%;
-            transform: translate(-50%, -50%);
-            opacity:0.5;
-        }
-
-    .row {
-    height: 100%;
-    
-        }
-
-    .col-sm {
-        text: center;
-        vertical-align: middle;
-    }
-        
-    #intro h1 {
-	position: absolute;
-	text-align: center;
-	width: 100%;
-	top: 45vh;
-    left: 25vw;
-	margin: 0;
-        font-size: 25pt;}
-        
-    .rabbit{
-    width: 100vw;
-    height: auto;
-    position: absolute;
-    top: 0;
-    left: 0;
-    vertical-align: middle;
-}
-        
-        .white{
-    width: 100vw;
-    height: 100vh;
-    position: absolute;
-    top: 0;
-    left: 0;
-}
-        
-.themaps{
-    width: 100vw;
-    height: 100vh;
-    position: absolute;
-    top: 0;
-    left: 0;
-}
-
-    .fish {
-        opacity: 0;}
-        
-        
-        .fishok {
-        opacity: 1;}
-        
-        .rabbit{
-            z-index: 100;
-            
-    }
-        
-    .text-center
-        {
-        padding-left:0!important;
-        top: 45vh;
-        font-size:30px;
-            
-        }
-        
-        .spacer {
-            margin-bottom: 80vh;
-        }
-        
-        .footers{
-            padding-top: 15%;
-            padding-right: 5%;
-            padding-left: 5%;
-            font-size:13px;
-        }
-    
-        .story {
-            padding-left: 5%;
-        }
-        
-        .bigtext {
-            font-family: 'Open Sans', sans-serif;
-			color:#353536;
-			font-weight:lighter;
-            font-size:40px;
-            text-align: left;
-        }
-        
-        #pinContainer {
-		width: 100vw;
-		height: 100vh;
-		overflow: hidden;
-		-webkit-perspective: 1000;
-		        perspective: 1000;
-	}
-	#slideContainer {
-		width: 400vw; /* to contain 4 panels, each with 100% of window width */
-		height: 100vh;
-        overflow: hidden;
-	}
-	.panel {
-		height: 100%;
-		width: 25%; /* relative to parent -> 25% of 400% = 100% of window width */
-		float: left;
-        overflow: hidden;
-	}
-        
-        .DIY {
-            position: absolute;
-            width: 20%;
-            height: auto,
-        }
-        
-        .DIY-text {
-            position: absolute;
-            font-size: 30px;
-            margin-left: 10%;
-            margin-top: 1%;
-        }
-
-	</style>
-
+<link rel="stylesheet" href="./css/styles.css">
 
 </head>
 <body>
@@ -251,74 +36,8 @@
         
        </div>
      
-    
-    
-    <script> 
-        
-        var controller = new ScrollMagic.Controller();
-        
-        
-            var images2 = [];
-
-for (let i = 0; i < 50; i++) {
-  const path = `./images/cover-${String(i).padStart(2, "0")}.jpg`;
-  images2.push(path);
-}
-                
-    
-    // TweenMax can tween any property of any object. We use this object to cycle through the array
-	var obj = {curImg: 0};
-
-	// create animation tween
-	var runner = TweenMax.to(obj, 0.5,
-		{
-			curImg: images2.length - 1,	// animate propery curImg to number of images
-			roundProps: "curImg",				// only integers so it can be used as an array index
-			repeat: 0,									// repeat 3 times
-			immediateRender: true,			// load first image automatically
-			ease: Linear.easeNone,			// show every image the same ammount of time
-			onUpdate: function () {
-			  $("#myimg").attr("src", images2[obj.curImg]); // set the image source
-			}
-		}
-	);
-        
-    
-                
-                
-                var disappear = TweenMax.to("#myimg", 1, {className: "+=fish"});
-                var whitedisappear = TweenMax.to("#white", 1, {className: "+=fish"});
-                
-
-
-                // container pin
-                var startpin = new ScrollMagic.Scene({
-                        duration: 500
-                    })
-                    .setPin("div#start")
-                    .addTo(controller);
-                
-                //COVER ANIMATION
-                new ScrollMagic.Scene({ duration: 300})
-					.setTween(runner)
-//					.addIndicators({name: "animation"}) // add indicators (requires plugin)
-					.addTo(controller);
-                
-                //COVER DISAPPEAR
-                new ScrollMagic.Scene({ duration: 100, offset: 350})
-					.setTween(disappear)
-//					.addIndicators({name: "disappear"}) // add indicators (requires plugin)
-					.addTo(controller);               
-
-        
-                //COVER DISAPPEAR
-                new ScrollMagic.Scene({ duration: 100, offset: 350})
-					.setTween(whitedisappear)
-//					.addIndicators({name: "disappear"}) // add indicators (requires plugin)
-					.addTo(controller);  
-        
-        
-            </script>
+       
+       <script type="text/javascript" src="./assets/js/intro.js"></script>
      </div>
         
     
@@ -340,261 +59,46 @@ for (let i = 0; i < 50; i++) {
      <div class="row" style="min-height: 100vh;">
      	
 
-     	<div class="col-3 story">
-     	
-        <p id="text1"> Part of the <test style="color:#fe5f1a">City Scanner</test> project, Flatburn is an <test style="color:#fe5f1a">open-source</test> environmental sensor that can be mounted on vehicles.</p>
+     	<div class="col-4 story">
+        <div id="trigger1"></div>
+        <p id="text1" class="spacer s0"> Part of the <test style="color:#fe5f1a">City Scanner</test> project, Flatburn is an <test style="color:#fe5f1a">open-source</test> environmental sensor that can be mounted on vehicles.</p>
 
-     	<br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
+   
 
-        <p id="text2">This <test style="color:#fe5f1a">autonomous</test> device is powered using a solar panel and is mounted on vehicles using magnetic pads.</p>
+        <div id="trigger2" ></div>
+        <p id="text2" class="spacer s0">This <test style="color:#fe5f1a">autonomous</test> device is powered using a solar panel and is mounted on vehicles using magnetic pads.</p>
         
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-
-        <p id="text3">Flatburn is <test style="color:#fe5f1a">3D printed.</test></p>
+ 
+        <div id="trigger3" ></div>
+        <p id="text3" class="spacer s0">Flatburn is <test style="color:#fe5f1a">3D printed.</test></p>
         
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
 
-        <p id="text4">The <test style="color:#fe5f1a">core module</test> houses the PCB, antenna, and data storage board.</p>
+
+        <div id="trigger4" ></div>
+        <p id="text4" class="spacer s0">The <test style="color:#fe5f1a">core module</test> houses the PCB, antenna, and data storage board.</p>
         
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
 
-        <p id="text5"> The <test style="color:#fe5f1a">sensing module</test> houses heat, noise and air quality sensors..</p>
+
+        <div id="trigger5" ></div>
+        <p id="text5" class="spacer s0"> The <test style="color:#fe5f1a">sensing module</test> houses heat, noise and air quality sensors..</p>
         
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
 
-        <p id="text6">Build your own Flatburn.
+        <div id="trigger6" ></div>
+        <p id="text6" class="spacer s0">Build your own Flatburn.
             <br><br>
             Help your community
             monitor its environment. </p>
-        
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
-        <br><br>
+
 
 
       
-
         
      	</div>
          
-         <script type="text/javascript">    
-    var controller = new ScrollMagic.Controller();
-             
-    var images3 = [];
-
-for (let i = 0; i < 3; i++) {
-  const path = `./images/part1/clip1-${String(i).padStart(2, "0")}.png`;
-  images3.push(path);
-}
-    
-    
-    var obj2 = {curImg: 0};
-    
-	// create animation tween
-	var runner2 = TweenMax.to(obj2, 0.5,
-		{
-			curImg: images3.length - 1,	// animate propery curImg to number of images
-			roundProps: "curImg",				// only integers so it can be used as an array index
-			repeat: 0,									// repeat 3 times
-			immediateRender: true,			// load first image automatically
-			ease: Linear.easeNone,			// show every image the same ammount of time
-			onUpdate: function () {
-			  $("#img1").attr("src", images3[obj2.curImg]); // set the image source
-			}
-		}
-	);
-    
-    var images4 = [];
-
-for (let i = 5; i < 61; i++) {
-  const path = `./images/part1/clip1-${String(i).padStart(2, "0")}.png`;
-  images4.push(path);
-}
-             
-    var obj3 = {curImg: 0};
-    
-	// create animation tween
-	var runner3 = TweenMax.to(obj3, 0.5,
-		{
-			curImg: images4.length - 1,	// animate propery curImg to number of images
-			roundProps: "curImg",				// only integers so it can be used as an array index
-			repeat: 0,									// repeat 3 times
-			immediateRender: true,			// load first image automatically
-			ease: Linear.easeNone,			// show every image the same ammount of time
-			onUpdate: function () {
-			  $("#img1").attr("src", images4[obj3.curImg]); // set the image source
-			}
-		}
-	);
-             
-             
-    var images5 = [];
-
-for (let i = 1; i < 61; i++) {
-  const path = `./images/part2/clip2-${String(i).padStart(2, "0")}.png`;
-  images5.push(path);
-}
-             
-    var obj4 = {curImg: 0};
-    
-	// create animation tween
-	var runner4 = TweenMax.to(obj4, 0.5,
-		{
-			curImg: images5.length - 1,	// animate propery curImg to number of images
-			roundProps: "curImg",				// only integers so it can be used as an array index
-			repeat: 0,									// repeat 3 times
-			immediateRender: true,			// load first image automatically
-			ease: Linear.easeNone,			// show every image the same ammount of time
-			onUpdate: function () {
-			  $("#img1").attr("src", images5[obj4.curImg]); // set the image source
-			}
-		}
-	);
-
-        new ScrollMagic.Scene({triggerElement: "#text1", duration: 300 })
-//            .on('start', function() {
-//            document.getElementById("intro").src = "images/Intro_1.svg"
-//            console.log('Function is triggered')
-//                }) 
-            .setTween(runner2)
-            .addTo(controller);
-
-    
-        new ScrollMagic.Scene({triggerElement: "#text2", duration: 300})
-            .setTween(runner3)
-            .addTo(controller);
-             
-        new ScrollMagic.Scene({triggerElement: "#text3", duration: 300})
-            .setTween(runner4)
-            .addTo(controller);
-    
-
-
-//        new ScrollMagic.Scene({triggerElement: "#intro2"})
-//            .on('start', function() {
-//            document.getElementById("intro").src = "images/Intro_2.svg"
-//            console.log('Function is triggered')
-//                }) 
-//            .addTo(controller);
-//
-//        new ScrollMagic.Scene({triggerElement: "#intro3"})
-//            .on('start', function() {
-//            document.getElementById("intro").src = "images/Intro_3.svg"
-//            console.log('Function is triggered')
-//                }) 
-//            .addTo(controller);
-//
-//        new ScrollMagic.Scene({triggerElement: "#text1"})
-//            .setClassToggle("img", "active") 
-//            .addTo(controller);
-//
-//        new ScrollMagic.Scene({triggerElement: "#text1", duration: 300})
-//            .on('start', function() {
-//            document.getElementById("img").src = "images/1a.png"
-//            console.log('Function is triggered')
-//                }) 
-//            .addTo(controller);
-//
-//
-//        new ScrollMagic.Scene({triggerElement: "#text2", duration: 300})
-//            .on('start', function() {
-//            document.getElementById("img").src = "images/1b.png"
-//            console.log('Function is triggered')
-//                }) 
-//            .addTo(controller);
-//
-//
-//        new ScrollMagic.Scene({triggerElement: "#text3"})
-//            .on('start', function() {
-//            document.getElementById("img").src = "images/1j.png"
-//            console.log('Function is triggered')
-//                }) 
-//            .addTo(controller);           
-//								
-//        new ScrollMagic.Scene({triggerElement: "#text4"})
-//            .on('start', function() {
-//            document.getElementById("img").src = "images/1d.png"
-//            console.log('Function is triggered')
-//                }) 
-//            .addTo(controller); 
-//
-//        new ScrollMagic.Scene({triggerElement: "#text5"})
-//            .on('start', function() {
-//            document.getElementById("img").src = "images/1f.png"
-//            console.log('Function is triggered')
-//                }) 
-//            .addTo(controller); 
-//
-//        new ScrollMagic.Scene({triggerElement: "#text6"})
-//            .on('start', function() {
-//            document.getElementById("img").src = "images/1a.png"
-//            console.log('Function is triggered')
-//                }) 
-//            .addTo(controller); 
-            
-            
-</script>
+         <script type="text/javascript" src="./assets/js/device_animation.js"></script>
          
          
-     	<div class="col-9">
+     	<div class="col-8">
      		<div id="visualdiv">
                 <img class="img" src="./images/part1/clip1-00.png" id="img1">
      		</div>
@@ -628,7 +132,9 @@ for (let i = 1; i < 61; i++) {
 		</div>
 	</div>
 </div>
-     
+
+
+
 
      <div class="row" style="min-height: 100vh; opacity: 0" id="links">
         <div class="col-sm" style="display: flex; justify-content: center; align-items: center; height: 100vh">
@@ -679,14 +185,14 @@ for (let i = 1; i < 61; i++) {
             <p class="footers"><span class="bigtext">Team</span> <br>
             
             Carlo Ratti Director <br>
-Simone Mora Research and Project Lead <br>
-Fábio Duarte Co-Lead and Design Manager <br><br>
+            Simone Mora Research and Project Lead <br>
+            Fábio Duarte Co-Lead and Design Manager <br><br>
 
-Research<br>
-Sanjana Paul, An Wang, Oluwatobi Oyinlola <br><br>
+            Research<br>
+            Sanjana Paul, An Wang, Oluwatobi Oyinlola <br><br>
 
-Design <br>
-Niklas Hagemann (device), Surbhi Agrawal (website)<br><br><br>
+            Design <br>
+            Niklas Hagemann (device), Surbhi Agrawal and Diego Morra (website)<br><br><br>
                 <span class="bigtext">Collaboration</span> <br>
                 City Scanner has been funded by members of the Senseable City Lab Consortium. Special thanks to DAR Group, Teck...., EKTU, Stockholm, AMS Institute, Landwey, FAE ..., ETC ETC to be discussed with Simone.
 </p>
@@ -718,74 +224,13 @@ City Veins [LINK] <br>
             </div>
          </div>
          
-    <script>
-         
-          var controller = new ScrollMagic.Controller();
-        
-        var wipeAnimation = new TimelineMax()
-			// animate to second panel
-			
-			.to("#slideContainer", 1,   {x: "-25%"})	// move in to first panel
-			
-			// animate to third panel
-			
-			.to("#slideContainer", 1,   {x: "-50%"})
-			
-			// animate to forth panel
-			
-			.to("#slideContainer", 1,   {x: "-75%"})
-			
-
-		// create scene to pin and link animation
-		new ScrollMagic.Scene({
-				triggerElement: "#pinContainer",
-				triggerHook: "onLeave",
-				duration: "500%"
-			})
-			.setPin("#pinContainer")
-			.setTween(wipeAnimation)
-//			.addIndicators() // add indicators (requires plugin)
-			.addTo(controller);
-
-        
-         new ScrollMagic.Scene({triggerElement: "#links", triggerHook: 0.8, offset:300,  duration: 150 })
-            .setTween("#links", {opacity: "1"})
-//            .addIndicators({name: "links on"})
-            .addTo(controller);
-        
-        new ScrollMagic.Scene({triggerElement: "#maps", triggerHook: 0.8, duration: 150 })
-            .setTween("#links", {opacity: "0"})
-//            .addIndicators({name: "links off"})
-            .addTo(controller);
-        
-        new ScrollMagic.Scene({triggerElement: "#maps", triggerHook: 0.8, offset: 300, duration: 150 })
-            .setTween("#maps", {opacity: "1"}, )
-//            .addIndicators({name: "maps on"})
-            .addTo(controller);
-        
-        new ScrollMagic.Scene({triggerElement: "#footer", triggerHook: 0.8, duration: 150 })
-            .setTween("#maps", {opacity: "0"})
-//            .addIndicators({name: "maps off"})
-            .addTo(controller);
-        
-        new ScrollMagic.Scene({triggerElement: "#footer", triggerHook: 0.8, offset: 300, duration: 150 })
-            .setTween("#footer", {opacity: "1"}, )
-//            .addIndicators({name: "footer"})
-            .addTo(controller);
-        
-
-        
-        
-         
-         
-     
-     </script>
          
      
 
     </main>
 
- 
+    <script type="text/javascript" src="./assets/js/modules.js"></script>
+
      
 
 
