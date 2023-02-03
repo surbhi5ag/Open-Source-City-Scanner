@@ -222,6 +222,19 @@
 		float: left;
         overflow: hidden;
 	}
+        
+        .DIY {
+            position: absolute;
+            width: 20%;
+            height: auto,
+        }
+        
+        .DIY-text {
+            position: absolute;
+            font-size: 30px;
+            margin-left: 10%;
+            margin-top: 1%;
+        }
 
 	</style>
 
@@ -597,17 +610,21 @@ for (let i = 1; i < 61; i++) {
      
 <div  id="pinContainer">
 	<div id="slideContainer">
-		<div class="panel" style="background-color: black;">
-			<b>ONE</b>
+		<div class="panel" >
+			<div class="DIY-text">ONE</div>
+            <img class="DIY" src="./images/DIY-base.png">
 		</div>
-		<div class="panel" style="background-color: dimgrey;">
-			<b>TWO</b>
+		<div class="panel" >
+			<div class="DIY-text">TWO</div>
+            <img class="DIY" src="./images/DIY-blue.png">
 		</div>
-		<div class="panel" style="background-color: darkgrey;">
-			<b>THREE</b>
+		<div class="panel" >
+			<div class="DIY-text">THREE</div>
+            <img class="DIY" src="./images/DIY-orange.png">
 		</div>
-		<div class="panel" style="background-color: lightgray;">
-			<b>FOUR</b>
+		<div class="panel" >
+			<div class="DIY-text">FOUR</div>
+            <img class="DIY" src="./images/DIY-green.png">
 		</div>
 	</div>
 </div>
@@ -727,7 +744,7 @@ City Veins [LINK] <br>
 			})
 			.setPin("#pinContainer")
 			.setTween(wipeAnimation)
-			.addIndicators() // add indicators (requires plugin)
+//			.addIndicators() // add indicators (requires plugin)
 			.addTo(controller);
 
         
