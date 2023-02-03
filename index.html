@@ -14,6 +14,9 @@
     <script src="./scrollmagic/minified/ScrollMagic.min.js"></script>
     <script src="./scrollmagic/minified/plugins/animation.gsap.min.js"></script>
     <script src="./scrollmagic/minified/plugins/debug.addIndicators.min.js"></script>
+    <script type="text/javascript" src="https://www.amcharts.com/lib/3/ammap.js"></script>
+    <script type="text/javascript" src="https://www.amcharts.com/lib/3/maps/js/worldLow.js"></script>
+    <script type="text/javascript" src="./assets/js/map.js"></script>
 <!--
     <script src="./assets/js/lib/modernizr.custom.min.js"></script>
     <script src="./assets/js/lib/iscroll-probe.js"></script>
@@ -31,11 +34,15 @@
 			font-weight:bold;
             font-size:20px;
 		}
+        
+        .container-fluid {
+            padding-left: 0px!important;
+        }
 
 		svg {
 			width:100%;
 			height:600px;
-			padding-left:5%;
+			padding-left:0%;
 			padding-right:50px;		
 		}
 		
@@ -640,7 +647,8 @@ for (let i = 1; i < 61; i++) {
      <div class="row" style="height: 100vh; opacity: 0" id="maps" >
         <div class="col-md-12" style="height: 100vh">
             
-            <img class="themaps" id="themaps" src="./images/1c.png">
+<!--            <img class="themaps" id="themaps" src="./images/1c.png">-->
+            <div id="map" style="width: 100%; height: 722px;"></div>
                
             </div>
 
