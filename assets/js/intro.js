@@ -3,7 +3,7 @@ var controller = new ScrollMagic.Controller();
         
 var images2 = [];
 
-for (let i = 0; i < 50; i++) {
+for (let i = 0; i < 40; i++) {
 const path = `./images/cover-${String(i).padStart(2, "0")}.jpg`;
 images2.push(path);
 }
