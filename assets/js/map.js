@@ -22,7 +22,7 @@
 								"color": "rgba(254,95,26,1)",
 								"width": 8.299443937256203,
 								"height": 8.299443937256203,
-								"scale": 1.8,
+								"scale": 1,
 								"fixedSize": false
 							},
 
@@ -35,7 +35,7 @@
 								"color": "rgba(254,95,26,1)",
 								"width": 8.299443937256203,
 								"height": 8.299443937256203,
-								"scale": 1.8,
+								"scale": 1,
 								"fixedSize": false
 							},
 
@@ -48,7 +48,7 @@
 								"color": "rgba(254,95,26,1)",
 								"width": 8.299443937256203,
 								"height": 8.299443937256203,
-								"scale": 1.8,
+								"scale": 1,
 								"fixedSize": false
 							},
 
@@ -61,7 +61,7 @@
 								"color": "rgba(254,95,26,1)",
 								"width": 8.299443937256203,
 								"height": 8.299443937256203,
-								"scale": 1.8,
+								"scale": 1,
 								"fixedSize": false
 							},
 
@@ -74,7 +74,7 @@
 								"color": "rgba(254,95,26,1)",
 								"width": 8.299443937256203,
 								"height": 8.299443937256203,
-								"scale": 1.8,
+								"scale": 1,
 								"fixedSize": false
 							},
 
@@ -87,7 +87,7 @@
 								"color": "rgba(254,95,26,1)",
 								"width": 8.299443937256203,
 								"height": 8.299443937256203,
-								"scale": 1.8,
+								"scale": 1,
 								"fixedSize": false
 							},
 
@@ -100,7 +100,7 @@
 								"color": "rgba(254,95,26,1)",
 								"width": 8.299443937256203,
 								"height": 8.299443937256203,
-								"scale": 1.8,
+								"scale": 1,
 								"fixedSize": false
 							},
 
@@ -113,7 +113,7 @@
 								"color": "rgba(254,95,26,1)",
 								"width": 8.299443937256203,
 								"height": 8.299443937256203,
-								"scale": 1.8,
+								"scale": 1,
 								"fixedSize": false
 							},
 
@@ -126,7 +126,7 @@
 								"color": "rgba(254,95,26,1)",
 								"width": 8.299443937256203,
 								"height": 8.299443937256203,
-								"scale": 1.8,
+								"scale": 1,
 								"fixedSize": false
 							},
 
@@ -139,7 +139,7 @@
 								"color": "rgba(254,95,26,1)",
 								"width": 8.299443937256203,
 								"height": 8.299443937256203,
-								"scale": 1.8,
+								"scale": 1,
 								"fixedSize": false
 							},
 
