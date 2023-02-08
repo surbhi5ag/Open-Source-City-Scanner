@@ -51,7 +51,7 @@ for (let i = 1; i <= 30; i++) {
      var images5 = [];
 
 for (let i = 31; i <= 37; i++) {
-  const path = `../../images/composition/comp-${String(i).padStart(2, "0")}.png`;
+  const path = `./images/composition/comp-${String(i).padStart(2, "0")}.png`;
   images5.push(path);
 }
              
@@ -75,7 +75,7 @@ for (let i = 31; i <= 37; i++) {
  var images6 = [];
 
 for (let i = 38; i <= 47; i++) {
-  const path = `../../images/composition/comp-${String(i).padStart(2, "0")}.png`;
+  const path = `./images/composition/comp-${String(i).padStart(2, "0")}.png`;
   images6.push(path);
 }
              
@@ -99,7 +99,7 @@ for (let i = 38; i <= 47; i++) {
  var images7 = [];
 
 for (let i = 46; i <= 54; i++) {
-  const path = `../../images/composition/comp-${String(i).padStart(2, "0")}.png`;
+  const path = `./images/composition/comp-${String(i).padStart(2, "0")}.png`;
   images7.push(path);
 }
              
@@ -123,7 +123,7 @@ for (let i = 46; i <= 54; i++) {
 var images8 = [];
 
 for (let i = 53; i <= 61; i++) {
-  const path = `../../images/composition/comp-${String(i).padStart(2, "0")}.png`;
+  const path = `./images/composition/comp-${String(i).padStart(2, "0")}.png`;
   images8.push(path);
 }
              
