@@ -9,6 +9,12 @@ p {
     color:#353536;
     font-weight:bold;
     font-size:20px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 100px;
+    padding: 10px;
+    transition: opacity 0.8s;
+   -webkit-transition: opacity 0.8s;
 }
 
 .container-fluid {
@@ -33,10 +39,11 @@ h1 {
 #visualdiv {
   position: -webkit-sticky;
   position: sticky;
-  top: -40px;
+  top: 100px;
   padding: 10px;
   transition: opacity 0.8s;
  -webkit-transition: opacity 0.8s;
+ 
 }
 
 

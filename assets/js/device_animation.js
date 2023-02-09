@@ -173,6 +173,10 @@ new ScrollMagic.Scene({triggerElement: "#trigger1", triggerHook: 0.6, duration: 
 
 
 
+      
+
+
+
 
 
         // scroll text appears
@@ -184,6 +188,17 @@ new ScrollMagic.Scene({triggerElement: "#trigger1", triggerHook: 0.6, duration: 
         })
         .setClassToggle("#text1", "visible") // add class to reveal
         .addTo(controller);
+
+
+
+
+        new ScrollMagic.Scene({triggerElement: "#trigger2"})
+        .on('start', function() {
+        document.getElementById("text1").src = "text2"
+        console.log('Function is triggered')
+            }) 
+        .addTo(controller);
+
 
               // scroll text appears
               new ScrollMagic.Scene({
