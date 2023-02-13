@@ -374,3 +374,13 @@ overflow: hidden;
 .spacer01 {
     height:100vh;
 }
+
+.documentation {
+    display: flex;
+    justify-content: center;
+    margin-top: 50vh;   
+}
+
+.nodrag{
+    pointer-events: none;
+}
