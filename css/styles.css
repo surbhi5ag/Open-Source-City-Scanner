@@ -5,10 +5,10 @@ height: 100%;
 
 
 p {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif!important;
     color:#353536;
-    font-weight:bold;
-    font-size:20px;
+    font-weight: normal;
+    font-size:2.2vw;
     position: -webkit-sticky;
     position: sticky;
     top: 100px;
@@ -117,7 +117,7 @@ width: 100%;
 top: 45vh;
 left: 25vw;
 margin: 0;
-font-size: 25pt;}
+font-size: 2.2vw;}
 
 .rabbit{
 width: 100vw;
@@ -156,7 +156,7 @@ opacity: 1;}
 {
 padding-left:0!important;
 top: 45vh;
-font-size:30px;
+font-size:2.2vw;
     
 }
 
@@ -178,9 +178,14 @@ font-size:30px;
 .bigtext {
     font-family: 'Roboto', sans-serif;
     color:#353536;
-    font-weight:lighter;
-    font-size:40px;
+    font-weight:400;
+    font-size:2.5vw;
     text-align: left;
+}
+
+p.docutext {
+    font-size: 1vw;
+    font-weight: 400;
 }
 
 #pinContainer {
@@ -380,6 +385,8 @@ overflow: hidden;
 
 
 
+
+
 @media screen and (max-width: 768px) {
     
     .rabbitmobile{
@@ -387,3 +394,7 @@ overflow: hidden;
         top: 50vh;
     }
   }
+
+    
+
+

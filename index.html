@@ -39,12 +39,14 @@
        
         <script type="text/javascript" src="./assets/js/intro.js"></script>
      <script>
+         
+         //This place the image cover at the center fo the screen on mobile
          if (window.matchMedia("(max-width: 768px)").matches) {
          $(document).ready(function() {
          var imgHeight = $('.rabbit').height();
-         console.log('Image height: ' + imgHeight + 'px');
+         //console.log('Image height: ' + imgHeight + 'px');
          var marginTop = '-' + (imgHeight / 2) + 'px';
-         console.log('Margin-top: ' + marginTop);
+         //console.log('Margin-top: ' + marginTop);
          $('.rabbitmobile').css('margin-top', marginTop);
          });
          }
@@ -160,7 +162,7 @@
      <div class="row" style="min-height: 100vh; opacity: 0" id="links">
         <div class="col-sm documentation">
             
-            <p><span class="bigtext">Build</span> <br>
+            <p class="docutext"><span class="bigtext">Build</span> <br>
             3D Files <br>
             Handbook <br>
             Checklist</p>
@@ -169,7 +171,7 @@
 
         <div class="col-sm documentation">
         
-            <p> <span class="bigtext">Explore</span><br>
+            <p class="docutext"> <span class="bigtext">Explore</span><br>
             Datasets <br>
             Data collection document</p>
             
@@ -178,7 +180,7 @@
 
         <div class="col-sm documentation">
     
-            <p><span class="bigtext">Learn</span><br>
+            <p class="docutext"><span class="bigtext">Learn</span><br>
             Coding Exercise <br>
             Facilitator Handbook</p>
             
