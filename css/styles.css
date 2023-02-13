@@ -151,10 +151,6 @@ opacity: 0;}
 .fishok {
 opacity: 1;}
 
-.rabbit{
-    z-index: 100;
-    
-}
 
 .text-center
 {
@@ -381,6 +377,13 @@ overflow: hidden;
     margin-top: 50vh;   
 }
 
-.nodrag{
-    pointer-events: none;
-}
+
+
+
+@media screen and (max-width: 768px) {
+    
+    .rabbitmobile{
+        margin-top: auto;
+        top: 50vh;
+    }
+  }
