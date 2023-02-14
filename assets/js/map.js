@@ -8,6 +8,7 @@
 					"projection": "miller",
 					"backgroundAlpha": 1,
 					"backgroundColor": "rgba(255,255,255,1)",
+                    "dragMap": false,
 					"dataProvider": {
 						"map": "worldLow",
 						"getAreasFromMap": false,
@@ -46826,17 +46827,19 @@
 
 					"zoomControl": {
 						"zoomControlEnabled": false,
+                        "initialZoomLevel": 0.3,
 						"homeButtonEnabled": false,
 						"panControlEnabled": false,
 						"right": 38,
 						"bottom": 30,
-						"minZoomLevel": 0.25,
+						"minZoomLevel": 0.10,
 						"gridHeight": 100,
 						"gridAlpha": 0.1,
 						"gridBackgroundAlpha": 0,
 						"gridColor": "#FFFFFF",
-						"draggerAlpha": 1,
+						"draggerAlpha": 0,
 						"buttonCornerRadius": 2
 					}
+                
 				});
 		
