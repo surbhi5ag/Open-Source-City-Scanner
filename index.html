@@ -28,6 +28,10 @@
 </head>
 <body>
  <main role="main" class="container-fluid" >
+     
+     <div class="logo">
+        <img src="./images/scl.png" alt="Logo">
+     </div>
    
      <div class="row col-lg-12" id="start">
     
@@ -245,9 +249,38 @@ Urban Sensing [LINK] <br>
 City Veins [LINK] <br>
             </p>
             
+            <span class="asterisctext" id="modal-trigger"><img class="asterisc" src="./images/asterisc.png">Click me</span>
+                
+
+            
             </div>
          </div>
          
+<div id="modal">
+  <div id="modal-content">
+    <img id="close-modal" src="./images/close.png" alt="Close">
+    <h2 class="modal-title">Flatburn*</h2>
+    <p class="modal-text">When we were developing the first City Scanner, we were also reflecting about the importance of female leadership in science. While doing research on women in science at MIT for Mind the Gap, we came across the story of Kathryn A. Burns, the first woman to graduate from the MIT-WHOI Joint Program in Oceanography. Coincidentally, the designer of the device, Tom Benson, is from an industrial town in England called Blackburn. The first fully autonomous City Scanner, 3D-printed in black nylon, was named Blackburn, and ended up receiving a honorable mention at the Fast Company Innovation by Design Award. The following versions were named WhiteBurn and FlatBurn.</p>
+  </div>
+</div>
+     
+     <script>
+     $(document).ready(function() {
+  $('#modal-trigger').click(function() {
+    $('#modal').show();
+    $('body').css('overflow', 'hidden');
+  });
+
+  $('#close-modal, #modal').click(function(event) {
+    if (event.target === this || event.target.id === 'close-modal') {
+      $('#modal').hide();
+      $('body').css('overflow', 'auto');
+    }
+  });
+});
+
+         
+     </script>
          
      
 

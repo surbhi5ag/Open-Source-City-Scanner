@@ -395,6 +395,81 @@ overflow: hidden;
 }
 
 
+.asterisc{
+    width: 1.9vw;
+    margin-right: 10px;
+    
+}
+
+.asterisctext {
+    font-family: 'Roboto', sans-serif;
+    color:#fe5f1a;
+    font-weight: 400;
+    font-size: 1.5vw;
+    text-align: center;
+    cursor: pointer;
+    
+}
+
+
+#modal {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+#modal-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 70%;
+  height: 50%;
+  background-color: #fff;
+  border: 1px solid #fe5f1a;
+  padding: 45px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#close-modal {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 15px;
+  height: auto;
+  cursor: pointer;
+}
+
+.modal-title {
+  font-size: 28px;
+  color: #fe5f1a;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.modal-text {
+  font-size: 16px;
+  text-align: left;
+  padding-left: 0px;
+}
+
+.logo {
+  position: fixed;
+  top: 40px;
+  left: 45px;
+  z-index: 9999;
+}
+
+.logo img {
+  height: 40px;
+}
+
 
 
 
