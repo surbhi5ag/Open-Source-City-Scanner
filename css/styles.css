@@ -31,6 +31,22 @@ a[href="http://www.amcharts.com/javascript-maps/"] {
   display: none!important;
 }
 
+#maps {
+    padding-left: 2vw;
+    padding-right: 2vw;
+}
+
+.maptext {
+  position: absolute;
+    bottom: 150px;
+    left: 5vw;
+    z-index: 300;
+    font-family: 'Roboto', sans-serif;
+    color:#353536;
+    font-weight:400;
+    font-size:2vw;
+}
+
 h1 {
     font-size:60px;
     font-weight:200;
@@ -196,7 +212,7 @@ p.docutext {
     width: 2vw;
     position: absolute;
     margin-left: -2.5vw;
-    margin-top: 10%;
+    margin-top: 12px;
     
 }
 
@@ -514,6 +530,8 @@ overflow: hidden;
     font-size: 4vw;
     
 }
+      
+    
   }
 
     
