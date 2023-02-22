@@ -1,4 +1,80 @@
 var controller = new ScrollMagic.Controller();
+
+      // scroll text appears
+      new ScrollMagic.Scene({
+        triggerElement: "#trigger1",
+        triggerHook: 0, // show, when scrolled 10% into view
+        duration: "80%", // hide 10% before exiting view (80% + 10% from bottom)
+       // offset: 50 // move trigger to center of element
+    })
+    .setClassToggle("#text1", "visible") // add class to reveal
+    // .addIndicators({name: "tre"})
+    .addTo(controller);
+    
+
+    
+
+
+
+
+
+          // scroll text appears
+          new ScrollMagic.Scene({
+            triggerElement: "#trigger2",
+            triggerHook: 0, // show, when scrolled 10% into view
+            duration: "80%", // hide 10% before exiting view (80% + 10% from bottom)
+          //  offset: 50 // move trigger to center of element
+        })
+        .setClassToggle("#text2", "visible") // add class to reveal
+        .addTo(controller);
+
+
+              // scroll text appears
+    new ScrollMagic.Scene({
+        triggerElement: "#trigger3",
+        triggerHook: 0, // show, when scrolled 10% into view
+        duration: "80%", // hide 10% before exiting view (80% + 10% from bottom)
+       // offset: 50 // move trigger to center of element
+    })
+    .setClassToggle("#text3", "visible") // add class to reveal
+    .addTo(controller);
+
+
+
+          // scroll text appears
+          new ScrollMagic.Scene({
+            triggerElement: "#trigger4",
+            triggerHook: 0, // show, when scrolled 10% into view
+            duration: "80%", // hide 10% before exiting view (80% + 10% from bottom)
+           // offset: 50 // move trigger to center of element
+        })
+        .setClassToggle("#text4", "visible") // add class to reveal
+        .addTo(controller);
+
+
+
+              // scroll text appears
+    new ScrollMagic.Scene({
+        triggerElement: "#trigger5",
+        triggerHook: 0, // show, when scrolled 10% into view
+        duration: "80%", // hide 10% before exiting view (80% + 10% from bottom)
+       // offset: 50 // move trigger to center of element
+    })
+    .setClassToggle("#text5", "visible") // add class to reveal
+    .addTo(controller);
+
+
+    new ScrollMagic.Scene({
+      triggerElement: "#trigger6",
+      triggerHook: 0, // show, when scrolled 10% into view
+      duration: "80%", // hide 10% before exiting view (80% + 10% from bottom)
+     // offset: 50 // move trigger to center of element
+  })
+  .setClassToggle("#text6", "visible") // add class to reveal
+  .addTo(controller);
+
+    
+
              
 //    var images3 = [];
 //
@@ -144,29 +220,35 @@ for (let i = 53; i <= 61; i++) {
 	);
 
 
-new ScrollMagic.Scene({triggerElement: "#trigger1", triggerHook: 0.6, duration: "100%"})
+new ScrollMagic.Scene({triggerElement: "#trigger1", triggerHook: 0, duration: "80%", offset: "50%"})
             .setTween(runner3)
-//            .addIndicators({name: "UNO"}) // add indicators (requires plugin)
+            .addIndicators({name: "one"}) // add indicators (requires plugin)
             .addTo(controller);
              
-        new ScrollMagic.Scene({triggerElement: "#trigger2", triggerHook: 0.8, duration: "50%"})
+        new ScrollMagic.Scene({triggerElement: "#trigger2", triggerHook: 0, duration: "80%", offset: "50%"})
             .setTween(runner4)
-//            .addIndicators({name: "DUE"}) // add indicators (requires plugin)
+            .addIndicators({name: "two"}) // add indicators (requires plugin)
             .addTo(controller);
 
-        new ScrollMagic.Scene({triggerElement: "#trigger3", triggerHook: 0.8, duration: "50%"})
+        new ScrollMagic.Scene({triggerElement: "#trigger3", triggerHook: 0, duration: "80%", offset: "50%"})
             .setTween(runner5)
-//            .addIndicators({name: "tre"}) // add indicators (requires plugin)
+            .addIndicators({name: "three"}) // add indicators (requires plugin)
             .addTo(controller);
 
-        new ScrollMagic.Scene({triggerElement: "#trigger4", triggerHook: 0.8, duration: "50%"})
+        new ScrollMagic.Scene({triggerElement: "#trigger4", triggerHook: 0, duration: "80%", offset: "50%"})
             .setTween(runner6)
-//            .addIndicators({name: "tre"}) // add indicators (requires plugin)
+           .addIndicators({name: "four"}) // add indicators (requires plugin)
             .addTo(controller);
 
-        new ScrollMagic.Scene({triggerElement: "#trigger5", triggerHook: 0.8, duration: "50%"})
+        new ScrollMagic.Scene({triggerElement: "#trigger5", triggerHook: 0, duration: "80%", offset: "50%"})
             .setTween(runner7)
-//            .addIndicators({name: "tre"}) // add indicators (requires plugin)
+           .addIndicators({name: "five"}) // add indicators (requires plugin)
+            .addTo(controller);
+
+
+        new ScrollMagic.Scene({triggerElement: "#trigger6", triggerHook: 0, duration: "80%", offset: "50%"})
+            .setTween(runner7)
+           .addIndicators({name: "six"}) // add indicators (requires plugin)
             .addTo(controller);
 
 
@@ -179,83 +261,7 @@ new ScrollMagic.Scene({triggerElement: "#trigger1", triggerHook: 0.6, duration: 
 
 
 
-        // scroll text appears
-        new ScrollMagic.Scene({
-            triggerElement: "#trigger1",
-            triggerHook: 0.9, // show, when scrolled 10% into view
-            duration: "80%", // hide 10% before exiting view (80% + 10% from bottom)
-            offset: 50 // move trigger to center of element
-        })
-        .setClassToggle("#text1", "visible") // add class to reveal
-        .addTo(controller);
-
-
-
-
-        new ScrollMagic.Scene({triggerElement: "#trigger2"})
-        .on('start', function() {
-        document.getElementById("text1").src = "text2"
-        console.log('Function is triggered')
-            }) 
-        .addTo(controller);
-
-
-              // scroll text appears
-              new ScrollMagic.Scene({
-                triggerElement: "#trigger2",
-                triggerHook: 0.9, // show, when scrolled 10% into view
-                duration: "80%", // hide 10% before exiting view (80% + 10% from bottom)
-                offset: 50 // move trigger to center of element
-            })
-            .setClassToggle("#text2", "visible") // add class to reveal
-            .addTo(controller);
-
-
-                  // scroll text appears
-        new ScrollMagic.Scene({
-            triggerElement: "#trigger3",
-            triggerHook: 0.9, // show, when scrolled 10% into view
-            duration: "80%", // hide 10% before exiting view (80% + 10% from bottom)
-            offset: 50 // move trigger to center of element
-        })
-        .setClassToggle("#text3", "visible") // add class to reveal
-        .addTo(controller);
-
-
-
-              // scroll text appears
-              new ScrollMagic.Scene({
-                triggerElement: "#trigger4",
-                triggerHook: 0.9, // show, when scrolled 10% into view
-                duration: "80%", // hide 10% before exiting view (80% + 10% from bottom)
-                offset: 50 // move trigger to center of element
-            })
-            .setClassToggle("#text4", "visible") // add class to reveal
-            .addTo(controller);
-
-
-
-                  // scroll text appears
-        new ScrollMagic.Scene({
-            triggerElement: "#trigger5",
-            triggerHook: 0.9, // show, when scrolled 10% into view
-            duration: "80%", // hide 10% before exiting view (80% + 10% from bottom)
-            offset: 50 // move trigger to center of element
-        })
-        .setClassToggle("#text5", "visible") // add class to reveal
-        .addTo(controller);
-
-
-              // scroll text appears
-              new ScrollMagic.Scene({
-                triggerElement: "#trigger6",
-                triggerHook: 0.9, // show, when scrolled 10% into view
-                duration: "80%", // hide 10% before exiting view (80% + 10% from bottom)
-                offset: 50 // move trigger to center of element
-            })
-            .setClassToggle("#text6", "visible") // add class to reveal
-            .addTo(controller);
-
+  
 
 
 

@@ -8,13 +8,14 @@ p {
     font-family: 'Roboto', sans-serif!important;
     color:#353536;
     font-weight: normal;
-    font-size:2.2vw;
+    font-size:2.0vw;
     position: -webkit-sticky;
     position: sticky;
     top: 100px;
     padding: 10px;
     transition: opacity 0.8s;
    -webkit-transition: opacity 0.8s;
+   font-weight:500;
 }
 
 .container-fluid {
@@ -38,13 +39,15 @@ a[href="http://www.amcharts.com/javascript-maps/"] {
 
 .maptext {
   position: absolute;
-    bottom: 150px;
-    left: 5vw;
+    top: 3vw;
+    left: 50vw;
+    transform: translateX(-50%);
     z-index: 300;
     font-family: 'Roboto', sans-serif;
     color:#353536;
-    font-weight:400;
+    font-weight:500;
     font-size:2vw;
+    
 }
 
 h1 {
@@ -198,7 +201,7 @@ font-size:2.2vw;
 .bigtext {
     font-family: 'Roboto', sans-serif;
     color:#353536;
-    font-weight:400;
+    font-weight:500;
     font-size:2.5vw;
     text-align: left;
 }
