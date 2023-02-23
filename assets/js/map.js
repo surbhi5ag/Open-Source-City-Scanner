@@ -1,4 +1,9 @@
 
+// const container = document.createElement('div');
+// const image = document.createElement('img');
+// image.src = './images/composition/comp-13.png.jpg';
+// container.appendChild(image);
+
 			AmCharts.makeChart("map",{
 					"type": "map",
 					
@@ -16,7 +21,7 @@
 				
 							{
 								"selectable": true,
-								"title": "Tokyo",
+								"title": "Tokyo <br> 2021 ",
 								"longitude": 139.3922,
 								"latitude": 36.0827,
 								"type": "circle",
@@ -29,7 +34,7 @@
 
 							{
 								"selectable": true,
-								"title": "Boston",
+								"title": "Boston <br> 2021",
 								"longitude": -72.6497,
 								"latitude": 42.0107,
 								"type": "circle",
@@ -42,7 +47,7 @@
 
 							{
 								"selectable": true,
-								"title": "New York",
+								"title": "New York <br> 2021",
 								"longitude": -77.2593,
 								"latitude": 40.0679,
 								"type": "circle",
@@ -55,7 +60,7 @@
 
 							{
 								"selectable": true,
-								"title": "Rome",
+								"title": "Rome <br> 2021",
 								"longitude": 12.628,
 								"latitude": 42.0107,
 								"type": "circle",
@@ -68,7 +73,7 @@
 
 							{
 								"selectable": true,
-								"title": "Sparwood",
+								"title": "Sparwood <br> 2021",
 								"longitude": -111.8313,
 								"latitude": 49.4309,
 								"type": "circle",
@@ -81,7 +86,7 @@
 
 							{
 								"selectable": true,
-								"title": "Stockholm",
+								"title": "Stockholm <br> 2021",
 								"longitude": 17.2376,
 								"latitude": 59.4615,
 								"type": "circle",
@@ -94,7 +99,7 @@
 
 							{
 								"selectable": true,
-								"title": "Amsterdam",
+								"title": "Amsterdam <br> 2021",
 								"longitude": 5.7136,
 								"latitude": 52.9232,
 								"type": "circle",
@@ -107,7 +112,7 @@
 
 							{
 								"selectable": true,
-								"title": "Beirut",
+								"title": "Beirut <br> 2022",
 								"longitude": 35.676,
 								"latitude": 34.0423,
 								"type": "circle",
@@ -120,7 +125,7 @@
 
 							{
 								"selectable": true,
-								"title": "Lagos",
+								"title": "Lagos <br> coming soon",
 								"longitude": 3.4088,
 								"latitude": 7.641,
 								"type": "circle",
@@ -133,7 +138,7 @@
 
 							{
 								"selectable": true,
-								"title": "Oskemen",
+								"title": "Oskemen <br> coming soon",
 								"longitude": 84.0769,
 								"latitude": 47.6297,
 								"type": "circle",
@@ -46788,6 +46793,9 @@
 							}
 						]
 					},
+
+			
+
 					"balloon": {
 						"horizontalPadding": 15,
 						"borderAlpha": 0,
@@ -46837,6 +46845,8 @@
 						"draggerAlpha": 0,
 						"buttonCornerRadius": 2
 					}
+
+		
                 
 				});
 		
