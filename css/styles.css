@@ -493,6 +493,14 @@ overflow: hidden;
 
 
 
+
+
+
+
+
+
+
+
 @media screen and (max-width: 768px) {
     
     .rabbitmobile{
@@ -502,6 +510,7 @@ overflow: hidden;
     
     .covertextmob {
         font-size: 5vw;
+        margin-left: 14vw;
     }
     
     .documentation {
@@ -533,7 +542,276 @@ overflow: hidden;
     font-size: 4vw;
     
 }
-      
+    
+        #visualdiv {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 50vh;
+  padding: 10px;
+  transition: opacity 0.8s;
+ -webkit-transition: opacity 0.8s;
+        margin-left: -30vw;
+ 
+}
+    
+    #text1 {
+    opacity: 0;
+    -webkit-transform: scale(1);
+         -moz-transform: scale(1);
+            -ms-transform: scale(1);
+             -o-transform: scale(1);
+                    transform: scale(1);
+    -webkit-transition: all 0.5s ease-in-out;
+         -moz-transition: all 0.5s ease-in-out;
+            -ms-transition: all 0.5s ease-in-out;
+             -o-transition: all 0.5s ease-in-out;
+                    transition: all 0.5s ease-in-out;
+        margin-right: -85vw;
+        padding-top: 10vh;
+}
+
+
+#text1.visible {
+    opacity: 1;
+    -webkit-transform: none;
+         -moz-transform: none;
+            -ms-transform: none;
+             -o-transform: none;
+                    transform: none;
+    margin-right: -85vw;
+        padding-top: 10vh;
+}
+
+
+#text2 {
+    opacity: 0;
+    -webkit-transform: scale(1);
+         -moz-transform: scale(1);
+            -ms-transform: scale(1);
+             -o-transform: scale(1);
+                    transform: scale(1);
+    -webkit-transition: all 0.5s ease-in-out;
+         -moz-transition: all 0.5s ease-in-out;
+            -ms-transition: all 0.5s ease-in-out;
+             -o-transition: all 0.5s ease-in-out;
+                    transition: all 0.5s ease-in-out;
+    margin-right: -85vw;
+        padding-top: 10vh;
+}
+
+
+#text2.visible {
+    opacity: 1;
+    -webkit-transform: none;
+         -moz-transform: none;
+            -ms-transform: none;
+             -o-transform: none;
+                    transform: none;
+    margin-right: -85vw;
+        padding-top: 10vh;
+}
+
+
+#text3 {
+    opacity: 0;
+    -webkit-transform: scale(1);
+         -moz-transform: scale(1);
+            -ms-transform: scale(1);
+             -o-transform: scale(1);
+                    transform: scale(1);
+    -webkit-transition: all 0.5s ease-in-out;
+         -moz-transition: all 0.5s ease-in-out;
+            -ms-transition: all 0.5s ease-in-out;
+             -o-transition: all 0.5s ease-in-out;
+                    transition: all 0.5s ease-in-out;
+    margin-right: -85vw;
+        padding-top: 10vh;
+}
+
+
+#text3.visible {
+    opacity: 1;
+    -webkit-transform: none;
+         -moz-transform: none;
+            -ms-transform: none;
+             -o-transform: none;
+                    transform: none;
+    margin-right: -85vw;
+        padding-top: 10vh;
+}
+
+
+
+#text4 {
+    opacity: 0;
+    -webkit-transform: scale(1);
+         -moz-transform: scale(1);
+            -ms-transform: scale(1);
+             -o-transform: scale(1);
+                    transform: scale(1);
+    -webkit-transition: all 0.5s ease-in-out;
+         -moz-transition: all 0.5s ease-in-out;
+            -ms-transition: all 0.5s ease-in-out;
+             -o-transition: all 0.5s ease-in-out;
+                    transition: all 0.5s ease-in-out;
+    margin-right: -85vw;
+        padding-top: 10vh;
+}
+
+
+#text4.visible {
+    opacity: 1;
+    -webkit-transform: none;
+         -moz-transform: none;
+            -ms-transform: none;
+             -o-transform: none;
+                    transform: none;
+    margin-right: -85vw;
+        padding-top: 10vh;
+}
+
+
+
+#text5 {
+    opacity: 0;
+    -webkit-transform: scale(1);
+         -moz-transform: scale(1);
+            -ms-transform: scale(1);
+             -o-transform: scale(1);
+                    transform: scale(1);
+    -webkit-transition: all 0.5s ease-in-out;
+         -moz-transition: all 0.5s ease-in-out;
+            -ms-transition: all 0.5s ease-in-out;
+             -o-transition: all 0.5s ease-in-out;
+                    transition: all 0.5s ease-in-out;
+    margin-right: -85vw;
+        padding-top: 10vh;
+}
+
+
+#text5.visible {
+    opacity: 1;
+    -webkit-transform: none;
+         -moz-transform: none;
+            -ms-transform: none;
+             -o-transform: none;
+                    transform: none;
+    margin-right: -85vw;
+        padding-top: 10vh;
+}
+
+
+#text6 {
+    opacity: 0;
+    -webkit-transform: scale(1);
+         -moz-transform: scale(1);
+            -ms-transform: scale(1);
+             -o-transform: scale(1);
+                    transform: scale(1);
+    -webkit-transition: all 0.5s ease-in-out;
+         -moz-transition: all 0.5s ease-in-out;
+            -ms-transition: all 0.5s ease-in-out;
+             -o-transition: all 0.5s ease-in-out;
+                    transition: all 0.5s ease-in-out;
+    margin-right: -85vw;
+        padding-top: 10vh;
+}
+
+
+#text6.visible {
+    opacity: 1;
+    -webkit-transform: none;
+         -moz-transform: none;
+            -ms-transform: none;
+             -o-transform: none;
+                    transform: none;
+    margin-right: -85vw;
+        padding-top: 10vh;
+}
+
+.logo {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  z-index: 9999;
+}
+     
+
+.logo img {
+  height: 6vw;
+}
+    
+.documentation {
+    display: flex;
+    justify-content: left;
+    margin-top: 25vh; 
+    padding-left: 25vw;
+}
+    
+.asterisc{
+    width: 7vw;
+    margin-right: 10px;
+    margin-left: 5%;
+    
+}
+
+.asterisctext {
+    font-family: 'Roboto', sans-serif;
+    color:#fe5f1a;
+    font-weight: 400;
+    font-size: 7vw;
+    text-align: center;
+    cursor: pointer;
+    padding-bottom: 20%;
+    
+}
+    
+    #modal {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+#modal-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 70%;
+  height: 50%;
+  background-color: #fff;
+  border: 1px solid #fe5f1a;
+  padding: 45px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#close-modal {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 15px;
+  height: auto;
+  cursor: pointer;
+}
+
+.modal-title {
+  font-size: 28px;
+  color: #fe5f1a;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.modal-text {
+  font-size: 16px;
+  text-align: left;
+  padding-left: 0px;
+}
     
   }
 
