@@ -762,7 +762,6 @@ overflow: hidden;
     font-size: 7vw;
     text-align: center;
     cursor: pointer;
-    padding-bottom: 20%;
     
 }
     
@@ -778,11 +777,11 @@ overflow: hidden;
 
 #modal-content {
   position: absolute;
-  top: 50%;
-  left: 50%;
+  top: 55%;
+  left: 45%;
   transform: translate(-50%, -50%);
   width: 70%;
-  height: 50%;
+  height: 70%;
   background-color: #fff;
   border: 1px solid #fe5f1a;
   padding: 45px;
@@ -801,14 +800,14 @@ overflow: hidden;
 }
 
 .modal-title {
-  font-size: 28px;
+  font-size: 7vw;
   color: #fe5f1a;
   margin-bottom: 20px;
   text-align: left;
 }
 
 .modal-text {
-  font-size: 16px;
+  font-size: 3.5vw;
   text-align: left;
   padding-left: 0px;
 }
