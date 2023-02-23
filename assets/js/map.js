@@ -46788,6 +46788,9 @@
 							}
 						]
 					},
+
+			
+
 					"balloon": {
 						"horizontalPadding": 15,
 						"borderAlpha": 0,
@@ -46837,6 +46840,8 @@
 						"draggerAlpha": 0,
 						"buttonCornerRadius": 2
 					}
+
+		
                 
 				});
 		
