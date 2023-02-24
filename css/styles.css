@@ -1,6 +1,7 @@
 html, 
 body {
 height: 100%;
+    }
 }
 
 
@@ -127,10 +128,12 @@ height: 100%;
 
 }
 
+/*
 .col-sm {
 text: center;
 vertical-align: middle;
 }
+*/
 
 #intro h1 {
 position: absolute;
@@ -489,6 +492,46 @@ overflow: hidden;
   height: 40px;
 }
 
+.box {
+      display: inline-block;
+      width: 100%;
+      height: 200px;
+      margin: 10px;
+      text-align: center;
+      position: relative;
+    }
+    .box:hover {
+      background-color: black;
+      cursor: pointer;
+    }
+    .overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.5);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      color: white;
+      opacity: 0;
+      transition: opacity 0.5s ease;
+    }
+    .box:hover .overlay {
+      opacity: 1;
+    }
+
+    .grandezza {
+        max-width: 100vw;
+        overflow: scroll;
+    }
+
+#hidedesktop {
+    display: none;
+}
+
 
 
 
@@ -823,7 +866,7 @@ overflow: hidden;
     overflow: scroll;
 }
     
-    #maps {
+    #hidemobile {
         display: none;
     }
     
@@ -834,6 +877,20 @@ overflow: hidden;
     font-size:13px;
 }
     
+    .grandezza {
+        max-width: 100vw;
+        overflow: scroll;
+    }
+    
+    #hidedesktop {
+    display: block;
+}
+    
+#maps {
+    padding-left: 2vw;
+    padding-right: 2vw;
+    max-height: 50vh;
+}
   }
 
     
