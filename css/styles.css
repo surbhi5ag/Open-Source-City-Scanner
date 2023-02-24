@@ -506,15 +506,12 @@ overflow: hidden;
     .rabbitmobile{
         margin-top: auto;
         top: 50vh;
+        left: 3%;
     }
     
     .covertextmob {
         font-size: 5vw;
         margin-left: 14vw;
-    }
-    
-    .documentation {
-        margin-top:10vw;
     }
     
     .bigtext {
@@ -566,8 +563,9 @@ overflow: hidden;
             -ms-transition: all 0.5s ease-in-out;
              -o-transition: all 0.5s ease-in-out;
                     transition: all 0.5s ease-in-out;
-        margin-right: -85vw;
+        margin-right: -50vw;
         padding-top: 10vh;
+        padding-left: 30%;
 }
 
 
@@ -578,8 +576,9 @@ overflow: hidden;
             -ms-transform: none;
              -o-transform: none;
                     transform: none;
-    margin-right: -85vw;
+    margin-right: -50vw;
         padding-top: 10vh;
+    padding-left: 30%;
 }
 
 
@@ -595,8 +594,9 @@ overflow: hidden;
             -ms-transition: all 0.5s ease-in-out;
              -o-transition: all 0.5s ease-in-out;
                     transition: all 0.5s ease-in-out;
-    margin-right: -85vw;
+    margin-right: -50vw;
         padding-top: 10vh;
+    padding-left: 30%;
 }
 
 
@@ -607,8 +607,9 @@ overflow: hidden;
             -ms-transform: none;
              -o-transform: none;
                     transform: none;
-    margin-right: -85vw;
+    margin-right: -50vw;
         padding-top: 10vh;
+    padding-left: 30%;
 }
 
 
@@ -624,8 +625,9 @@ overflow: hidden;
             -ms-transition: all 0.5s ease-in-out;
              -o-transition: all 0.5s ease-in-out;
                     transition: all 0.5s ease-in-out;
-    margin-right: -85vw;
+    margin-right: -50vw;
         padding-top: 10vh;
+    padding-left: 30%;
 }
 
 
@@ -636,8 +638,9 @@ overflow: hidden;
             -ms-transform: none;
              -o-transform: none;
                     transform: none;
-    margin-right: -85vw;
+    margin-right: -50vw;
         padding-top: 10vh;
+    padding-left: 30%;
 }
 
 
@@ -654,8 +657,9 @@ overflow: hidden;
             -ms-transition: all 0.5s ease-in-out;
              -o-transition: all 0.5s ease-in-out;
                     transition: all 0.5s ease-in-out;
-    margin-right: -85vw;
+    margin-right: -50vw;
         padding-top: 10vh;
+    padding-left: 30%;
 }
 
 
@@ -666,8 +670,9 @@ overflow: hidden;
             -ms-transform: none;
              -o-transform: none;
                     transform: none;
-    margin-right: -85vw;
+    margin-right: -50vw;
         padding-top: 10vh;
+    padding-left: 30%;
 }
 
 
@@ -684,8 +689,9 @@ overflow: hidden;
             -ms-transition: all 0.5s ease-in-out;
              -o-transition: all 0.5s ease-in-out;
                     transition: all 0.5s ease-in-out;
-    margin-right: -85vw;
+    margin-right: -50vw;
         padding-top: 10vh;
+    padding-left: 30%;
 }
 
 
@@ -696,8 +702,9 @@ overflow: hidden;
             -ms-transform: none;
              -o-transform: none;
                     transform: none;
-    margin-right: -85vw;
+    margin-right: -50vw;
         padding-top: 10vh;
+    padding-left: 30%;
 }
 
 
@@ -713,8 +720,9 @@ overflow: hidden;
             -ms-transition: all 0.5s ease-in-out;
              -o-transition: all 0.5s ease-in-out;
                     transition: all 0.5s ease-in-out;
-    margin-right: -85vw;
+    margin-right: -50vw;
         padding-top: 10vh;
+    padding-left: 30%;
 }
 
 
@@ -725,8 +733,9 @@ overflow: hidden;
             -ms-transform: none;
              -o-transform: none;
                     transform: none;
-    margin-right: -85vw;
+    margin-right: -50vw;
         padding-top: 10vh;
+    padding-left: 30%;
 }
 
 .logo {
@@ -745,11 +754,11 @@ overflow: hidden;
     display: flex;
     justify-content: left;
     margin-top: 25vh; 
-    padding-left: 25vw;
+    padding-left: 20vw;
 }
     
 .asterisc{
-    width: 7vw;
+    width: 6vw;
     margin-right: 10px;
     margin-left: 5%;
     
@@ -762,6 +771,7 @@ overflow: hidden;
     font-size: 7vw;
     text-align: center;
     cursor: pointer;
+    padding-bottom: 5vh;
     
 }
     
@@ -777,11 +787,11 @@ overflow: hidden;
 
 #modal-content {
   position: absolute;
-  top: 55%;
-  left: 45%;
+  top: 50%;
+  left: 50%;
   transform: translate(-50%, -50%);
-  width: 70%;
-  height: 50%;
+  width: 75%;
+  height: 60%;
   background-color: #fff;
   border: 1px solid #fe5f1a;
   padding: 45px;
@@ -811,6 +821,17 @@ overflow: hidden;
   text-align: left;
   padding-left: 0px;
     overflow: scroll;
+}
+    
+    #maps {
+        display: none;
+    }
+    
+.footers{
+    padding-top: 15%;
+    padding-right: 5%;
+    padding-left: 7%;
+    font-size:13px;
 }
     
   }
