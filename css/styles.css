@@ -495,8 +495,8 @@ overflow: hidden;
 .box {
       display: inline-block;
       width: 100%;
-      height: 200px;
-      margin: 10px;
+      height: 55vh;
+      margin: 5px;
       text-align: center;
       position: relative;
     }
@@ -531,6 +531,11 @@ overflow: hidden;
 #hidedesktop {
     display: none;
 }
+
+.hidedesktop {
+    display: none;
+}
+
 
 
 
@@ -880,9 +885,15 @@ overflow: hidden;
     .grandezza {
         max-width: 100vw;
         overflow: scroll;
+        -webkit-overflow-scrolling: touch;
+        scroll-behavior: smooth;
     }
     
     #hidedesktop {
+    display: block;
+}
+    
+    .hidedesktop {
     display: block;
 }
     
@@ -891,6 +902,52 @@ overflow: hidden;
     padding-right: 2vw;
     max-height: 50vh;
 }
+    
+    .case1 {
+        background-image: url(/images/blackburn.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    
+    .case2 {
+        background-image: url(/images/blackburn.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    
+    .case3 {
+        background-image: url(/images/blackburn.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    
+    .case4 {
+        background-image: url(/images/blackburn.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    
+    .case5 {
+        background-image: url(/images/blackburn.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    
+    .case6 {
+        background-image: url(/images/blackburn.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    
+    .deploytext {
+    font-family: 'Roboto', sans-serif;
+    color:#fe5f1a;
+    font-weight: 400;
+    font-size: 7vw;
+    text-align: center; 
+    margin-left: 10%;
+    padding-bottom: 5%;
+    }
   }
 
     
