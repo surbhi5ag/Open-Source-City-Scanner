@@ -150,7 +150,7 @@
 							},
 
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -81.8689,
 								"latitude": 82.8224,
@@ -162,7 +162,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -79.5641,
 								"latitude": 82.8224,
@@ -174,7 +174,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -77.2593,
 								"latitude": 82.8224,
@@ -186,7 +186,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -74.9545,
 								"latitude": 82.8224,
@@ -198,7 +198,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -72.6497,
 								"latitude": 82.8224,
@@ -210,7 +210,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -70.3449,
 								"latitude": 82.8224,
@@ -222,7 +222,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -68.0401,
 								"latitude": 82.8224,
@@ -234,7 +234,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -65.7353,
 								"latitude": 82.8224,
@@ -246,7 +246,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -63.4305,
 								"latitude": 82.8224,
@@ -258,7 +258,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -44.9921,
 								"latitude": 82.8224,
@@ -270,7 +270,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -42.6873,
 								"latitude": 82.8224,
@@ -282,7 +282,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -40.3824,
 								"latitude": 82.8224,
@@ -294,7 +294,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -38.0776,
 								"latitude": 82.8224,
@@ -306,7 +306,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -35.7728,
 								"latitude": 82.8224,
@@ -318,7 +318,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -33.468,
 								"latitude": 82.8224,
@@ -330,7 +330,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -31.1632,
 								"latitude": 82.8224,
@@ -342,7 +342,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -28.8584,
 								"latitude": 82.8224,
@@ -354,7 +354,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -26.5536,
 								"latitude": 82.8224,
@@ -366,7 +366,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -24.2488,
 								"latitude": 82.8224,
@@ -378,7 +378,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -21.944,
 								"latitude": 82.8224,
@@ -390,7 +390,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -91.0881,
 								"latitude": 81.8776,
@@ -402,7 +402,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -88.7833,
 								"latitude": 81.8776,
@@ -414,7 +414,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -86.4785,
 								"latitude": 81.8776,
@@ -426,7 +426,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -84.1737,
 								"latitude": 81.8776,
@@ -438,7 +438,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -81.8689,
 								"latitude": 81.8776,
@@ -450,7 +450,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -79.5641,
 								"latitude": 81.8776,
@@ -462,7 +462,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -77.2593,
 								"latitude": 81.8776,
@@ -474,7 +474,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -74.9545,
 								"latitude": 81.8776,
@@ -486,7 +486,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -72.6497,
 								"latitude": 81.8776,
@@ -498,7 +498,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -70.3449,
 								"latitude": 81.8776,
@@ -510,7 +510,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -68.0401,
 								"latitude": 81.8776,
@@ -522,7 +522,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -65.7353,
 								"latitude": 81.8776,
@@ -534,7 +534,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -61.1257,
 								"latitude": 81.8776,
@@ -546,7 +546,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -58.8209,
 								"latitude": 81.8776,
@@ -558,7 +558,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -56.5161,
 								"latitude": 81.8776,
@@ -570,7 +570,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -54.2113,
 								"latitude": 81.8776,
@@ -582,7 +582,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -51.9065,
 								"latitude": 81.8776,
@@ -594,7 +594,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -49.6017,
 								"latitude": 81.8776,
@@ -606,7 +606,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -47.2969,
 								"latitude": 81.8776,
@@ -618,7 +618,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -44.9921,
 								"latitude": 81.8776,
@@ -630,7 +630,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -42.6873,
 								"latitude": 81.8776,
@@ -642,7 +642,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -40.3824,
 								"latitude": 81.8776,
@@ -654,7 +654,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -38.0776,
 								"latitude": 81.8776,
@@ -666,7 +666,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -35.7728,
 								"latitude": 81.8776,
@@ -678,7 +678,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -33.468,
 								"latitude": 81.8776,
@@ -690,7 +690,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -31.1632,
 								"latitude": 81.8776,
@@ -702,7 +702,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -28.8584,
 								"latitude": 81.8776,
@@ -714,7 +714,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -26.5536,
 								"latitude": 81.8776,
@@ -726,7 +726,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -24.2488,
 								"latitude": 81.8776,
@@ -738,7 +738,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -17.3344,
 								"latitude": 81.8776,
@@ -750,7 +750,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -15.0296,
 								"latitude": 81.8776,
@@ -762,7 +762,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -93.3929,
 								"latitude": 80.9047,
@@ -774,7 +774,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -88.7833,
 								"latitude": 80.9047,
@@ -786,7 +786,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -86.4785,
 								"latitude": 80.9047,
@@ -798,7 +798,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -84.1737,
 								"latitude": 80.9047,
@@ -810,7 +810,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -81.8689,
 								"latitude": 80.9047,
@@ -822,7 +822,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -79.5641,
 								"latitude": 80.9047,
@@ -834,7 +834,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -77.2593,
 								"latitude": 80.9047,
@@ -846,7 +846,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -74.9545,
 								"latitude": 80.9047,
@@ -858,7 +858,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -72.6497,
 								"latitude": 80.9047,
@@ -870,7 +870,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -70.3449,
 								"latitude": 80.9047,
@@ -882,7 +882,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -68.0401,
 								"latitude": 80.9047,
@@ -894,7 +894,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -65.7353,
 								"latitude": 80.9047,
@@ -906,7 +906,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -63.4305,
 								"latitude": 80.9047,
@@ -918,7 +918,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -61.1257,
 								"latitude": 80.9047,
@@ -930,7 +930,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -58.8209,
 								"latitude": 80.9047,
@@ -942,7 +942,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -56.5161,
 								"latitude": 80.9047,
@@ -954,7 +954,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -54.2113,
 								"latitude": 80.9047,
@@ -966,7 +966,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -51.9065,
 								"latitude": 80.9047,
@@ -978,7 +978,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -49.6017,
 								"latitude": 80.9047,
@@ -990,7 +990,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -47.2969,
 								"latitude": 80.9047,
@@ -1002,7 +1002,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -44.9921,
 								"latitude": 80.9047,
@@ -1014,7 +1014,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -42.6873,
 								"latitude": 80.9047,
@@ -1026,7 +1026,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -40.3824,
 								"latitude": 80.9047,
@@ -1038,7 +1038,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -38.0776,
 								"latitude": 80.9047,
@@ -1050,7 +1050,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -35.7728,
 								"latitude": 80.9047,
@@ -1062,7 +1062,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -33.468,
 								"latitude": 80.9047,
@@ -1074,7 +1074,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -31.1632,
 								"latitude": 80.9047,
@@ -1086,7 +1086,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -28.8584,
 								"latitude": 80.9047,
@@ -1098,7 +1098,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -26.5536,
 								"latitude": 80.9047,
@@ -1110,7 +1110,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -24.2488,
 								"latitude": 80.9047,
@@ -1122,7 +1122,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -21.944,
 								"latitude": 80.9047,
@@ -1134,7 +1134,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -19.6392,
 								"latitude": 80.9047,
@@ -1146,7 +1146,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -17.3344,
 								"latitude": 80.9047,
@@ -1158,7 +1158,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -15.0296,
 								"latitude": 80.9047,
@@ -1170,7 +1170,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 49.5049,
 								"latitude": 80.9047,
@@ -1182,7 +1182,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 93.2961,
 								"latitude": 80.9047,
@@ -1194,7 +1194,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 95.6009,
 								"latitude": 80.9047,
@@ -1206,7 +1206,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -95.6977,
 								"latitude": 79.9029,
@@ -1218,7 +1218,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -93.3929,
 								"latitude": 79.9029,
@@ -1230,7 +1230,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -91.0881,
 								"latitude": 79.9029,
@@ -1242,7 +1242,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -88.7833,
 								"latitude": 79.9029,
@@ -1254,7 +1254,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -86.4785,
 								"latitude": 79.9029,
@@ -1266,7 +1266,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -84.1737,
 								"latitude": 79.9029,
@@ -1278,7 +1278,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -81.8689,
 								"latitude": 79.9029,
@@ -1290,7 +1290,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -79.5641,
 								"latitude": 79.9029,
@@ -1302,7 +1302,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -77.2593,
 								"latitude": 79.9029,
@@ -1314,7 +1314,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -74.9545,
 								"latitude": 79.9029,
@@ -1326,7 +1326,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -72.6497,
 								"latitude": 79.9029,
@@ -1338,7 +1338,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -65.7353,
 								"latitude": 79.9029,
@@ -1350,7 +1350,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -63.4305,
 								"latitude": 79.9029,
@@ -1362,7 +1362,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -61.1257,
 								"latitude": 79.9029,
@@ -1374,7 +1374,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -58.8209,
 								"latitude": 79.9029,
@@ -1386,7 +1386,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -56.5161,
 								"latitude": 79.9029,
@@ -1398,7 +1398,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -54.2113,
 								"latitude": 79.9029,
@@ -1410,7 +1410,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -51.9065,
 								"latitude": 79.9029,
@@ -1422,7 +1422,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -49.6017,
 								"latitude": 79.9029,
@@ -1434,7 +1434,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -47.2969,
 								"latitude": 79.9029,
@@ -1446,7 +1446,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -44.9921,
 								"latitude": 79.9029,
@@ -1458,7 +1458,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -42.6873,
 								"latitude": 79.9029,
@@ -1470,7 +1470,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -40.3824,
 								"latitude": 79.9029,
@@ -1482,7 +1482,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -38.0776,
 								"latitude": 79.9029,
@@ -1494,7 +1494,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -35.7728,
 								"latitude": 79.9029,
@@ -1506,7 +1506,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -33.468,
 								"latitude": 79.9029,
@@ -1518,7 +1518,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -31.1632,
 								"latitude": 79.9029,
@@ -1530,7 +1530,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -28.8584,
 								"latitude": 79.9029,
@@ -1542,7 +1542,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -26.5536,
 								"latitude": 79.9029,
@@ -1554,7 +1554,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -24.2488,
 								"latitude": 79.9029,
@@ -1566,7 +1566,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -21.944,
 								"latitude": 79.9029,
@@ -1578,7 +1578,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -19.6392,
 								"latitude": 79.9029,
@@ -1590,7 +1590,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Svalbard and Jan Mayen",
 								"longitude": 12.628,
 								"latitude": 79.9029,
@@ -1602,7 +1602,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Svalbard and Jan Mayen",
 								"longitude": 17.2376,
 								"latitude": 79.9029,
@@ -1614,7 +1614,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Svalbard and Jan Mayen",
 								"longitude": 19.5424,
 								"latitude": 79.9029,
@@ -1626,7 +1626,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Svalbard and Jan Mayen",
 								"longitude": 21.8472,
 								"latitude": 79.9029,
@@ -1638,7 +1638,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Svalbard and Jan Mayen",
 								"longitude": 24.152,
 								"latitude": 79.9029,
@@ -1650,7 +1650,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Svalbard and Jan Mayen",
 								"longitude": 26.4568,
 								"latitude": 79.9029,
@@ -1662,7 +1662,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 93.2961,
 								"latitude": 79.9029,
@@ -1674,7 +1674,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 95.6009,
 								"latitude": 79.9029,
@@ -1686,7 +1686,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 97.9057,
 								"latitude": 79.9029,
@@ -1698,7 +1698,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 100.2105,
 								"latitude": 79.9029,
@@ -1710,7 +1710,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -111.8313,
 								"latitude": 78.8716,
@@ -1722,7 +1722,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -104.9169,
 								"latitude": 78.8716,
@@ -1734,7 +1734,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -102.6121,
 								"latitude": 78.8716,
@@ -1746,7 +1746,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -98.0025,
 								"latitude": 78.8716,
@@ -1758,7 +1758,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -93.3929,
 								"latitude": 78.8716,
@@ -1770,7 +1770,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -91.0881,
 								"latitude": 78.8716,
@@ -1782,7 +1782,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -88.7833,
 								"latitude": 78.8716,
@@ -1794,7 +1794,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -86.4785,
 								"latitude": 78.8716,
@@ -1806,7 +1806,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -84.1737,
 								"latitude": 78.8716,
@@ -1818,7 +1818,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -81.8689,
 								"latitude": 78.8716,
@@ -1830,7 +1830,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -79.5641,
 								"latitude": 78.8716,
@@ -1842,7 +1842,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -77.2593,
 								"latitude": 78.8716,
@@ -1854,7 +1854,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -70.3449,
 								"latitude": 78.8716,
@@ -1866,7 +1866,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -68.0401,
 								"latitude": 78.8716,
@@ -1878,7 +1878,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -65.7353,
 								"latitude": 78.8716,
@@ -1890,7 +1890,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -63.4305,
 								"latitude": 78.8716,
@@ -1902,7 +1902,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -61.1257,
 								"latitude": 78.8716,
@@ -1914,7 +1914,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -58.8209,
 								"latitude": 78.8716,
@@ -1926,7 +1926,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -56.5161,
 								"latitude": 78.8716,
@@ -1938,7 +1938,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -54.2113,
 								"latitude": 78.8716,
@@ -1950,7 +1950,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -51.9065,
 								"latitude": 78.8716,
@@ -1962,7 +1962,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -49.6017,
 								"latitude": 78.8716,
@@ -1974,7 +1974,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -47.2969,
 								"latitude": 78.8716,
@@ -1986,7 +1986,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -44.9921,
 								"latitude": 78.8716,
@@ -1998,7 +1998,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -42.6873,
 								"latitude": 78.8716,
@@ -2010,7 +2010,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -40.3824,
 								"latitude": 78.8716,
@@ -2022,7 +2022,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -38.0776,
 								"latitude": 78.8716,
@@ -2034,7 +2034,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -35.7728,
 								"latitude": 78.8716,
@@ -2046,7 +2046,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -33.468,
 								"latitude": 78.8716,
@@ -2058,7 +2058,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -31.1632,
 								"latitude": 78.8716,
@@ -2070,7 +2070,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -28.8584,
 								"latitude": 78.8716,
@@ -2082,7 +2082,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -26.5536,
 								"latitude": 78.8716,
@@ -2094,7 +2094,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -24.2488,
 								"latitude": 78.8716,
@@ -2106,7 +2106,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -21.944,
 								"latitude": 78.8716,
@@ -2118,7 +2118,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -19.6392,
 								"latitude": 78.8716,
@@ -2130,7 +2130,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Svalbard and Jan Mayen",
 								"longitude": 12.628,
 								"latitude": 78.8716,
@@ -2142,7 +2142,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Svalbard and Jan Mayen",
 								"longitude": 14.9328,
 								"latitude": 78.8716,
@@ -2154,7 +2154,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Svalbard and Jan Mayen",
 								"longitude": 17.2376,
 								"latitude": 78.8716,
@@ -2166,7 +2166,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Svalbard and Jan Mayen",
 								"longitude": 19.5424,
 								"latitude": 78.8716,
@@ -2178,7 +2178,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 97.9057,
 								"latitude": 78.8716,
@@ -2190,7 +2190,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 102.5153,
 								"latitude": 78.8716,
@@ -2202,7 +2202,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 104.8201,
 								"latitude": 78.8716,
@@ -2214,7 +2214,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -111.8313,
 								"latitude": 77.8103,
@@ -2226,7 +2226,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -95.6977,
 								"latitude": 77.8103,
@@ -2238,7 +2238,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -86.4785,
 								"latitude": 77.8103,
@@ -2250,7 +2250,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -84.1737,
 								"latitude": 77.8103,
@@ -2262,7 +2262,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -81.8689,
 								"latitude": 77.8103,
@@ -2274,7 +2274,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -79.5641,
 								"latitude": 77.8103,
@@ -2286,7 +2286,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -70.3449,
 								"latitude": 77.8103,
@@ -2298,7 +2298,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -68.0401,
 								"latitude": 77.8103,
@@ -2310,7 +2310,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -65.7353,
 								"latitude": 77.8103,
@@ -2322,7 +2322,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -63.4305,
 								"latitude": 77.8103,
@@ -2334,7 +2334,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -61.1257,
 								"latitude": 77.8103,
@@ -2346,7 +2346,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -58.8209,
 								"latitude": 77.8103,
@@ -2358,7 +2358,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -56.5161,
 								"latitude": 77.8103,
@@ -2370,7 +2370,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -54.2113,
 								"latitude": 77.8103,
@@ -2382,7 +2382,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -51.9065,
 								"latitude": 77.8103,
@@ -2394,7 +2394,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -49.6017,
 								"latitude": 77.8103,
@@ -2406,7 +2406,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -47.2969,
 								"latitude": 77.8103,
@@ -2418,7 +2418,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -44.9921,
 								"latitude": 77.8103,
@@ -2430,7 +2430,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -42.6873,
 								"latitude": 77.8103,
@@ -2442,7 +2442,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -40.3824,
 								"latitude": 77.8103,
@@ -2454,7 +2454,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -38.0776,
 								"latitude": 77.8103,
@@ -2466,7 +2466,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -35.7728,
 								"latitude": 77.8103,
@@ -2478,7 +2478,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -33.468,
 								"latitude": 77.8103,
@@ -2490,7 +2490,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -31.1632,
 								"latitude": 77.8103,
@@ -2502,7 +2502,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -28.8584,
 								"latitude": 77.8103,
@@ -2514,7 +2514,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -26.5536,
 								"latitude": 77.8103,
@@ -2526,7 +2526,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -24.2488,
 								"latitude": 77.8103,
@@ -2538,7 +2538,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -21.944,
 								"latitude": 77.8103,
@@ -2550,7 +2550,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -19.6392,
 								"latitude": 77.8103,
@@ -2562,7 +2562,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Svalbard and Jan Mayen",
 								"longitude": 14.9328,
 								"latitude": 77.8103,
@@ -2574,7 +2574,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Svalbard and Jan Mayen",
 								"longitude": 17.2376,
 								"latitude": 77.8103,
@@ -2586,7 +2586,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Svalbard and Jan Mayen",
 								"longitude": 21.8472,
 								"latitude": 77.8103,
@@ -2598,7 +2598,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Svalbard and Jan Mayen",
 								"longitude": 24.152,
 								"latitude": 77.8103,
@@ -2610,7 +2610,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -121.0505,
 								"latitude": 76.7181,
@@ -2622,7 +2622,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -118.7457,
 								"latitude": 76.7181,
@@ -2634,7 +2634,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -109.5265,
 								"latitude": 76.7181,
@@ -2646,7 +2646,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -95.6977,
 								"latitude": 76.7181,
@@ -2658,7 +2658,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -93.3929,
 								"latitude": 76.7181,
@@ -2670,7 +2670,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -88.7833,
 								"latitude": 76.7181,
@@ -2682,7 +2682,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -86.4785,
 								"latitude": 76.7181,
@@ -2694,7 +2694,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -84.1737,
 								"latitude": 76.7181,
@@ -2706,7 +2706,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -81.8689,
 								"latitude": 76.7181,
@@ -2718,7 +2718,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -79.5641,
 								"latitude": 76.7181,
@@ -2730,7 +2730,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -70.3449,
 								"latitude": 76.7181,
@@ -2742,7 +2742,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -68.0401,
 								"latitude": 76.7181,
@@ -2754,7 +2754,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -65.7353,
 								"latitude": 76.7181,
@@ -2766,7 +2766,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -63.4305,
 								"latitude": 76.7181,
@@ -2778,7 +2778,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -61.1257,
 								"latitude": 76.7181,
@@ -2790,7 +2790,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -58.8209,
 								"latitude": 76.7181,
@@ -2802,7 +2802,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -56.5161,
 								"latitude": 76.7181,
@@ -2814,7 +2814,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -54.2113,
 								"latitude": 76.7181,
@@ -2826,7 +2826,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -51.9065,
 								"latitude": 76.7181,
@@ -2838,7 +2838,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -49.6017,
 								"latitude": 76.7181,
@@ -2850,7 +2850,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -47.2969,
 								"latitude": 76.7181,
@@ -2862,7 +2862,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -44.9921,
 								"latitude": 76.7181,
@@ -2874,7 +2874,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -42.6873,
 								"latitude": 76.7181,
@@ -2886,7 +2886,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -40.3824,
 								"latitude": 76.7181,
@@ -2898,7 +2898,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -38.0776,
 								"latitude": 76.7181,
@@ -2910,7 +2910,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -35.7728,
 								"latitude": 76.7181,
@@ -2922,7 +2922,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -33.468,
 								"latitude": 76.7181,
@@ -2934,7 +2934,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -31.1632,
 								"latitude": 76.7181,
@@ -2946,7 +2946,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -28.8584,
 								"latitude": 76.7181,
@@ -2958,7 +2958,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -26.5536,
 								"latitude": 76.7181,
@@ -2970,7 +2970,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -24.2488,
 								"latitude": 76.7181,
@@ -2982,7 +2982,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -21.944,
 								"latitude": 76.7181,
@@ -2994,7 +2994,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 65.6385,
 								"latitude": 76.7181,
@@ -3006,7 +3006,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 67.9433,
 								"latitude": 76.7181,
@@ -3018,7 +3018,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 102.5153,
 								"latitude": 76.7181,
@@ -3030,7 +3030,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 104.8201,
 								"latitude": 76.7181,
@@ -3042,7 +3042,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 107.1249,
 								"latitude": 76.7181,
@@ -3054,7 +3054,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 109.4297,
 								"latitude": 76.7181,
@@ -3066,7 +3066,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -116.4409,
 								"latitude": 75.5946,
@@ -3078,7 +3078,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -114.1361,
 								"latitude": 75.5946,
@@ -3090,7 +3090,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -111.8313,
 								"latitude": 75.5946,
@@ -3102,7 +3102,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -109.5265,
 								"latitude": 75.5946,
@@ -3114,7 +3114,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -107.2217,
 								"latitude": 75.5946,
@@ -3126,7 +3126,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -102.6121,
 								"latitude": 75.5946,
@@ -3138,7 +3138,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -100.3073,
 								"latitude": 75.5946,
@@ -3150,7 +3150,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -98.0025,
 								"latitude": 75.5946,
@@ -3162,7 +3162,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -95.6977,
 								"latitude": 75.5946,
@@ -3174,7 +3174,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -91.0881,
 								"latitude": 75.5946,
@@ -3186,7 +3186,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -88.7833,
 								"latitude": 75.5946,
@@ -3198,7 +3198,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -84.1737,
 								"latitude": 75.5946,
@@ -3210,7 +3210,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -81.8689,
 								"latitude": 75.5946,
@@ -3222,7 +3222,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -58.8209,
 								"latitude": 75.5946,
@@ -3234,7 +3234,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -56.5161,
 								"latitude": 75.5946,
@@ -3246,7 +3246,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -54.2113,
 								"latitude": 75.5946,
@@ -3258,7 +3258,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -51.9065,
 								"latitude": 75.5946,
@@ -3270,7 +3270,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -49.6017,
 								"latitude": 75.5946,
@@ -3282,7 +3282,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -47.2969,
 								"latitude": 75.5946,
@@ -3294,7 +3294,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -44.9921,
 								"latitude": 75.5946,
@@ -3306,7 +3306,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -42.6873,
 								"latitude": 75.5946,
@@ -3318,7 +3318,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -40.3824,
 								"latitude": 75.5946,
@@ -3330,7 +3330,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -38.0776,
 								"latitude": 75.5946,
@@ -3342,7 +3342,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -35.7728,
 								"latitude": 75.5946,
@@ -3354,7 +3354,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -33.468,
 								"latitude": 75.5946,
@@ -3366,7 +3366,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -31.1632,
 								"latitude": 75.5946,
@@ -3378,7 +3378,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -28.8584,
 								"latitude": 75.5946,
@@ -3390,7 +3390,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -26.5536,
 								"latitude": 75.5946,
@@ -3402,7 +3402,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -24.2488,
 								"latitude": 75.5946,
@@ -3414,7 +3414,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -21.944,
 								"latitude": 75.5946,
@@ -3426,7 +3426,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -19.6392,
 								"latitude": 75.5946,
@@ -3438,7 +3438,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 58.7241,
 								"latitude": 75.5946,
@@ -3450,7 +3450,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 61.0289,
 								"latitude": 75.5946,
@@ -3462,7 +3462,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 63.3337,
 								"latitude": 75.5946,
@@ -3474,7 +3474,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 90.9913,
 								"latitude": 75.5946,
@@ -3486,7 +3486,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 93.2961,
 								"latitude": 75.5946,
@@ -3498,7 +3498,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 95.6009,
 								"latitude": 75.5946,
@@ -3510,7 +3510,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 97.9057,
 								"latitude": 75.5946,
@@ -3522,7 +3522,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 100.2105,
 								"latitude": 75.5946,
@@ -3534,7 +3534,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 102.5153,
 								"latitude": 75.5946,
@@ -3546,7 +3546,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 104.8201,
 								"latitude": 75.5946,
@@ -3558,7 +3558,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 107.1249,
 								"latitude": 75.5946,
@@ -3570,7 +3570,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 109.4297,
 								"latitude": 75.5946,
@@ -3582,7 +3582,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 111.7345,
 								"latitude": 75.5946,
@@ -3594,7 +3594,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 114.0393,
 								"latitude": 75.5946,
@@ -3606,7 +3606,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 139.3922,
 								"latitude": 75.5946,
@@ -3618,7 +3618,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 141.697,
 								"latitude": 75.5946,
@@ -3630,7 +3630,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 144.0018,
 								"latitude": 75.5946,
@@ -3642,7 +3642,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -123.3554,
 								"latitude": 74.4391,
@@ -3654,7 +3654,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -121.0505,
 								"latitude": 74.4391,
@@ -3666,7 +3666,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -88.7833,
 								"latitude": 74.4391,
@@ -3678,7 +3678,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -86.4785,
 								"latitude": 74.4391,
@@ -3690,7 +3690,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -81.8689,
 								"latitude": 74.4391,
@@ -3702,7 +3702,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -56.5161,
 								"latitude": 74.4391,
@@ -3714,7 +3714,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -54.2113,
 								"latitude": 74.4391,
@@ -3726,7 +3726,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -51.9065,
 								"latitude": 74.4391,
@@ -3738,7 +3738,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -49.6017,
 								"latitude": 74.4391,
@@ -3750,7 +3750,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -47.2969,
 								"latitude": 74.4391,
@@ -3762,7 +3762,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -44.9921,
 								"latitude": 74.4391,
@@ -3774,7 +3774,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -42.6873,
 								"latitude": 74.4391,
@@ -3786,7 +3786,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -40.3824,
 								"latitude": 74.4391,
@@ -3798,7 +3798,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -38.0776,
 								"latitude": 74.4391,
@@ -3810,7 +3810,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -35.7728,
 								"latitude": 74.4391,
@@ -3822,7 +3822,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -33.468,
 								"latitude": 74.4391,
@@ -3834,7 +3834,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -31.1632,
 								"latitude": 74.4391,
@@ -3846,7 +3846,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -28.8584,
 								"latitude": 74.4391,
@@ -3858,7 +3858,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -26.5536,
 								"latitude": 74.4391,
@@ -3870,7 +3870,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -24.2488,
 								"latitude": 74.4391,
@@ -3882,7 +3882,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -21.944,
 								"latitude": 74.4391,
@@ -3894,7 +3894,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -19.6392,
 								"latitude": 74.4391,
@@ -3906,7 +3906,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 56.4193,
 								"latitude": 74.4391,
@@ -3918,7 +3918,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 58.7241,
 								"latitude": 74.4391,
@@ -3930,7 +3930,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 86.3817,
 								"latitude": 74.4391,
@@ -3942,7 +3942,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 88.6865,
 								"latitude": 74.4391,
@@ -3954,7 +3954,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 90.9913,
 								"latitude": 74.4391,
@@ -3966,7 +3966,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 93.2961,
 								"latitude": 74.4391,
@@ -3978,7 +3978,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 95.6009,
 								"latitude": 74.4391,
@@ -3990,7 +3990,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 97.9057,
 								"latitude": 74.4391,
@@ -4002,7 +4002,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 100.2105,
 								"latitude": 74.4391,
@@ -4014,7 +4014,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 102.5153,
 								"latitude": 74.4391,
@@ -4026,7 +4026,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 104.8201,
 								"latitude": 74.4391,
@@ -4038,7 +4038,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 107.1249,
 								"latitude": 74.4391,
@@ -4050,7 +4050,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 109.4297,
 								"latitude": 74.4391,
@@ -4062,7 +4062,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -123.3554,
 								"latitude": 73.251,
@@ -4074,7 +4074,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -121.0505,
 								"latitude": 73.251,
@@ -4086,7 +4086,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -118.7457,
 								"latitude": 73.251,
@@ -4098,7 +4098,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -107.2217,
 								"latitude": 73.251,
@@ -4110,7 +4110,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -104.9169,
 								"latitude": 73.251,
@@ -4122,7 +4122,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -100.3073,
 								"latitude": 73.251,
@@ -4134,7 +4134,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -98.0025,
 								"latitude": 73.251,
@@ -4146,7 +4146,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -95.6977,
 								"latitude": 73.251,
@@ -4158,7 +4158,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -93.3929,
 								"latitude": 73.251,
@@ -4170,7 +4170,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -88.7833,
 								"latitude": 73.251,
@@ -4182,7 +4182,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -86.4785,
 								"latitude": 73.251,
@@ -4194,7 +4194,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -84.1737,
 								"latitude": 73.251,
@@ -4206,7 +4206,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -81.8689,
 								"latitude": 73.251,
@@ -4218,7 +4218,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -79.5641,
 								"latitude": 73.251,
@@ -4230,7 +4230,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -77.2593,
 								"latitude": 73.251,
@@ -4242,7 +4242,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -54.2113,
 								"latitude": 73.251,
@@ -4254,7 +4254,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -51.9065,
 								"latitude": 73.251,
@@ -4266,7 +4266,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -49.6017,
 								"latitude": 73.251,
@@ -4278,7 +4278,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -47.2969,
 								"latitude": 73.251,
@@ -4290,7 +4290,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -44.9921,
 								"latitude": 73.251,
@@ -4302,7 +4302,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -42.6873,
 								"latitude": 73.251,
@@ -4314,7 +4314,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -40.3824,
 								"latitude": 73.251,
@@ -4326,7 +4326,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -38.0776,
 								"latitude": 73.251,
@@ -4338,7 +4338,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -35.7728,
 								"latitude": 73.251,
@@ -4350,7 +4350,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -33.468,
 								"latitude": 73.251,
@@ -4362,7 +4362,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -31.1632,
 								"latitude": 73.251,
@@ -4374,7 +4374,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -28.8584,
 								"latitude": 73.251,
@@ -4386,7 +4386,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -26.5536,
 								"latitude": 73.251,
@@ -4398,7 +4398,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -24.2488,
 								"latitude": 73.251,
@@ -4410,7 +4410,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 54.1145,
 								"latitude": 73.251,
@@ -4422,7 +4422,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 56.4193,
 								"latitude": 73.251,
@@ -4434,7 +4434,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 81.7721,
 								"latitude": 73.251,
@@ -4446,7 +4446,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 84.0769,
 								"latitude": 73.251,
@@ -4458,7 +4458,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 86.3817,
 								"latitude": 73.251,
@@ -4470,7 +4470,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 88.6865,
 								"latitude": 73.251,
@@ -4482,7 +4482,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 90.9913,
 								"latitude": 73.251,
@@ -4494,7 +4494,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 93.2961,
 								"latitude": 73.251,
@@ -4506,7 +4506,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 95.6009,
 								"latitude": 73.251,
@@ -4518,7 +4518,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 97.9057,
 								"latitude": 73.251,
@@ -4530,7 +4530,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 100.2105,
 								"latitude": 73.251,
@@ -4542,7 +4542,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 102.5153,
 								"latitude": 73.251,
@@ -4554,7 +4554,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 104.8201,
 								"latitude": 73.251,
@@ -4566,7 +4566,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 107.1249,
 								"latitude": 73.251,
@@ -4578,7 +4578,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 109.4297,
 								"latitude": 73.251,
@@ -4590,7 +4590,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 111.7345,
 								"latitude": 73.251,
@@ -4602,7 +4602,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 114.0393,
 								"latitude": 73.251,
@@ -4614,7 +4614,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 116.3441,
 								"latitude": 73.251,
@@ -4626,7 +4626,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 118.6489,
 								"latitude": 73.251,
@@ -4638,7 +4638,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 123.2585,
 								"latitude": 73.251,
@@ -4650,7 +4650,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 125.5634,
 								"latitude": 73.251,
@@ -4662,7 +4662,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 127.8682,
 								"latitude": 73.251,
@@ -4674,7 +4674,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 141.697,
 								"latitude": 73.251,
@@ -4686,7 +4686,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -125.6602,
 								"latitude": 72.0296,
@@ -4698,7 +4698,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -123.3554,
 								"latitude": 72.0296,
@@ -4710,7 +4710,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -121.0505,
 								"latitude": 72.0296,
@@ -4722,7 +4722,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -118.7457,
 								"latitude": 72.0296,
@@ -4734,7 +4734,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -116.4409,
 								"latitude": 72.0296,
@@ -4746,7 +4746,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -114.1361,
 								"latitude": 72.0296,
@@ -4758,7 +4758,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -111.8313,
 								"latitude": 72.0296,
@@ -4770,7 +4770,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -109.5265,
 								"latitude": 72.0296,
@@ -4782,7 +4782,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -107.2217,
 								"latitude": 72.0296,
@@ -4794,7 +4794,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -104.9169,
 								"latitude": 72.0296,
@@ -4806,7 +4806,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -100.3073,
 								"latitude": 72.0296,
@@ -4818,7 +4818,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -98.0025,
 								"latitude": 72.0296,
@@ -4830,7 +4830,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -88.7833,
 								"latitude": 72.0296,
@@ -4842,7 +4842,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -86.4785,
 								"latitude": 72.0296,
@@ -4854,7 +4854,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -84.1737,
 								"latitude": 72.0296,
@@ -4866,7 +4866,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -81.8689,
 								"latitude": 72.0296,
@@ -4878,7 +4878,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -79.5641,
 								"latitude": 72.0296,
@@ -4890,7 +4890,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -77.2593,
 								"latitude": 72.0296,
@@ -4902,7 +4902,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -74.9545,
 								"latitude": 72.0296,
@@ -4914,7 +4914,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -54.2113,
 								"latitude": 72.0296,
@@ -4926,7 +4926,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -51.9065,
 								"latitude": 72.0296,
@@ -4938,7 +4938,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -49.6017,
 								"latitude": 72.0296,
@@ -4950,7 +4950,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -47.2969,
 								"latitude": 72.0296,
@@ -4962,7 +4962,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -44.9921,
 								"latitude": 72.0296,
@@ -4974,7 +4974,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -42.6873,
 								"latitude": 72.0296,
@@ -4986,7 +4986,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -40.3824,
 								"latitude": 72.0296,
@@ -4998,7 +4998,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -38.0776,
 								"latitude": 72.0296,
@@ -5010,7 +5010,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -35.7728,
 								"latitude": 72.0296,
@@ -5022,7 +5022,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -33.468,
 								"latitude": 72.0296,
@@ -5034,7 +5034,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -31.1632,
 								"latitude": 72.0296,
@@ -5046,7 +5046,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -28.8584,
 								"latitude": 72.0296,
@@ -5058,7 +5058,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -26.5536,
 								"latitude": 72.0296,
@@ -5070,7 +5070,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -24.2488,
 								"latitude": 72.0296,
@@ -5082,7 +5082,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 51.8097,
 								"latitude": 72.0296,
@@ -5094,7 +5094,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 54.1145,
 								"latitude": 72.0296,
@@ -5106,7 +5106,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 70.2481,
 								"latitude": 72.0296,
@@ -5118,7 +5118,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 72.5529,
 								"latitude": 72.0296,
@@ -5130,7 +5130,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 74.8577,
 								"latitude": 72.0296,
@@ -5142,7 +5142,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 77.1625,
 								"latitude": 72.0296,
@@ -5154,7 +5154,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 79.4673,
 								"latitude": 72.0296,
@@ -5166,7 +5166,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 81.7721,
 								"latitude": 72.0296,
@@ -5178,7 +5178,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 84.0769,
 								"latitude": 72.0296,
@@ -5190,7 +5190,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 86.3817,
 								"latitude": 72.0296,
@@ -5202,7 +5202,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 88.6865,
 								"latitude": 72.0296,
@@ -5214,7 +5214,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 90.9913,
 								"latitude": 72.0296,
@@ -5226,7 +5226,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 93.2961,
 								"latitude": 72.0296,
@@ -5238,7 +5238,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 95.6009,
 								"latitude": 72.0296,
@@ -5250,7 +5250,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 97.9057,
 								"latitude": 72.0296,
@@ -5262,7 +5262,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 100.2105,
 								"latitude": 72.0296,
@@ -5274,7 +5274,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 102.5153,
 								"latitude": 72.0296,
@@ -5286,7 +5286,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 104.8201,
 								"latitude": 72.0296,
@@ -5298,7 +5298,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 107.1249,
 								"latitude": 72.0296,
@@ -5310,7 +5310,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 109.4297,
 								"latitude": 72.0296,
@@ -5322,7 +5322,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 111.7345,
 								"latitude": 72.0296,
@@ -5334,7 +5334,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 114.0393,
 								"latitude": 72.0296,
@@ -5346,7 +5346,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 116.3441,
 								"latitude": 72.0296,
@@ -5358,7 +5358,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 118.6489,
 								"latitude": 72.0296,
@@ -5370,7 +5370,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 120.9537,
 								"latitude": 72.0296,
@@ -5382,7 +5382,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 123.2585,
 								"latitude": 72.0296,
@@ -5394,7 +5394,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 125.5634,
 								"latitude": 72.0296,
@@ -5406,7 +5406,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 127.8682,
 								"latitude": 72.0296,
@@ -5418,7 +5418,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 141.697,
 								"latitude": 72.0296,
@@ -5430,7 +5430,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 144.0018,
 								"latitude": 72.0296,
@@ -5442,7 +5442,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 146.3066,
 								"latitude": 72.0296,
@@ -5454,7 +5454,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 148.6114,
 								"latitude": 72.0296,
@@ -5466,7 +5466,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -157.9274,
 								"latitude": 70.7746,
@@ -5478,7 +5478,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -155.6226,
 								"latitude": 70.7746,
@@ -5490,7 +5490,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -153.3178,
 								"latitude": 70.7746,
@@ -5502,7 +5502,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -116.4409,
 								"latitude": 70.7746,
@@ -5514,7 +5514,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -114.1361,
 								"latitude": 70.7746,
@@ -5526,7 +5526,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -111.8313,
 								"latitude": 70.7746,
@@ -5538,7 +5538,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -109.5265,
 								"latitude": 70.7746,
@@ -5550,7 +5550,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -107.2217,
 								"latitude": 70.7746,
@@ -5562,7 +5562,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -104.9169,
 								"latitude": 70.7746,
@@ -5574,7 +5574,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -95.6977,
 								"latitude": 70.7746,
@@ -5586,7 +5586,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -93.3929,
 								"latitude": 70.7746,
@@ -5598,7 +5598,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -88.7833,
 								"latitude": 70.7746,
@@ -5610,7 +5610,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -86.4785,
 								"latitude": 70.7746,
@@ -5622,7 +5622,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -84.1737,
 								"latitude": 70.7746,
@@ -5634,7 +5634,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -81.8689,
 								"latitude": 70.7746,
@@ -5646,7 +5646,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -79.5641,
 								"latitude": 70.7746,
@@ -5658,7 +5658,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -77.2593,
 								"latitude": 70.7746,
@@ -5670,7 +5670,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -74.9545,
 								"latitude": 70.7746,
@@ -5682,7 +5682,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -72.6497,
 								"latitude": 70.7746,
@@ -5694,7 +5694,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -70.3449,
 								"latitude": 70.7746,
@@ -5706,7 +5706,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -54.2113,
 								"latitude": 70.7746,
@@ -5718,7 +5718,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -51.9065,
 								"latitude": 70.7746,
@@ -5730,7 +5730,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -49.6017,
 								"latitude": 70.7746,
@@ -5742,7 +5742,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -47.2969,
 								"latitude": 70.7746,
@@ -5754,7 +5754,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -44.9921,
 								"latitude": 70.7746,
@@ -5766,7 +5766,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -42.6873,
 								"latitude": 70.7746,
@@ -5778,7 +5778,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -40.3824,
 								"latitude": 70.7746,
@@ -5790,7 +5790,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -38.0776,
 								"latitude": 70.7746,
@@ -5802,7 +5802,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -35.7728,
 								"latitude": 70.7746,
@@ -5814,7 +5814,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -33.468,
 								"latitude": 70.7746,
@@ -5826,7 +5826,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -31.1632,
 								"latitude": 70.7746,
@@ -5838,7 +5838,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -28.8584,
 								"latitude": 70.7746,
@@ -5850,7 +5850,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -26.5536,
 								"latitude": 70.7746,
@@ -5862,7 +5862,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -24.2488,
 								"latitude": 70.7746,
@@ -5874,7 +5874,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -21.944,
 								"latitude": 70.7746,
@@ -5886,7 +5886,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Norway",
 								"longitude": 24.152,
 								"latitude": 70.7746,
@@ -5898,7 +5898,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Norway",
 								"longitude": 26.4568,
 								"latitude": 70.7746,
@@ -5910,7 +5910,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Norway",
 								"longitude": 28.7616,
 								"latitude": 70.7746,
@@ -5922,7 +5922,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 54.1145,
 								"latitude": 70.7746,
@@ -5934,7 +5934,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 56.4193,
 								"latitude": 70.7746,
@@ -5946,7 +5946,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 67.9433,
 								"latitude": 70.7746,
@@ -5958,7 +5958,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 70.2481,
 								"latitude": 70.7746,
@@ -5970,7 +5970,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 72.5529,
 								"latitude": 70.7746,
@@ -5982,7 +5982,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 74.8577,
 								"latitude": 70.7746,
@@ -5994,7 +5994,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 77.1625,
 								"latitude": 70.7746,
@@ -6006,7 +6006,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 79.4673,
 								"latitude": 70.7746,
@@ -6018,7 +6018,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 81.7721,
 								"latitude": 70.7746,
@@ -6030,7 +6030,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 84.0769,
 								"latitude": 70.7746,
@@ -6042,7 +6042,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 86.3817,
 								"latitude": 70.7746,
@@ -6054,7 +6054,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 88.6865,
 								"latitude": 70.7746,
@@ -6066,7 +6066,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 90.9913,
 								"latitude": 70.7746,
@@ -6078,7 +6078,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 93.2961,
 								"latitude": 70.7746,
@@ -6090,7 +6090,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 95.6009,
 								"latitude": 70.7746,
@@ -6102,7 +6102,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 97.9057,
 								"latitude": 70.7746,
@@ -6114,7 +6114,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 100.2105,
 								"latitude": 70.7746,
@@ -6126,7 +6126,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 102.5153,
 								"latitude": 70.7746,
@@ -6138,7 +6138,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 104.8201,
 								"latitude": 70.7746,
@@ -6150,7 +6150,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 107.1249,
 								"latitude": 70.7746,
@@ -6162,7 +6162,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 109.4297,
 								"latitude": 70.7746,
@@ -6174,7 +6174,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 111.7345,
 								"latitude": 70.7746,
@@ -6186,7 +6186,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 114.0393,
 								"latitude": 70.7746,
@@ -6198,7 +6198,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 116.3441,
 								"latitude": 70.7746,
@@ -6210,7 +6210,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 118.6489,
 								"latitude": 70.7746,
@@ -6222,7 +6222,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 120.9537,
 								"latitude": 70.7746,
@@ -6234,7 +6234,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 123.2585,
 								"latitude": 70.7746,
@@ -6246,7 +6246,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 125.5634,
 								"latitude": 70.7746,
@@ -6258,7 +6258,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 127.8682,
 								"latitude": 70.7746,
@@ -6270,7 +6270,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 130.173,
 								"latitude": 70.7746,
@@ -6282,7 +6282,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 132.4778,
 								"latitude": 70.7746,
@@ -6294,7 +6294,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 134.7826,
 								"latitude": 70.7746,
@@ -6306,7 +6306,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 137.0874,
 								"latitude": 70.7746,
@@ -6318,7 +6318,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 139.3922,
 								"latitude": 70.7746,
@@ -6330,7 +6330,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 141.697,
 								"latitude": 70.7746,
@@ -6342,7 +6342,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 144.0018,
 								"latitude": 70.7746,
@@ -6354,7 +6354,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 146.3066,
 								"latitude": 70.7746,
@@ -6366,7 +6366,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 148.6114,
 								"latitude": 70.7746,
@@ -6378,7 +6378,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 150.9162,
 								"latitude": 70.7746,
@@ -6390,7 +6390,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 153.221,
 								"latitude": 70.7746,
@@ -6402,7 +6402,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 155.5258,
 								"latitude": 70.7746,
@@ -6414,7 +6414,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 157.8306,
 								"latitude": 70.7746,
@@ -6426,7 +6426,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -162.537,
 								"latitude": 69.4852,
@@ -6438,7 +6438,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -160.2322,
 								"latitude": 69.4852,
@@ -6450,7 +6450,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -157.9274,
 								"latitude": 69.4852,
@@ -6462,7 +6462,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -155.6226,
 								"latitude": 69.4852,
@@ -6474,7 +6474,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -153.3178,
 								"latitude": 69.4852,
@@ -6486,7 +6486,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -151.013,
 								"latitude": 69.4852,
@@ -6498,7 +6498,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -148.7082,
 								"latitude": 69.4852,
@@ -6510,7 +6510,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -146.4034,
 								"latitude": 69.4852,
@@ -6522,7 +6522,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -144.0986,
 								"latitude": 69.4852,
@@ -6534,7 +6534,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -141.7938,
 								"latitude": 69.4852,
@@ -6546,7 +6546,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -139.489,
 								"latitude": 69.4852,
@@ -6558,7 +6558,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -134.8794,
 								"latitude": 69.4852,
@@ -6570,7 +6570,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -132.5746,
 								"latitude": 69.4852,
@@ -6582,7 +6582,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -130.2698,
 								"latitude": 69.4852,
@@ -6594,7 +6594,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -127.965,
 								"latitude": 69.4852,
@@ -6606,7 +6606,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -125.6602,
 								"latitude": 69.4852,
@@ -6618,7 +6618,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -123.3554,
 								"latitude": 69.4852,
@@ -6630,7 +6630,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -121.0505,
 								"latitude": 69.4852,
@@ -6642,7 +6642,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -116.4409,
 								"latitude": 69.4852,
@@ -6654,7 +6654,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -114.1361,
 								"latitude": 69.4852,
@@ -6666,7 +6666,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -111.8313,
 								"latitude": 69.4852,
@@ -6678,7 +6678,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -109.5265,
 								"latitude": 69.4852,
@@ -6690,7 +6690,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -107.2217,
 								"latitude": 69.4852,
@@ -6702,7 +6702,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -104.9169,
 								"latitude": 69.4852,
@@ -6714,7 +6714,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -102.6121,
 								"latitude": 69.4852,
@@ -6726,7 +6726,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -98.0025,
 								"latitude": 69.4852,
@@ -6738,7 +6738,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -93.3929,
 								"latitude": 69.4852,
@@ -6750,7 +6750,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -91.0881,
 								"latitude": 69.4852,
@@ -6762,7 +6762,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -84.1737,
 								"latitude": 69.4852,
@@ -6774,7 +6774,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -81.8689,
 								"latitude": 69.4852,
@@ -6786,7 +6786,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -74.9545,
 								"latitude": 69.4852,
@@ -6798,7 +6798,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -72.6497,
 								"latitude": 69.4852,
@@ -6810,7 +6810,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -70.3449,
 								"latitude": 69.4852,
@@ -6822,7 +6822,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -68.0401,
 								"latitude": 69.4852,
@@ -6834,7 +6834,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -54.2113,
 								"latitude": 69.4852,
@@ -6846,7 +6846,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -49.6017,
 								"latitude": 69.4852,
@@ -6858,7 +6858,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -47.2969,
 								"latitude": 69.4852,
@@ -6870,7 +6870,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -44.9921,
 								"latitude": 69.4852,
@@ -6882,7 +6882,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -42.6873,
 								"latitude": 69.4852,
@@ -6894,7 +6894,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -40.3824,
 								"latitude": 69.4852,
@@ -6906,7 +6906,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -38.0776,
 								"latitude": 69.4852,
@@ -6918,7 +6918,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -35.7728,
 								"latitude": 69.4852,
@@ -6930,7 +6930,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -33.468,
 								"latitude": 69.4852,
@@ -6942,7 +6942,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -31.1632,
 								"latitude": 69.4852,
@@ -6954,7 +6954,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -28.8584,
 								"latitude": 69.4852,
@@ -6966,7 +6966,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -26.5536,
 								"latitude": 69.4852,
@@ -6978,7 +6978,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -24.2488,
 								"latitude": 69.4852,
@@ -6990,7 +6990,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Norway",
 								"longitude": 19.5424,
 								"latitude": 69.4852,
@@ -7002,7 +7002,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Norway",
 								"longitude": 21.8472,
 								"latitude": 69.4852,
@@ -7014,7 +7014,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Norway",
 								"longitude": 24.152,
 								"latitude": 69.4852,
@@ -7026,7 +7026,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Finland",
 								"longitude": 26.4568,
 								"latitude": 69.4852,
@@ -7038,7 +7038,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Norway",
 								"longitude": 28.7616,
 								"latitude": 69.4852,
@@ -7050,7 +7050,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 31.0664,
 								"latitude": 69.4852,
@@ -7062,7 +7062,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 33.3712,
 								"latitude": 69.4852,
@@ -7074,7 +7074,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 61.0289,
 								"latitude": 69.4852,
@@ -7086,7 +7086,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 63.3337,
 								"latitude": 69.4852,
@@ -7098,7 +7098,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 67.9433,
 								"latitude": 69.4852,
@@ -7110,7 +7110,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 70.2481,
 								"latitude": 69.4852,
@@ -7122,7 +7122,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 72.5529,
 								"latitude": 69.4852,
@@ -7134,7 +7134,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 74.8577,
 								"latitude": 69.4852,
@@ -7146,7 +7146,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 77.1625,
 								"latitude": 69.4852,
@@ -7158,7 +7158,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 79.4673,
 								"latitude": 69.4852,
@@ -7170,7 +7170,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 81.7721,
 								"latitude": 69.4852,
@@ -7182,7 +7182,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 84.0769,
 								"latitude": 69.4852,
@@ -7194,7 +7194,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 86.3817,
 								"latitude": 69.4852,
@@ -7206,7 +7206,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 88.6865,
 								"latitude": 69.4852,
@@ -7218,7 +7218,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 90.9913,
 								"latitude": 69.4852,
@@ -7230,7 +7230,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 93.2961,
 								"latitude": 69.4852,
@@ -7242,7 +7242,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 95.6009,
 								"latitude": 69.4852,
@@ -7254,7 +7254,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 97.9057,
 								"latitude": 69.4852,
@@ -7266,7 +7266,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 100.2105,
 								"latitude": 69.4852,
@@ -7278,7 +7278,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 102.5153,
 								"latitude": 69.4852,
@@ -7290,7 +7290,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 104.8201,
 								"latitude": 69.4852,
@@ -7302,7 +7302,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 107.1249,
 								"latitude": 69.4852,
@@ -7314,7 +7314,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 109.4297,
 								"latitude": 69.4852,
@@ -7326,7 +7326,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 111.7345,
 								"latitude": 69.4852,
@@ -7338,7 +7338,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 114.0393,
 								"latitude": 69.4852,
@@ -7350,7 +7350,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 116.3441,
 								"latitude": 69.4852,
@@ -7362,7 +7362,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 118.6489,
 								"latitude": 69.4852,
@@ -7374,7 +7374,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 120.9537,
 								"latitude": 69.4852,
@@ -7386,7 +7386,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 123.2585,
 								"latitude": 69.4852,
@@ -7398,7 +7398,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 125.5634,
 								"latitude": 69.4852,
@@ -7410,7 +7410,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 127.8682,
 								"latitude": 69.4852,
@@ -7422,7 +7422,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 130.173,
 								"latitude": 69.4852,
@@ -7434,7 +7434,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 132.4778,
 								"latitude": 69.4852,
@@ -7446,7 +7446,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 134.7826,
 								"latitude": 69.4852,
@@ -7458,7 +7458,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 137.0874,
 								"latitude": 69.4852,
@@ -7470,7 +7470,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 139.3922,
 								"latitude": 69.4852,
@@ -7482,7 +7482,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 141.697,
 								"latitude": 69.4852,
@@ -7494,7 +7494,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 144.0018,
 								"latitude": 69.4852,
@@ -7506,7 +7506,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 146.3066,
 								"latitude": 69.4852,
@@ -7518,7 +7518,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 148.6114,
 								"latitude": 69.4852,
@@ -7530,7 +7530,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 150.9162,
 								"latitude": 69.4852,
@@ -7542,7 +7542,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 153.221,
 								"latitude": 69.4852,
@@ -7554,7 +7554,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 155.5258,
 								"latitude": 69.4852,
@@ -7566,7 +7566,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 157.8306,
 								"latitude": 69.4852,
@@ -7578,7 +7578,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 160.1354,
 								"latitude": 69.4852,
@@ -7590,7 +7590,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 162.4402,
 								"latitude": 69.4852,
@@ -7602,7 +7602,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 164.745,
 								"latitude": 69.4852,
@@ -7614,7 +7614,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 167.0498,
 								"latitude": 69.4852,
@@ -7626,7 +7626,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 171.6594,
 								"latitude": 69.4852,
@@ -7638,7 +7638,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 173.9642,
 								"latitude": 69.4852,
@@ -7650,7 +7650,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 176.269,
 								"latitude": 69.4852,
@@ -7662,7 +7662,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 178.5738,
 								"latitude": 69.4852,
@@ -7674,7 +7674,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -164.8418,
 								"latitude": 68.161,
@@ -7686,7 +7686,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -162.537,
 								"latitude": 68.161,
@@ -7698,7 +7698,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -160.2322,
 								"latitude": 68.161,
@@ -7710,7 +7710,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -157.9274,
 								"latitude": 68.161,
@@ -7722,7 +7722,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -155.6226,
 								"latitude": 68.161,
@@ -7734,7 +7734,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -153.3178,
 								"latitude": 68.161,
@@ -7746,7 +7746,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -151.013,
 								"latitude": 68.161,
@@ -7758,7 +7758,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -148.7082,
 								"latitude": 68.161,
@@ -7770,7 +7770,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -146.4034,
 								"latitude": 68.161,
@@ -7782,7 +7782,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -144.0986,
 								"latitude": 68.161,
@@ -7794,7 +7794,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -141.7938,
 								"latitude": 68.161,
@@ -7806,7 +7806,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -139.489,
 								"latitude": 68.161,
@@ -7818,7 +7818,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -137.1842,
 								"latitude": 68.161,
@@ -7830,7 +7830,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -134.8794,
 								"latitude": 68.161,
@@ -7842,7 +7842,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -132.5746,
 								"latitude": 68.161,
@@ -7854,7 +7854,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -130.2698,
 								"latitude": 68.161,
@@ -7866,7 +7866,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -127.965,
 								"latitude": 68.161,
@@ -7878,7 +7878,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -125.6602,
 								"latitude": 68.161,
@@ -7890,7 +7890,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -123.3554,
 								"latitude": 68.161,
@@ -7902,7 +7902,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -121.0505,
 								"latitude": 68.161,
@@ -7914,7 +7914,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -118.7457,
 								"latitude": 68.161,
@@ -7926,7 +7926,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -116.4409,
 								"latitude": 68.161,
@@ -7938,7 +7938,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -107.2217,
 								"latitude": 68.161,
@@ -7950,7 +7950,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -104.9169,
 								"latitude": 68.161,
@@ -7962,7 +7962,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -98.0025,
 								"latitude": 68.161,
@@ -7974,7 +7974,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -93.3929,
 								"latitude": 68.161,
@@ -7986,7 +7986,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -91.0881,
 								"latitude": 68.161,
@@ -7998,7 +7998,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -88.7833,
 								"latitude": 68.161,
@@ -8010,7 +8010,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -84.1737,
 								"latitude": 68.161,
@@ -8022,7 +8022,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -81.8689,
 								"latitude": 68.161,
@@ -8034,7 +8034,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -72.6497,
 								"latitude": 68.161,
@@ -8046,7 +8046,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -70.3449,
 								"latitude": 68.161,
@@ -8058,7 +8058,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -68.0401,
 								"latitude": 68.161,
@@ -8070,7 +8070,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -51.9065,
 								"latitude": 68.161,
@@ -8082,7 +8082,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -49.6017,
 								"latitude": 68.161,
@@ -8094,7 +8094,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -47.2969,
 								"latitude": 68.161,
@@ -8106,7 +8106,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -44.9921,
 								"latitude": 68.161,
@@ -8118,7 +8118,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -42.6873,
 								"latitude": 68.161,
@@ -8130,7 +8130,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -40.3824,
 								"latitude": 68.161,
@@ -8142,7 +8142,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -38.0776,
 								"latitude": 68.161,
@@ -8154,7 +8154,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -35.7728,
 								"latitude": 68.161,
@@ -8166,7 +8166,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -33.468,
 								"latitude": 68.161,
@@ -8178,7 +8178,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -31.1632,
 								"latitude": 68.161,
@@ -8190,7 +8190,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Norway",
 								"longitude": 17.2376,
 								"latitude": 68.161,
@@ -8202,7 +8202,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sweden",
 								"longitude": 19.5424,
 								"latitude": 68.161,
@@ -8214,7 +8214,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sweden",
 								"longitude": 21.8472,
 								"latitude": 68.161,
@@ -8226,7 +8226,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Finland",
 								"longitude": 24.152,
 								"latitude": 68.161,
@@ -8238,7 +8238,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Finland",
 								"longitude": 26.4568,
 								"latitude": 68.161,
@@ -8250,7 +8250,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Finland",
 								"longitude": 28.7616,
 								"latitude": 68.161,
@@ -8262,7 +8262,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 31.0664,
 								"latitude": 68.161,
@@ -8274,7 +8274,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 33.3712,
 								"latitude": 68.161,
@@ -8286,7 +8286,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 35.676,
 								"latitude": 68.161,
@@ -8298,7 +8298,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 37.9808,
 								"latitude": 68.161,
@@ -8310,7 +8310,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 44.8953,
 								"latitude": 68.161,
@@ -8322,7 +8322,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 51.8097,
 								"latitude": 68.161,
@@ -8334,7 +8334,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 54.1145,
 								"latitude": 68.161,
@@ -8346,7 +8346,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 56.4193,
 								"latitude": 68.161,
@@ -8358,7 +8358,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 58.7241,
 								"latitude": 68.161,
@@ -8370,7 +8370,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 61.0289,
 								"latitude": 68.161,
@@ -8382,7 +8382,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 63.3337,
 								"latitude": 68.161,
@@ -8394,7 +8394,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 65.6385,
 								"latitude": 68.161,
@@ -8406,7 +8406,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 67.9433,
 								"latitude": 68.161,
@@ -8418,7 +8418,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 70.2481,
 								"latitude": 68.161,
@@ -8430,7 +8430,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 72.5529,
 								"latitude": 68.161,
@@ -8442,7 +8442,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 74.8577,
 								"latitude": 68.161,
@@ -8454,7 +8454,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 77.1625,
 								"latitude": 68.161,
@@ -8466,7 +8466,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 79.4673,
 								"latitude": 68.161,
@@ -8478,7 +8478,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 81.7721,
 								"latitude": 68.161,
@@ -8490,7 +8490,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 84.0769,
 								"latitude": 68.161,
@@ -8502,7 +8502,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 86.3817,
 								"latitude": 68.161,
@@ -8514,7 +8514,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 88.6865,
 								"latitude": 68.161,
@@ -8526,7 +8526,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 90.9913,
 								"latitude": 68.161,
@@ -8538,7 +8538,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 93.2961,
 								"latitude": 68.161,
@@ -8550,7 +8550,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 95.6009,
 								"latitude": 68.161,
@@ -8562,7 +8562,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 97.9057,
 								"latitude": 68.161,
@@ -8574,7 +8574,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 100.2105,
 								"latitude": 68.161,
@@ -8586,7 +8586,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 102.5153,
 								"latitude": 68.161,
@@ -8598,7 +8598,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 104.8201,
 								"latitude": 68.161,
@@ -8610,7 +8610,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 107.1249,
 								"latitude": 68.161,
@@ -8622,7 +8622,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 109.4297,
 								"latitude": 68.161,
@@ -8634,7 +8634,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 111.7345,
 								"latitude": 68.161,
@@ -8646,7 +8646,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 114.0393,
 								"latitude": 68.161,
@@ -8658,7 +8658,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 116.3441,
 								"latitude": 68.161,
@@ -8670,7 +8670,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 118.6489,
 								"latitude": 68.161,
@@ -8682,7 +8682,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 120.9537,
 								"latitude": 68.161,
@@ -8694,7 +8694,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 123.2585,
 								"latitude": 68.161,
@@ -8706,7 +8706,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 125.5634,
 								"latitude": 68.161,
@@ -8718,7 +8718,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 127.8682,
 								"latitude": 68.161,
@@ -8730,7 +8730,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 130.173,
 								"latitude": 68.161,
@@ -8742,7 +8742,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 132.4778,
 								"latitude": 68.161,
@@ -8754,7 +8754,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 134.7826,
 								"latitude": 68.161,
@@ -8766,7 +8766,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 137.0874,
 								"latitude": 68.161,
@@ -8778,7 +8778,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 139.3922,
 								"latitude": 68.161,
@@ -8790,7 +8790,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 141.697,
 								"latitude": 68.161,
@@ -8802,7 +8802,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 144.0018,
 								"latitude": 68.161,
@@ -8814,7 +8814,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 146.3066,
 								"latitude": 68.161,
@@ -8826,7 +8826,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 148.6114,
 								"latitude": 68.161,
@@ -8838,7 +8838,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 150.9162,
 								"latitude": 68.161,
@@ -8850,7 +8850,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 153.221,
 								"latitude": 68.161,
@@ -8862,7 +8862,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 155.5258,
 								"latitude": 68.161,
@@ -8874,7 +8874,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 157.8306,
 								"latitude": 68.161,
@@ -8886,7 +8886,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 160.1354,
 								"latitude": 68.161,
@@ -8898,7 +8898,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 162.4402,
 								"latitude": 68.161,
@@ -8910,7 +8910,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 164.745,
 								"latitude": 68.161,
@@ -8922,7 +8922,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 167.0498,
 								"latitude": 68.161,
@@ -8934,7 +8934,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 169.3546,
 								"latitude": 68.161,
@@ -8946,7 +8946,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 171.6594,
 								"latitude": 68.161,
@@ -8958,7 +8958,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 173.9642,
 								"latitude": 68.161,
@@ -8970,7 +8970,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 176.269,
 								"latitude": 68.161,
@@ -8982,7 +8982,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 178.5738,
 								"latitude": 68.161,
@@ -8994,7 +8994,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 180.8786,
 								"latitude": 68.161,
@@ -9006,7 +9006,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -162.537,
 								"latitude": 66.8015,
@@ -9018,7 +9018,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -160.2322,
 								"latitude": 66.8015,
@@ -9030,7 +9030,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -157.9274,
 								"latitude": 66.8015,
@@ -9042,7 +9042,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -155.6226,
 								"latitude": 66.8015,
@@ -9054,7 +9054,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -153.3178,
 								"latitude": 66.8015,
@@ -9066,7 +9066,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -151.013,
 								"latitude": 66.8015,
@@ -9078,7 +9078,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -148.7082,
 								"latitude": 66.8015,
@@ -9090,7 +9090,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -146.4034,
 								"latitude": 66.8015,
@@ -9102,7 +9102,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -144.0986,
 								"latitude": 66.8015,
@@ -9114,7 +9114,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -141.7938,
 								"latitude": 66.8015,
@@ -9126,7 +9126,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -139.489,
 								"latitude": 66.8015,
@@ -9138,7 +9138,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -137.1842,
 								"latitude": 66.8015,
@@ -9150,7 +9150,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -134.8794,
 								"latitude": 66.8015,
@@ -9162,7 +9162,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -132.5746,
 								"latitude": 66.8015,
@@ -9174,7 +9174,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -130.2698,
 								"latitude": 66.8015,
@@ -9186,7 +9186,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -127.965,
 								"latitude": 66.8015,
@@ -9198,7 +9198,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -125.6602,
 								"latitude": 66.8015,
@@ -9210,7 +9210,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -123.3554,
 								"latitude": 66.8015,
@@ -9222,7 +9222,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -121.0505,
 								"latitude": 66.8015,
@@ -9234,7 +9234,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -118.7457,
 								"latitude": 66.8015,
@@ -9246,7 +9246,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -116.4409,
 								"latitude": 66.8015,
@@ -9258,7 +9258,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -114.1361,
 								"latitude": 66.8015,
@@ -9270,7 +9270,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -111.8313,
 								"latitude": 66.8015,
@@ -9282,7 +9282,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -109.5265,
 								"latitude": 66.8015,
@@ -9294,7 +9294,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -107.2217,
 								"latitude": 66.8015,
@@ -9306,7 +9306,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -104.9169,
 								"latitude": 66.8015,
@@ -9318,7 +9318,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -102.6121,
 								"latitude": 66.8015,
@@ -9330,7 +9330,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -100.3073,
 								"latitude": 66.8015,
@@ -9342,7 +9342,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -98.0025,
 								"latitude": 66.8015,
@@ -9354,7 +9354,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -95.6977,
 								"latitude": 66.8015,
@@ -9366,7 +9366,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -93.3929,
 								"latitude": 66.8015,
@@ -9378,7 +9378,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -91.0881,
 								"latitude": 66.8015,
@@ -9390,7 +9390,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -88.7833,
 								"latitude": 66.8015,
@@ -9402,7 +9402,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -86.4785,
 								"latitude": 66.8015,
@@ -9414,7 +9414,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -84.1737,
 								"latitude": 66.8015,
@@ -9426,7 +9426,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -72.6497,
 								"latitude": 66.8015,
@@ -9438,7 +9438,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -70.3449,
 								"latitude": 66.8015,
@@ -9450,7 +9450,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -68.0401,
 								"latitude": 66.8015,
@@ -9462,7 +9462,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -65.7353,
 								"latitude": 66.8015,
@@ -9474,7 +9474,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -63.4305,
 								"latitude": 66.8015,
@@ -9486,7 +9486,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -51.9065,
 								"latitude": 66.8015,
@@ -9498,7 +9498,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -49.6017,
 								"latitude": 66.8015,
@@ -9510,7 +9510,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -47.2969,
 								"latitude": 66.8015,
@@ -9522,7 +9522,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -44.9921,
 								"latitude": 66.8015,
@@ -9534,7 +9534,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -42.6873,
 								"latitude": 66.8015,
@@ -9546,7 +9546,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -40.3824,
 								"latitude": 66.8015,
@@ -9558,7 +9558,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -38.0776,
 								"latitude": 66.8015,
@@ -9570,7 +9570,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -35.7728,
 								"latitude": 66.8015,
@@ -9582,7 +9582,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Norway",
 								"longitude": 14.9328,
 								"latitude": 66.8015,
@@ -9594,7 +9594,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sweden",
 								"longitude": 17.2376,
 								"latitude": 66.8015,
@@ -9606,7 +9606,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sweden",
 								"longitude": 19.5424,
 								"latitude": 66.8015,
@@ -9618,7 +9618,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sweden",
 								"longitude": 21.8472,
 								"latitude": 66.8015,
@@ -9630,7 +9630,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Finland",
 								"longitude": 24.152,
 								"latitude": 66.8015,
@@ -9642,7 +9642,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Finland",
 								"longitude": 26.4568,
 								"latitude": 66.8015,
@@ -9654,7 +9654,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Finland",
 								"longitude": 28.7616,
 								"latitude": 66.8015,
@@ -9666,7 +9666,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 31.0664,
 								"latitude": 66.8015,
@@ -9678,7 +9678,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 33.3712,
 								"latitude": 66.8015,
@@ -9690,7 +9690,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 35.676,
 								"latitude": 66.8015,
@@ -9702,7 +9702,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 37.9808,
 								"latitude": 66.8015,
@@ -9714,7 +9714,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 40.2856,
 								"latitude": 66.8015,
@@ -9726,7 +9726,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 44.8953,
 								"latitude": 66.8015,
@@ -9738,7 +9738,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 47.2001,
 								"latitude": 66.8015,
@@ -9750,7 +9750,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 49.5049,
 								"latitude": 66.8015,
@@ -9762,7 +9762,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 51.8097,
 								"latitude": 66.8015,
@@ -9774,7 +9774,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 54.1145,
 								"latitude": 66.8015,
@@ -9786,7 +9786,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 56.4193,
 								"latitude": 66.8015,
@@ -9798,7 +9798,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 58.7241,
 								"latitude": 66.8015,
@@ -9810,7 +9810,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 61.0289,
 								"latitude": 66.8015,
@@ -9822,7 +9822,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 63.3337,
 								"latitude": 66.8015,
@@ -9834,7 +9834,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 65.6385,
 								"latitude": 66.8015,
@@ -9846,7 +9846,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 67.9433,
 								"latitude": 66.8015,
@@ -9858,7 +9858,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 70.2481,
 								"latitude": 66.8015,
@@ -9870,7 +9870,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 74.8577,
 								"latitude": 66.8015,
@@ -9882,7 +9882,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 77.1625,
 								"latitude": 66.8015,
@@ -9894,7 +9894,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 79.4673,
 								"latitude": 66.8015,
@@ -9906,7 +9906,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 81.7721,
 								"latitude": 66.8015,
@@ -9918,7 +9918,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 84.0769,
 								"latitude": 66.8015,
@@ -9930,7 +9930,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 86.3817,
 								"latitude": 66.8015,
@@ -9942,7 +9942,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 88.6865,
 								"latitude": 66.8015,
@@ -9954,7 +9954,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 90.9913,
 								"latitude": 66.8015,
@@ -9966,7 +9966,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 93.2961,
 								"latitude": 66.8015,
@@ -9978,7 +9978,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 95.6009,
 								"latitude": 66.8015,
@@ -9990,7 +9990,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 97.9057,
 								"latitude": 66.8015,
@@ -10002,7 +10002,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 100.2105,
 								"latitude": 66.8015,
@@ -10014,7 +10014,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 102.5153,
 								"latitude": 66.8015,
@@ -10026,7 +10026,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 104.8201,
 								"latitude": 66.8015,
@@ -10038,7 +10038,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 107.1249,
 								"latitude": 66.8015,
@@ -10050,7 +10050,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 109.4297,
 								"latitude": 66.8015,
@@ -10062,7 +10062,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 111.7345,
 								"latitude": 66.8015,
@@ -10074,7 +10074,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 114.0393,
 								"latitude": 66.8015,
@@ -10086,7 +10086,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 116.3441,
 								"latitude": 66.8015,
@@ -10098,7 +10098,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 118.6489,
 								"latitude": 66.8015,
@@ -10110,7 +10110,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 120.9537,
 								"latitude": 66.8015,
@@ -10122,7 +10122,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 123.2585,
 								"latitude": 66.8015,
@@ -10134,7 +10134,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 125.5634,
 								"latitude": 66.8015,
@@ -10146,7 +10146,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 127.8682,
 								"latitude": 66.8015,
@@ -10158,7 +10158,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 130.173,
 								"latitude": 66.8015,
@@ -10170,7 +10170,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 132.4778,
 								"latitude": 66.8015,
@@ -10182,7 +10182,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 134.7826,
 								"latitude": 66.8015,
@@ -10194,7 +10194,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 137.0874,
 								"latitude": 66.8015,
@@ -10206,7 +10206,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 139.3922,
 								"latitude": 66.8015,
@@ -10218,7 +10218,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 141.697,
 								"latitude": 66.8015,
@@ -10230,7 +10230,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 144.0018,
 								"latitude": 66.8015,
@@ -10242,7 +10242,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 146.3066,
 								"latitude": 66.8015,
@@ -10254,7 +10254,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 148.6114,
 								"latitude": 66.8015,
@@ -10266,7 +10266,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 150.9162,
 								"latitude": 66.8015,
@@ -10278,7 +10278,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 153.221,
 								"latitude": 66.8015,
@@ -10290,7 +10290,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 155.5258,
 								"latitude": 66.8015,
@@ -10302,7 +10302,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 157.8306,
 								"latitude": 66.8015,
@@ -10314,7 +10314,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 160.1354,
 								"latitude": 66.8015,
@@ -10326,7 +10326,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 162.4402,
 								"latitude": 66.8015,
@@ -10338,7 +10338,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 164.745,
 								"latitude": 66.8015,
@@ -10350,7 +10350,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 167.0498,
 								"latitude": 66.8015,
@@ -10362,7 +10362,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 169.3546,
 								"latitude": 66.8015,
@@ -10374,7 +10374,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 171.6594,
 								"latitude": 66.8015,
@@ -10386,7 +10386,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 173.9642,
 								"latitude": 66.8015,
@@ -10398,7 +10398,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 176.269,
 								"latitude": 66.8015,
@@ -10410,7 +10410,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 178.5738,
 								"latitude": 66.8015,
@@ -10422,7 +10422,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 180.8786,
 								"latitude": 66.8015,
@@ -10434,7 +10434,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 183.1834,
 								"latitude": 66.8015,
@@ -10446,7 +10446,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 187.793,
 								"latitude": 66.8015,
@@ -10458,7 +10458,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -167.1466,
 								"latitude": 65.4064,
@@ -10470,7 +10470,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -164.8418,
 								"latitude": 65.4064,
@@ -10482,7 +10482,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -162.537,
 								"latitude": 65.4064,
@@ -10494,7 +10494,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -160.2322,
 								"latitude": 65.4064,
@@ -10506,7 +10506,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -157.9274,
 								"latitude": 65.4064,
@@ -10518,7 +10518,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -155.6226,
 								"latitude": 65.4064,
@@ -10530,7 +10530,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -153.3178,
 								"latitude": 65.4064,
@@ -10542,7 +10542,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -151.013,
 								"latitude": 65.4064,
@@ -10554,7 +10554,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -148.7082,
 								"latitude": 65.4064,
@@ -10566,7 +10566,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -146.4034,
 								"latitude": 65.4064,
@@ -10578,7 +10578,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -144.0986,
 								"latitude": 65.4064,
@@ -10590,7 +10590,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -141.7938,
 								"latitude": 65.4064,
@@ -10602,7 +10602,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -139.489,
 								"latitude": 65.4064,
@@ -10614,7 +10614,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -137.1842,
 								"latitude": 65.4064,
@@ -10626,7 +10626,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -134.8794,
 								"latitude": 65.4064,
@@ -10638,7 +10638,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -132.5746,
 								"latitude": 65.4064,
@@ -10650,7 +10650,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -130.2698,
 								"latitude": 65.4064,
@@ -10662,7 +10662,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -127.965,
 								"latitude": 65.4064,
@@ -10674,7 +10674,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -125.6602,
 								"latitude": 65.4064,
@@ -10686,7 +10686,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -123.3554,
 								"latitude": 65.4064,
@@ -10698,7 +10698,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -121.0505,
 								"latitude": 65.4064,
@@ -10710,7 +10710,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -118.7457,
 								"latitude": 65.4064,
@@ -10722,7 +10722,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -116.4409,
 								"latitude": 65.4064,
@@ -10734,7 +10734,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -114.1361,
 								"latitude": 65.4064,
@@ -10746,7 +10746,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -111.8313,
 								"latitude": 65.4064,
@@ -10758,7 +10758,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -109.5265,
 								"latitude": 65.4064,
@@ -10770,7 +10770,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -107.2217,
 								"latitude": 65.4064,
@@ -10782,7 +10782,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -104.9169,
 								"latitude": 65.4064,
@@ -10794,7 +10794,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -102.6121,
 								"latitude": 65.4064,
@@ -10806,7 +10806,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -100.3073,
 								"latitude": 65.4064,
@@ -10818,7 +10818,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -98.0025,
 								"latitude": 65.4064,
@@ -10830,7 +10830,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -95.6977,
 								"latitude": 65.4064,
@@ -10842,7 +10842,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -93.3929,
 								"latitude": 65.4064,
@@ -10854,7 +10854,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -91.0881,
 								"latitude": 65.4064,
@@ -10866,7 +10866,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -88.7833,
 								"latitude": 65.4064,
@@ -10878,7 +10878,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -77.2593,
 								"latitude": 65.4064,
@@ -10890,7 +10890,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -74.9545,
 								"latitude": 65.4064,
@@ -10902,7 +10902,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -72.6497,
 								"latitude": 65.4064,
@@ -10914,7 +10914,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -70.3449,
 								"latitude": 65.4064,
@@ -10926,7 +10926,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -68.0401,
 								"latitude": 65.4064,
@@ -10938,7 +10938,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -63.4305,
 								"latitude": 65.4064,
@@ -10950,7 +10950,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -51.9065,
 								"latitude": 65.4064,
@@ -10962,7 +10962,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -49.6017,
 								"latitude": 65.4064,
@@ -10974,7 +10974,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -47.2969,
 								"latitude": 65.4064,
@@ -10986,7 +10986,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -44.9921,
 								"latitude": 65.4064,
@@ -10998,7 +10998,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -42.6873,
 								"latitude": 65.4064,
@@ -11010,7 +11010,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -40.3824,
 								"latitude": 65.4064,
@@ -11022,7 +11022,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iceland",
 								"longitude": -21.944,
 								"latitude": 65.4064,
@@ -11034,7 +11034,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iceland",
 								"longitude": -19.6392,
 								"latitude": 65.4064,
@@ -11046,7 +11046,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iceland",
 								"longitude": -17.3344,
 								"latitude": 65.4064,
@@ -11058,7 +11058,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iceland",
 								"longitude": -15.0296,
 								"latitude": 65.4064,
@@ -11070,7 +11070,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Norway",
 								"longitude": 12.628,
 								"latitude": 65.4064,
@@ -11082,7 +11082,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sweden",
 								"longitude": 14.9328,
 								"latitude": 65.4064,
@@ -11094,7 +11094,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sweden",
 								"longitude": 17.2376,
 								"latitude": 65.4064,
@@ -11106,7 +11106,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sweden",
 								"longitude": 19.5424,
 								"latitude": 65.4064,
@@ -11118,7 +11118,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sweden",
 								"longitude": 21.8472,
 								"latitude": 65.4064,
@@ -11130,7 +11130,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Finland",
 								"longitude": 26.4568,
 								"latitude": 65.4064,
@@ -11142,7 +11142,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Finland",
 								"longitude": 28.7616,
 								"latitude": 65.4064,
@@ -11154,7 +11154,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 31.0664,
 								"latitude": 65.4064,
@@ -11166,7 +11166,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 33.3712,
 								"latitude": 65.4064,
@@ -11178,7 +11178,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 40.2856,
 								"latitude": 65.4064,
@@ -11190,7 +11190,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 42.5905,
 								"latitude": 65.4064,
@@ -11202,7 +11202,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 44.8953,
 								"latitude": 65.4064,
@@ -11214,7 +11214,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 47.2001,
 								"latitude": 65.4064,
@@ -11226,7 +11226,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 49.5049,
 								"latitude": 65.4064,
@@ -11238,7 +11238,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 51.8097,
 								"latitude": 65.4064,
@@ -11250,7 +11250,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 54.1145,
 								"latitude": 65.4064,
@@ -11262,7 +11262,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 56.4193,
 								"latitude": 65.4064,
@@ -11274,7 +11274,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 58.7241,
 								"latitude": 65.4064,
@@ -11286,7 +11286,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 61.0289,
 								"latitude": 65.4064,
@@ -11298,7 +11298,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 63.3337,
 								"latitude": 65.4064,
@@ -11310,7 +11310,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 65.6385,
 								"latitude": 65.4064,
@@ -11322,7 +11322,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 67.9433,
 								"latitude": 65.4064,
@@ -11334,7 +11334,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 70.2481,
 								"latitude": 65.4064,
@@ -11346,7 +11346,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 72.5529,
 								"latitude": 65.4064,
@@ -11358,7 +11358,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 74.8577,
 								"latitude": 65.4064,
@@ -11370,7 +11370,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 77.1625,
 								"latitude": 65.4064,
@@ -11382,7 +11382,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 79.4673,
 								"latitude": 65.4064,
@@ -11394,7 +11394,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 81.7721,
 								"latitude": 65.4064,
@@ -11406,7 +11406,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 84.0769,
 								"latitude": 65.4064,
@@ -11418,7 +11418,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 86.3817,
 								"latitude": 65.4064,
@@ -11430,7 +11430,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 88.6865,
 								"latitude": 65.4064,
@@ -11442,7 +11442,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 90.9913,
 								"latitude": 65.4064,
@@ -11454,7 +11454,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 93.2961,
 								"latitude": 65.4064,
@@ -11466,7 +11466,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 95.6009,
 								"latitude": 65.4064,
@@ -11478,7 +11478,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 97.9057,
 								"latitude": 65.4064,
@@ -11490,7 +11490,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 100.2105,
 								"latitude": 65.4064,
@@ -11502,7 +11502,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 102.5153,
 								"latitude": 65.4064,
@@ -11514,7 +11514,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 104.8201,
 								"latitude": 65.4064,
@@ -11526,7 +11526,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 107.1249,
 								"latitude": 65.4064,
@@ -11538,7 +11538,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 109.4297,
 								"latitude": 65.4064,
@@ -11550,7 +11550,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 111.7345,
 								"latitude": 65.4064,
@@ -11562,7 +11562,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 114.0393,
 								"latitude": 65.4064,
@@ -11574,7 +11574,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 116.3441,
 								"latitude": 65.4064,
@@ -11586,7 +11586,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 118.6489,
 								"latitude": 65.4064,
@@ -11598,7 +11598,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 120.9537,
 								"latitude": 65.4064,
@@ -11610,7 +11610,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 123.2585,
 								"latitude": 65.4064,
@@ -11622,7 +11622,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 125.5634,
 								"latitude": 65.4064,
@@ -11634,7 +11634,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 127.8682,
 								"latitude": 65.4064,
@@ -11646,7 +11646,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 130.173,
 								"latitude": 65.4064,
@@ -11658,7 +11658,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 132.4778,
 								"latitude": 65.4064,
@@ -11670,7 +11670,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 134.7826,
 								"latitude": 65.4064,
@@ -11682,7 +11682,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 137.0874,
 								"latitude": 65.4064,
@@ -11694,7 +11694,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 139.3922,
 								"latitude": 65.4064,
@@ -11706,7 +11706,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 141.697,
 								"latitude": 65.4064,
@@ -11718,7 +11718,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 144.0018,
 								"latitude": 65.4064,
@@ -11730,7 +11730,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 146.3066,
 								"latitude": 65.4064,
@@ -11742,7 +11742,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 148.6114,
 								"latitude": 65.4064,
@@ -11754,7 +11754,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 150.9162,
 								"latitude": 65.4064,
@@ -11766,7 +11766,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 153.221,
 								"latitude": 65.4064,
@@ -11778,7 +11778,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 155.5258,
 								"latitude": 65.4064,
@@ -11790,7 +11790,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 157.8306,
 								"latitude": 65.4064,
@@ -11802,7 +11802,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 160.1354,
 								"latitude": 65.4064,
@@ -11814,7 +11814,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 162.4402,
 								"latitude": 65.4064,
@@ -11826,7 +11826,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 164.745,
 								"latitude": 65.4064,
@@ -11838,7 +11838,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 167.0498,
 								"latitude": 65.4064,
@@ -11850,7 +11850,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 169.3546,
 								"latitude": 65.4064,
@@ -11862,7 +11862,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 171.6594,
 								"latitude": 65.4064,
@@ -11874,7 +11874,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 173.9642,
 								"latitude": 65.4064,
@@ -11886,7 +11886,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 176.269,
 								"latitude": 65.4064,
@@ -11898,7 +11898,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 178.5738,
 								"latitude": 65.4064,
@@ -11910,7 +11910,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 183.1834,
 								"latitude": 65.4064,
@@ -11922,7 +11922,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 185.4882,
 								"latitude": 65.4064,
@@ -11934,7 +11934,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 187.793,
 								"latitude": 65.4064,
@@ -11946,7 +11946,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -160.2322,
 								"latitude": 63.9751,
@@ -11958,7 +11958,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -157.9274,
 								"latitude": 63.9751,
@@ -11970,7 +11970,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -155.6226,
 								"latitude": 63.9751,
@@ -11982,7 +11982,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -153.3178,
 								"latitude": 63.9751,
@@ -11994,7 +11994,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -151.013,
 								"latitude": 63.9751,
@@ -12006,7 +12006,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -148.7082,
 								"latitude": 63.9751,
@@ -12018,7 +12018,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -146.4034,
 								"latitude": 63.9751,
@@ -12030,7 +12030,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -144.0986,
 								"latitude": 63.9751,
@@ -12042,7 +12042,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -141.7938,
 								"latitude": 63.9751,
@@ -12054,7 +12054,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -139.489,
 								"latitude": 63.9751,
@@ -12066,7 +12066,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -137.1842,
 								"latitude": 63.9751,
@@ -12078,7 +12078,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -134.8794,
 								"latitude": 63.9751,
@@ -12090,7 +12090,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -132.5746,
 								"latitude": 63.9751,
@@ -12102,7 +12102,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -130.2698,
 								"latitude": 63.9751,
@@ -12114,7 +12114,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -127.965,
 								"latitude": 63.9751,
@@ -12126,7 +12126,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -125.6602,
 								"latitude": 63.9751,
@@ -12138,7 +12138,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -123.3554,
 								"latitude": 63.9751,
@@ -12150,7 +12150,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -121.0505,
 								"latitude": 63.9751,
@@ -12162,7 +12162,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -118.7457,
 								"latitude": 63.9751,
@@ -12174,7 +12174,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -116.4409,
 								"latitude": 63.9751,
@@ -12186,7 +12186,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -114.1361,
 								"latitude": 63.9751,
@@ -12198,7 +12198,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -111.8313,
 								"latitude": 63.9751,
@@ -12210,7 +12210,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -109.5265,
 								"latitude": 63.9751,
@@ -12222,7 +12222,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -107.2217,
 								"latitude": 63.9751,
@@ -12234,7 +12234,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -104.9169,
 								"latitude": 63.9751,
@@ -12246,7 +12246,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -102.6121,
 								"latitude": 63.9751,
@@ -12258,7 +12258,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -100.3073,
 								"latitude": 63.9751,
@@ -12270,7 +12270,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -98.0025,
 								"latitude": 63.9751,
@@ -12282,7 +12282,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -95.6977,
 								"latitude": 63.9751,
@@ -12294,7 +12294,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -93.3929,
 								"latitude": 63.9751,
@@ -12306,7 +12306,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -91.0881,
 								"latitude": 63.9751,
@@ -12318,7 +12318,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -86.4785,
 								"latitude": 63.9751,
@@ -12330,7 +12330,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -84.1737,
 								"latitude": 63.9751,
@@ -12342,7 +12342,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -81.8689,
 								"latitude": 63.9751,
@@ -12354,7 +12354,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -72.6497,
 								"latitude": 63.9751,
@@ -12366,7 +12366,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -70.3449,
 								"latitude": 63.9751,
@@ -12378,7 +12378,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -68.0401,
 								"latitude": 63.9751,
@@ -12390,7 +12390,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -65.7353,
 								"latitude": 63.9751,
@@ -12402,7 +12402,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -51.9065,
 								"latitude": 63.9751,
@@ -12414,7 +12414,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -49.6017,
 								"latitude": 63.9751,
@@ -12426,7 +12426,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -47.2969,
 								"latitude": 63.9751,
@@ -12438,7 +12438,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -44.9921,
 								"latitude": 63.9751,
@@ -12450,7 +12450,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -42.6873,
 								"latitude": 63.9751,
@@ -12462,7 +12462,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iceland",
 								"longitude": -21.944,
 								"latitude": 63.9751,
@@ -12474,7 +12474,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iceland",
 								"longitude": -19.6392,
 								"latitude": 63.9751,
@@ -12486,7 +12486,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iceland",
 								"longitude": -17.3344,
 								"latitude": 63.9751,
@@ -12498,7 +12498,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Norway",
 								"longitude": 10.3232,
 								"latitude": 63.9751,
@@ -12510,7 +12510,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sweden",
 								"longitude": 12.628,
 								"latitude": 63.9751,
@@ -12522,7 +12522,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sweden",
 								"longitude": 14.9328,
 								"latitude": 63.9751,
@@ -12534,7 +12534,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sweden",
 								"longitude": 17.2376,
 								"latitude": 63.9751,
@@ -12546,7 +12546,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sweden",
 								"longitude": 19.5424,
 								"latitude": 63.9751,
@@ -12558,7 +12558,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Finland",
 								"longitude": 24.152,
 								"latitude": 63.9751,
@@ -12570,7 +12570,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Finland",
 								"longitude": 26.4568,
 								"latitude": 63.9751,
@@ -12582,7 +12582,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Finland",
 								"longitude": 28.7616,
 								"latitude": 63.9751,
@@ -12594,7 +12594,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 31.0664,
 								"latitude": 63.9751,
@@ -12606,7 +12606,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 33.3712,
 								"latitude": 63.9751,
@@ -12618,7 +12618,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 35.676,
 								"latitude": 63.9751,
@@ -12630,7 +12630,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 37.9808,
 								"latitude": 63.9751,
@@ -12642,7 +12642,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 40.2856,
 								"latitude": 63.9751,
@@ -12654,7 +12654,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 42.5905,
 								"latitude": 63.9751,
@@ -12666,7 +12666,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 44.8953,
 								"latitude": 63.9751,
@@ -12678,7 +12678,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 47.2001,
 								"latitude": 63.9751,
@@ -12690,7 +12690,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 49.5049,
 								"latitude": 63.9751,
@@ -12702,7 +12702,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 51.8097,
 								"latitude": 63.9751,
@@ -12714,7 +12714,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 54.1145,
 								"latitude": 63.9751,
@@ -12726,7 +12726,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 56.4193,
 								"latitude": 63.9751,
@@ -12738,7 +12738,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 58.7241,
 								"latitude": 63.9751,
@@ -12750,7 +12750,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 61.0289,
 								"latitude": 63.9751,
@@ -12762,7 +12762,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 63.3337,
 								"latitude": 63.9751,
@@ -12774,7 +12774,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 65.6385,
 								"latitude": 63.9751,
@@ -12786,7 +12786,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 67.9433,
 								"latitude": 63.9751,
@@ -12798,7 +12798,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 70.2481,
 								"latitude": 63.9751,
@@ -12810,7 +12810,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 72.5529,
 								"latitude": 63.9751,
@@ -12822,7 +12822,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 74.8577,
 								"latitude": 63.9751,
@@ -12834,7 +12834,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 77.1625,
 								"latitude": 63.9751,
@@ -12846,7 +12846,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 79.4673,
 								"latitude": 63.9751,
@@ -12858,7 +12858,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 81.7721,
 								"latitude": 63.9751,
@@ -12870,7 +12870,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 84.0769,
 								"latitude": 63.9751,
@@ -12882,7 +12882,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 86.3817,
 								"latitude": 63.9751,
@@ -12894,7 +12894,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 88.6865,
 								"latitude": 63.9751,
@@ -12906,7 +12906,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 90.9913,
 								"latitude": 63.9751,
@@ -12918,7 +12918,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 93.2961,
 								"latitude": 63.9751,
@@ -12930,7 +12930,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 95.6009,
 								"latitude": 63.9751,
@@ -12942,7 +12942,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 97.9057,
 								"latitude": 63.9751,
@@ -12954,7 +12954,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 100.2105,
 								"latitude": 63.9751,
@@ -12966,7 +12966,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 102.5153,
 								"latitude": 63.9751,
@@ -12978,7 +12978,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 104.8201,
 								"latitude": 63.9751,
@@ -12990,7 +12990,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 107.1249,
 								"latitude": 63.9751,
@@ -13002,7 +13002,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 109.4297,
 								"latitude": 63.9751,
@@ -13014,7 +13014,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 111.7345,
 								"latitude": 63.9751,
@@ -13026,7 +13026,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 114.0393,
 								"latitude": 63.9751,
@@ -13038,7 +13038,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 116.3441,
 								"latitude": 63.9751,
@@ -13050,7 +13050,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 118.6489,
 								"latitude": 63.9751,
@@ -13062,7 +13062,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 120.9537,
 								"latitude": 63.9751,
@@ -13074,7 +13074,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 123.2585,
 								"latitude": 63.9751,
@@ -13086,7 +13086,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 125.5634,
 								"latitude": 63.9751,
@@ -13098,7 +13098,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 127.8682,
 								"latitude": 63.9751,
@@ -13110,7 +13110,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 130.173,
 								"latitude": 63.9751,
@@ -13122,7 +13122,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 132.4778,
 								"latitude": 63.9751,
@@ -13134,7 +13134,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 134.7826,
 								"latitude": 63.9751,
@@ -13146,7 +13146,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 137.0874,
 								"latitude": 63.9751,
@@ -13158,7 +13158,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 139.3922,
 								"latitude": 63.9751,
@@ -13170,7 +13170,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 141.697,
 								"latitude": 63.9751,
@@ -13182,7 +13182,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 144.0018,
 								"latitude": 63.9751,
@@ -13194,7 +13194,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 146.3066,
 								"latitude": 63.9751,
@@ -13206,7 +13206,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 148.6114,
 								"latitude": 63.9751,
@@ -13218,7 +13218,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 150.9162,
 								"latitude": 63.9751,
@@ -13230,7 +13230,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 153.221,
 								"latitude": 63.9751,
@@ -13242,7 +13242,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 155.5258,
 								"latitude": 63.9751,
@@ -13254,7 +13254,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 157.8306,
 								"latitude": 63.9751,
@@ -13266,7 +13266,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 160.1354,
 								"latitude": 63.9751,
@@ -13278,7 +13278,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 162.4402,
 								"latitude": 63.9751,
@@ -13290,7 +13290,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 164.745,
 								"latitude": 63.9751,
@@ -13302,7 +13302,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 167.0498,
 								"latitude": 63.9751,
@@ -13314,7 +13314,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 169.3546,
 								"latitude": 63.9751,
@@ -13326,7 +13326,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 171.6594,
 								"latitude": 63.9751,
@@ -13338,7 +13338,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 173.9642,
 								"latitude": 63.9751,
@@ -13350,7 +13350,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 176.269,
 								"latitude": 63.9751,
@@ -13362,7 +13362,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 178.5738,
 								"latitude": 63.9751,
@@ -13374,7 +13374,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -164.8418,
 								"latitude": 62.5074,
@@ -13386,7 +13386,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -162.537,
 								"latitude": 62.5074,
@@ -13398,7 +13398,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -160.2322,
 								"latitude": 62.5074,
@@ -13410,7 +13410,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -157.9274,
 								"latitude": 62.5074,
@@ -13422,7 +13422,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -155.6226,
 								"latitude": 62.5074,
@@ -13434,7 +13434,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -153.3178,
 								"latitude": 62.5074,
@@ -13446,7 +13446,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -151.013,
 								"latitude": 62.5074,
@@ -13458,7 +13458,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -148.7082,
 								"latitude": 62.5074,
@@ -13470,7 +13470,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -146.4034,
 								"latitude": 62.5074,
@@ -13482,7 +13482,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -144.0986,
 								"latitude": 62.5074,
@@ -13494,7 +13494,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -141.7938,
 								"latitude": 62.5074,
@@ -13506,7 +13506,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -139.489,
 								"latitude": 62.5074,
@@ -13518,7 +13518,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -137.1842,
 								"latitude": 62.5074,
@@ -13530,7 +13530,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -134.8794,
 								"latitude": 62.5074,
@@ -13542,7 +13542,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -132.5746,
 								"latitude": 62.5074,
@@ -13554,7 +13554,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -130.2698,
 								"latitude": 62.5074,
@@ -13566,7 +13566,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -127.965,
 								"latitude": 62.5074,
@@ -13578,7 +13578,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -125.6602,
 								"latitude": 62.5074,
@@ -13590,7 +13590,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -123.3554,
 								"latitude": 62.5074,
@@ -13602,7 +13602,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -121.0505,
 								"latitude": 62.5074,
@@ -13614,7 +13614,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -118.7457,
 								"latitude": 62.5074,
@@ -13626,7 +13626,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -116.4409,
 								"latitude": 62.5074,
@@ -13638,7 +13638,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -114.1361,
 								"latitude": 62.5074,
@@ -13650,7 +13650,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -111.8313,
 								"latitude": 62.5074,
@@ -13662,7 +13662,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -109.5265,
 								"latitude": 62.5074,
@@ -13674,7 +13674,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -107.2217,
 								"latitude": 62.5074,
@@ -13686,7 +13686,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -104.9169,
 								"latitude": 62.5074,
@@ -13698,7 +13698,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -102.6121,
 								"latitude": 62.5074,
@@ -13710,7 +13710,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -100.3073,
 								"latitude": 62.5074,
@@ -13722,7 +13722,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -98.0025,
 								"latitude": 62.5074,
@@ -13734,7 +13734,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -95.6977,
 								"latitude": 62.5074,
@@ -13746,7 +13746,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -93.3929,
 								"latitude": 62.5074,
@@ -13758,7 +13758,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -77.2593,
 								"latitude": 62.5074,
@@ -13770,7 +13770,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -68.0401,
 								"latitude": 62.5074,
@@ -13782,7 +13782,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -49.6017,
 								"latitude": 62.5074,
@@ -13794,7 +13794,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -47.2969,
 								"latitude": 62.5074,
@@ -13806,7 +13806,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -44.9921,
 								"latitude": 62.5074,
@@ -13818,7 +13818,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -42.6873,
 								"latitude": 62.5074,
@@ -13830,7 +13830,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Norway",
 								"longitude": 5.7136,
 								"latitude": 62.5074,
@@ -13842,7 +13842,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Norway",
 								"longitude": 8.0184,
 								"latitude": 62.5074,
@@ -13854,7 +13854,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Norway",
 								"longitude": 10.3232,
 								"latitude": 62.5074,
@@ -13866,7 +13866,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sweden",
 								"longitude": 12.628,
 								"latitude": 62.5074,
@@ -13878,7 +13878,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sweden",
 								"longitude": 14.9328,
 								"latitude": 62.5074,
@@ -13890,7 +13890,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sweden",
 								"longitude": 17.2376,
 								"latitude": 62.5074,
@@ -13902,7 +13902,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Finland",
 								"longitude": 21.8472,
 								"latitude": 62.5074,
@@ -13914,7 +13914,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Finland",
 								"longitude": 24.152,
 								"latitude": 62.5074,
@@ -13926,7 +13926,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Finland",
 								"longitude": 26.4568,
 								"latitude": 62.5074,
@@ -13938,7 +13938,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Finland",
 								"longitude": 28.7616,
 								"latitude": 62.5074,
@@ -13950,7 +13950,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Finland",
 								"longitude": 31.0664,
 								"latitude": 62.5074,
@@ -13962,7 +13962,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 33.3712,
 								"latitude": 62.5074,
@@ -13974,7 +13974,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 35.676,
 								"latitude": 62.5074,
@@ -13986,7 +13986,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 37.9808,
 								"latitude": 62.5074,
@@ -13998,7 +13998,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 40.2856,
 								"latitude": 62.5074,
@@ -14010,7 +14010,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 42.5905,
 								"latitude": 62.5074,
@@ -14022,7 +14022,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 44.8953,
 								"latitude": 62.5074,
@@ -14034,7 +14034,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 47.2001,
 								"latitude": 62.5074,
@@ -14046,7 +14046,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 49.5049,
 								"latitude": 62.5074,
@@ -14058,7 +14058,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 51.8097,
 								"latitude": 62.5074,
@@ -14070,7 +14070,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 54.1145,
 								"latitude": 62.5074,
@@ -14082,7 +14082,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 56.4193,
 								"latitude": 62.5074,
@@ -14094,7 +14094,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 58.7241,
 								"latitude": 62.5074,
@@ -14106,7 +14106,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 61.0289,
 								"latitude": 62.5074,
@@ -14118,7 +14118,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 63.3337,
 								"latitude": 62.5074,
@@ -14130,7 +14130,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 65.6385,
 								"latitude": 62.5074,
@@ -14142,7 +14142,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 67.9433,
 								"latitude": 62.5074,
@@ -14154,7 +14154,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 70.2481,
 								"latitude": 62.5074,
@@ -14166,7 +14166,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 72.5529,
 								"latitude": 62.5074,
@@ -14178,7 +14178,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 74.8577,
 								"latitude": 62.5074,
@@ -14190,7 +14190,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 77.1625,
 								"latitude": 62.5074,
@@ -14202,7 +14202,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 79.4673,
 								"latitude": 62.5074,
@@ -14214,7 +14214,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 81.7721,
 								"latitude": 62.5074,
@@ -14226,7 +14226,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 84.0769,
 								"latitude": 62.5074,
@@ -14238,7 +14238,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 86.3817,
 								"latitude": 62.5074,
@@ -14250,7 +14250,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 88.6865,
 								"latitude": 62.5074,
@@ -14262,7 +14262,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 90.9913,
 								"latitude": 62.5074,
@@ -14274,7 +14274,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 93.2961,
 								"latitude": 62.5074,
@@ -14286,7 +14286,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 95.6009,
 								"latitude": 62.5074,
@@ -14298,7 +14298,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 97.9057,
 								"latitude": 62.5074,
@@ -14310,7 +14310,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 100.2105,
 								"latitude": 62.5074,
@@ -14322,7 +14322,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 102.5153,
 								"latitude": 62.5074,
@@ -14334,7 +14334,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 104.8201,
 								"latitude": 62.5074,
@@ -14346,7 +14346,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 107.1249,
 								"latitude": 62.5074,
@@ -14358,7 +14358,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 109.4297,
 								"latitude": 62.5074,
@@ -14370,7 +14370,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 111.7345,
 								"latitude": 62.5074,
@@ -14382,7 +14382,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 114.0393,
 								"latitude": 62.5074,
@@ -14394,7 +14394,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 116.3441,
 								"latitude": 62.5074,
@@ -14406,7 +14406,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 118.6489,
 								"latitude": 62.5074,
@@ -14418,7 +14418,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 120.9537,
 								"latitude": 62.5074,
@@ -14430,7 +14430,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 123.2585,
 								"latitude": 62.5074,
@@ -14442,7 +14442,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 125.5634,
 								"latitude": 62.5074,
@@ -14454,7 +14454,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 127.8682,
 								"latitude": 62.5074,
@@ -14466,7 +14466,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 130.173,
 								"latitude": 62.5074,
@@ -14478,7 +14478,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 132.4778,
 								"latitude": 62.5074,
@@ -14490,7 +14490,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 134.7826,
 								"latitude": 62.5074,
@@ -14502,7 +14502,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 137.0874,
 								"latitude": 62.5074,
@@ -14514,7 +14514,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 139.3922,
 								"latitude": 62.5074,
@@ -14526,7 +14526,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 141.697,
 								"latitude": 62.5074,
@@ -14538,7 +14538,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 144.0018,
 								"latitude": 62.5074,
@@ -14550,7 +14550,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 146.3066,
 								"latitude": 62.5074,
@@ -14562,7 +14562,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 148.6114,
 								"latitude": 62.5074,
@@ -14574,7 +14574,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 150.9162,
 								"latitude": 62.5074,
@@ -14586,7 +14586,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 153.221,
 								"latitude": 62.5074,
@@ -14598,7 +14598,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 155.5258,
 								"latitude": 62.5074,
@@ -14610,7 +14610,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 157.8306,
 								"latitude": 62.5074,
@@ -14622,7 +14622,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 160.1354,
 								"latitude": 62.5074,
@@ -14634,7 +14634,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 162.4402,
 								"latitude": 62.5074,
@@ -14646,7 +14646,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 164.745,
 								"latitude": 62.5074,
@@ -14658,7 +14658,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 167.0498,
 								"latitude": 62.5074,
@@ -14670,7 +14670,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 169.3546,
 								"latitude": 62.5074,
@@ -14682,7 +14682,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 171.6594,
 								"latitude": 62.5074,
@@ -14694,7 +14694,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 173.9642,
 								"latitude": 62.5074,
@@ -14706,7 +14706,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 176.269,
 								"latitude": 62.5074,
@@ -14718,7 +14718,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 178.5738,
 								"latitude": 62.5074,
@@ -14730,7 +14730,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -164.8418,
 								"latitude": 61.0029,
@@ -14742,7 +14742,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -162.537,
 								"latitude": 61.0029,
@@ -14754,7 +14754,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -160.2322,
 								"latitude": 61.0029,
@@ -14766,7 +14766,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -157.9274,
 								"latitude": 61.0029,
@@ -14778,7 +14778,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -155.6226,
 								"latitude": 61.0029,
@@ -14790,7 +14790,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -153.3178,
 								"latitude": 61.0029,
@@ -14802,7 +14802,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -148.7082,
 								"latitude": 61.0029,
@@ -14814,7 +14814,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -146.4034,
 								"latitude": 61.0029,
@@ -14826,7 +14826,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -144.0986,
 								"latitude": 61.0029,
@@ -14838,7 +14838,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -141.7938,
 								"latitude": 61.0029,
@@ -14850,7 +14850,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -139.489,
 								"latitude": 61.0029,
@@ -14862,7 +14862,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -137.1842,
 								"latitude": 61.0029,
@@ -14874,7 +14874,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -134.8794,
 								"latitude": 61.0029,
@@ -14886,7 +14886,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -132.5746,
 								"latitude": 61.0029,
@@ -14898,7 +14898,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -130.2698,
 								"latitude": 61.0029,
@@ -14910,7 +14910,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -127.965,
 								"latitude": 61.0029,
@@ -14922,7 +14922,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -125.6602,
 								"latitude": 61.0029,
@@ -14934,7 +14934,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -123.3554,
 								"latitude": 61.0029,
@@ -14946,7 +14946,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -121.0505,
 								"latitude": 61.0029,
@@ -14958,7 +14958,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -118.7457,
 								"latitude": 61.0029,
@@ -14970,7 +14970,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -116.4409,
 								"latitude": 61.0029,
@@ -14982,7 +14982,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -114.1361,
 								"latitude": 61.0029,
@@ -14994,7 +14994,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -111.8313,
 								"latitude": 61.0029,
@@ -15006,7 +15006,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -109.5265,
 								"latitude": 61.0029,
@@ -15018,7 +15018,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -107.2217,
 								"latitude": 61.0029,
@@ -15030,7 +15030,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -104.9169,
 								"latitude": 61.0029,
@@ -15042,7 +15042,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -102.6121,
 								"latitude": 61.0029,
@@ -15054,7 +15054,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -100.3073,
 								"latitude": 61.0029,
@@ -15066,7 +15066,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -98.0025,
 								"latitude": 61.0029,
@@ -15078,7 +15078,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -95.6977,
 								"latitude": 61.0029,
@@ -15090,7 +15090,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -77.2593,
 								"latitude": 61.0029,
@@ -15102,7 +15102,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -74.9545,
 								"latitude": 61.0029,
@@ -15114,7 +15114,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -72.6497,
 								"latitude": 61.0029,
@@ -15126,7 +15126,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -70.3449,
 								"latitude": 61.0029,
@@ -15138,7 +15138,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -47.2969,
 								"latitude": 61.0029,
@@ -15150,7 +15150,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greenland",
 								"longitude": -44.9921,
 								"latitude": 61.0029,
@@ -15162,7 +15162,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Norway",
 								"longitude": 5.7136,
 								"latitude": 61.0029,
@@ -15174,7 +15174,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Norway",
 								"longitude": 8.0184,
 								"latitude": 61.0029,
@@ -15186,7 +15186,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Norway",
 								"longitude": 10.3232,
 								"latitude": 61.0029,
@@ -15198,7 +15198,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sweden",
 								"longitude": 12.628,
 								"latitude": 61.0029,
@@ -15210,7 +15210,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sweden",
 								"longitude": 14.9328,
 								"latitude": 61.0029,
@@ -15222,7 +15222,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sweden",
 								"longitude": 17.2376,
 								"latitude": 61.0029,
@@ -15234,7 +15234,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Finland",
 								"longitude": 21.8472,
 								"latitude": 61.0029,
@@ -15246,7 +15246,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Finland",
 								"longitude": 24.152,
 								"latitude": 61.0029,
@@ -15258,7 +15258,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Finland",
 								"longitude": 26.4568,
 								"latitude": 61.0029,
@@ -15270,7 +15270,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 28.7616,
 								"latitude": 61.0029,
@@ -15282,7 +15282,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 31.0664,
 								"latitude": 61.0029,
@@ -15294,7 +15294,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 33.3712,
 								"latitude": 61.0029,
@@ -15306,7 +15306,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 35.676,
 								"latitude": 61.0029,
@@ -15318,7 +15318,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 37.9808,
 								"latitude": 61.0029,
@@ -15330,7 +15330,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 40.2856,
 								"latitude": 61.0029,
@@ -15342,7 +15342,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 42.5905,
 								"latitude": 61.0029,
@@ -15354,7 +15354,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 44.8953,
 								"latitude": 61.0029,
@@ -15366,7 +15366,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 47.2001,
 								"latitude": 61.0029,
@@ -15378,7 +15378,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 49.5049,
 								"latitude": 61.0029,
@@ -15390,7 +15390,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 51.8097,
 								"latitude": 61.0029,
@@ -15402,7 +15402,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 54.1145,
 								"latitude": 61.0029,
@@ -15414,7 +15414,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 56.4193,
 								"latitude": 61.0029,
@@ -15426,7 +15426,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 58.7241,
 								"latitude": 61.0029,
@@ -15438,7 +15438,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 61.0289,
 								"latitude": 61.0029,
@@ -15450,7 +15450,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 63.3337,
 								"latitude": 61.0029,
@@ -15462,7 +15462,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 65.6385,
 								"latitude": 61.0029,
@@ -15474,7 +15474,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 67.9433,
 								"latitude": 61.0029,
@@ -15486,7 +15486,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 70.2481,
 								"latitude": 61.0029,
@@ -15498,7 +15498,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 72.5529,
 								"latitude": 61.0029,
@@ -15510,7 +15510,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 74.8577,
 								"latitude": 61.0029,
@@ -15522,7 +15522,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 77.1625,
 								"latitude": 61.0029,
@@ -15534,7 +15534,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 79.4673,
 								"latitude": 61.0029,
@@ -15546,7 +15546,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 81.7721,
 								"latitude": 61.0029,
@@ -15558,7 +15558,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 84.0769,
 								"latitude": 61.0029,
@@ -15570,7 +15570,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 86.3817,
 								"latitude": 61.0029,
@@ -15582,7 +15582,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 88.6865,
 								"latitude": 61.0029,
@@ -15594,7 +15594,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 90.9913,
 								"latitude": 61.0029,
@@ -15606,7 +15606,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 93.2961,
 								"latitude": 61.0029,
@@ -15618,7 +15618,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 95.6009,
 								"latitude": 61.0029,
@@ -15630,7 +15630,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 97.9057,
 								"latitude": 61.0029,
@@ -15642,7 +15642,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 100.2105,
 								"latitude": 61.0029,
@@ -15654,7 +15654,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 102.5153,
 								"latitude": 61.0029,
@@ -15666,7 +15666,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 104.8201,
 								"latitude": 61.0029,
@@ -15678,7 +15678,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 107.1249,
 								"latitude": 61.0029,
@@ -15690,7 +15690,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 109.4297,
 								"latitude": 61.0029,
@@ -15702,7 +15702,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 111.7345,
 								"latitude": 61.0029,
@@ -15714,7 +15714,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 114.0393,
 								"latitude": 61.0029,
@@ -15726,7 +15726,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 116.3441,
 								"latitude": 61.0029,
@@ -15738,7 +15738,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 118.6489,
 								"latitude": 61.0029,
@@ -15750,7 +15750,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 120.9537,
 								"latitude": 61.0029,
@@ -15762,7 +15762,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 123.2585,
 								"latitude": 61.0029,
@@ -15774,7 +15774,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 125.5634,
 								"latitude": 61.0029,
@@ -15786,7 +15786,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 127.8682,
 								"latitude": 61.0029,
@@ -15798,7 +15798,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 130.173,
 								"latitude": 61.0029,
@@ -15810,7 +15810,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 132.4778,
 								"latitude": 61.0029,
@@ -15822,7 +15822,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 134.7826,
 								"latitude": 61.0029,
@@ -15834,7 +15834,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 137.0874,
 								"latitude": 61.0029,
@@ -15846,7 +15846,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 139.3922,
 								"latitude": 61.0029,
@@ -15858,7 +15858,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 141.697,
 								"latitude": 61.0029,
@@ -15870,7 +15870,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 144.0018,
 								"latitude": 61.0029,
@@ -15882,7 +15882,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 146.3066,
 								"latitude": 61.0029,
@@ -15894,7 +15894,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 148.6114,
 								"latitude": 61.0029,
@@ -15906,7 +15906,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 150.9162,
 								"latitude": 61.0029,
@@ -15918,7 +15918,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 153.221,
 								"latitude": 61.0029,
@@ -15930,7 +15930,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 155.5258,
 								"latitude": 61.0029,
@@ -15942,7 +15942,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 160.1354,
 								"latitude": 61.0029,
@@ -15954,7 +15954,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 164.745,
 								"latitude": 61.0029,
@@ -15966,7 +15966,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 167.0498,
 								"latitude": 61.0029,
@@ -15978,7 +15978,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 169.3546,
 								"latitude": 61.0029,
@@ -15990,7 +15990,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 171.6594,
 								"latitude": 61.0029,
@@ -16002,7 +16002,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -160.2322,
 								"latitude": 59.4615,
@@ -16014,7 +16014,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -157.9274,
 								"latitude": 59.4615,
@@ -16026,7 +16026,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -155.6226,
 								"latitude": 59.4615,
@@ -16038,7 +16038,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -151.013,
 								"latitude": 59.4615,
@@ -16050,7 +16050,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -139.489,
 								"latitude": 59.4615,
@@ -16062,7 +16062,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -137.1842,
 								"latitude": 59.4615,
@@ -16074,7 +16074,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -134.8794,
 								"latitude": 59.4615,
@@ -16086,7 +16086,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -132.5746,
 								"latitude": 59.4615,
@@ -16098,7 +16098,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -130.2698,
 								"latitude": 59.4615,
@@ -16110,7 +16110,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -127.965,
 								"latitude": 59.4615,
@@ -16122,7 +16122,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -125.6602,
 								"latitude": 59.4615,
@@ -16134,7 +16134,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -123.3554,
 								"latitude": 59.4615,
@@ -16146,7 +16146,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -121.0505,
 								"latitude": 59.4615,
@@ -16158,7 +16158,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -118.7457,
 								"latitude": 59.4615,
@@ -16170,7 +16170,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -116.4409,
 								"latitude": 59.4615,
@@ -16182,7 +16182,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -114.1361,
 								"latitude": 59.4615,
@@ -16194,7 +16194,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -111.8313,
 								"latitude": 59.4615,
@@ -16206,7 +16206,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -109.5265,
 								"latitude": 59.4615,
@@ -16218,7 +16218,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -107.2217,
 								"latitude": 59.4615,
@@ -16230,7 +16230,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -104.9169,
 								"latitude": 59.4615,
@@ -16242,7 +16242,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -102.6121,
 								"latitude": 59.4615,
@@ -16254,7 +16254,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -100.3073,
 								"latitude": 59.4615,
@@ -16266,7 +16266,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -98.0025,
 								"latitude": 59.4615,
@@ -16278,7 +16278,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -95.6977,
 								"latitude": 59.4615,
@@ -16290,7 +16290,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -77.2593,
 								"latitude": 59.4615,
@@ -16302,7 +16302,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -74.9545,
 								"latitude": 59.4615,
@@ -16314,7 +16314,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -72.6497,
 								"latitude": 59.4615,
@@ -16326,7 +16326,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -70.3449,
 								"latitude": 59.4615,
@@ -16338,7 +16338,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -65.7353,
 								"latitude": 59.4615,
@@ -16350,7 +16350,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Norway",
 								"longitude": 5.7136,
 								"latitude": 59.4615,
@@ -16362,7 +16362,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Norway",
 								"longitude": 8.0184,
 								"latitude": 59.4615,
@@ -16374,7 +16374,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Norway",
 								"longitude": 10.3232,
 								"latitude": 59.4615,
@@ -16386,7 +16386,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sweden",
 								"longitude": 12.628,
 								"latitude": 59.4615,
@@ -16398,7 +16398,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sweden",
 								"longitude": 14.9328,
 								"latitude": 59.4615,
@@ -16411,7 +16411,7 @@
 							},
 						
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Estonia",
 								"longitude": 24.152,
 								"latitude": 59.4615,
@@ -16423,7 +16423,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Estonia",
 								"longitude": 26.4568,
 								"latitude": 59.4615,
@@ -16435,7 +16435,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 28.7616,
 								"latitude": 59.4615,
@@ -16447,7 +16447,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 31.0664,
 								"latitude": 59.4615,
@@ -16459,7 +16459,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 33.3712,
 								"latitude": 59.4615,
@@ -16471,7 +16471,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 35.676,
 								"latitude": 59.4615,
@@ -16483,7 +16483,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 37.9808,
 								"latitude": 59.4615,
@@ -16495,7 +16495,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 40.2856,
 								"latitude": 59.4615,
@@ -16507,7 +16507,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 42.5905,
 								"latitude": 59.4615,
@@ -16519,7 +16519,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 44.8953,
 								"latitude": 59.4615,
@@ -16531,7 +16531,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 47.2001,
 								"latitude": 59.4615,
@@ -16543,7 +16543,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 49.5049,
 								"latitude": 59.4615,
@@ -16555,7 +16555,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 51.8097,
 								"latitude": 59.4615,
@@ -16567,7 +16567,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 54.1145,
 								"latitude": 59.4615,
@@ -16579,7 +16579,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 56.4193,
 								"latitude": 59.4615,
@@ -16591,7 +16591,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 58.7241,
 								"latitude": 59.4615,
@@ -16603,7 +16603,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 61.0289,
 								"latitude": 59.4615,
@@ -16615,7 +16615,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 63.3337,
 								"latitude": 59.4615,
@@ -16627,7 +16627,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 65.6385,
 								"latitude": 59.4615,
@@ -16639,7 +16639,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 67.9433,
 								"latitude": 59.4615,
@@ -16651,7 +16651,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 70.2481,
 								"latitude": 59.4615,
@@ -16663,7 +16663,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 72.5529,
 								"latitude": 59.4615,
@@ -16675,7 +16675,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 74.8577,
 								"latitude": 59.4615,
@@ -16687,7 +16687,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 77.1625,
 								"latitude": 59.4615,
@@ -16699,7 +16699,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 79.4673,
 								"latitude": 59.4615,
@@ -16711,7 +16711,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 81.7721,
 								"latitude": 59.4615,
@@ -16723,7 +16723,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 84.0769,
 								"latitude": 59.4615,
@@ -16735,7 +16735,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 86.3817,
 								"latitude": 59.4615,
@@ -16747,7 +16747,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 88.6865,
 								"latitude": 59.4615,
@@ -16759,7 +16759,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 90.9913,
 								"latitude": 59.4615,
@@ -16771,7 +16771,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 93.2961,
 								"latitude": 59.4615,
@@ -16783,7 +16783,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 95.6009,
 								"latitude": 59.4615,
@@ -16795,7 +16795,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 97.9057,
 								"latitude": 59.4615,
@@ -16807,7 +16807,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 100.2105,
 								"latitude": 59.4615,
@@ -16819,7 +16819,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 102.5153,
 								"latitude": 59.4615,
@@ -16831,7 +16831,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 104.8201,
 								"latitude": 59.4615,
@@ -16843,7 +16843,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 107.1249,
 								"latitude": 59.4615,
@@ -16855,7 +16855,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 109.4297,
 								"latitude": 59.4615,
@@ -16867,7 +16867,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 111.7345,
 								"latitude": 59.4615,
@@ -16879,7 +16879,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 114.0393,
 								"latitude": 59.4615,
@@ -16891,7 +16891,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 116.3441,
 								"latitude": 59.4615,
@@ -16903,7 +16903,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 118.6489,
 								"latitude": 59.4615,
@@ -16915,7 +16915,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 120.9537,
 								"latitude": 59.4615,
@@ -16927,7 +16927,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 123.2585,
 								"latitude": 59.4615,
@@ -16939,7 +16939,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 125.5634,
 								"latitude": 59.4615,
@@ -16951,7 +16951,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 127.8682,
 								"latitude": 59.4615,
@@ -16963,7 +16963,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 130.173,
 								"latitude": 59.4615,
@@ -16975,7 +16975,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 132.4778,
 								"latitude": 59.4615,
@@ -16987,7 +16987,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 134.7826,
 								"latitude": 59.4615,
@@ -16999,7 +16999,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 137.0874,
 								"latitude": 59.4615,
@@ -17011,7 +17011,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 139.3922,
 								"latitude": 59.4615,
@@ -17023,7 +17023,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 141.697,
 								"latitude": 59.4615,
@@ -17035,7 +17035,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 144.0018,
 								"latitude": 59.4615,
@@ -17047,7 +17047,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 146.3066,
 								"latitude": 59.4615,
@@ -17059,7 +17059,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 148.6114,
 								"latitude": 59.4615,
@@ -17071,7 +17071,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 153.221,
 								"latitude": 59.4615,
@@ -17083,7 +17083,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 162.4402,
 								"latitude": 59.4615,
@@ -17095,7 +17095,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -155.6226,
 								"latitude": 57.8828,
@@ -17107,7 +17107,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -153.3178,
 								"latitude": 57.8828,
@@ -17119,7 +17119,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -132.5746,
 								"latitude": 57.8828,
@@ -17131,7 +17131,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -130.2698,
 								"latitude": 57.8828,
@@ -17143,7 +17143,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -127.965,
 								"latitude": 57.8828,
@@ -17155,7 +17155,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -125.6602,
 								"latitude": 57.8828,
@@ -17167,7 +17167,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -123.3554,
 								"latitude": 57.8828,
@@ -17179,7 +17179,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -121.0505,
 								"latitude": 57.8828,
@@ -17191,7 +17191,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -118.7457,
 								"latitude": 57.8828,
@@ -17203,7 +17203,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -116.4409,
 								"latitude": 57.8828,
@@ -17215,7 +17215,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -114.1361,
 								"latitude": 57.8828,
@@ -17227,7 +17227,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -111.8313,
 								"latitude": 57.8828,
@@ -17239,7 +17239,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -109.5265,
 								"latitude": 57.8828,
@@ -17251,7 +17251,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -107.2217,
 								"latitude": 57.8828,
@@ -17263,7 +17263,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -104.9169,
 								"latitude": 57.8828,
@@ -17275,7 +17275,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -102.6121,
 								"latitude": 57.8828,
@@ -17287,7 +17287,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -100.3073,
 								"latitude": 57.8828,
@@ -17299,7 +17299,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -98.0025,
 								"latitude": 57.8828,
@@ -17311,7 +17311,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -95.6977,
 								"latitude": 57.8828,
@@ -17323,7 +17323,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -93.3929,
 								"latitude": 57.8828,
@@ -17335,7 +17335,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -77.2593,
 								"latitude": 57.8828,
@@ -17347,7 +17347,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -74.9545,
 								"latitude": 57.8828,
@@ -17359,7 +17359,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -72.6497,
 								"latitude": 57.8828,
@@ -17371,7 +17371,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -70.3449,
 								"latitude": 57.8828,
@@ -17383,7 +17383,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -68.0401,
 								"latitude": 57.8828,
@@ -17395,7 +17395,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -65.7353,
 								"latitude": 57.8828,
@@ -17407,7 +17407,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -63.4305,
 								"latitude": 57.8828,
@@ -17419,7 +17419,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United Kingdom",
 								"longitude": -5.8104,
 								"latitude": 57.8828,
@@ -17431,7 +17431,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sweden",
 								"longitude": 12.628,
 								"latitude": 57.8828,
@@ -17443,7 +17443,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sweden",
 								"longitude": 14.9328,
 								"latitude": 57.8828,
@@ -17455,7 +17455,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Estonia",
 								"longitude": 26.4568,
 								"latitude": 57.8828,
@@ -17467,7 +17467,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 28.7616,
 								"latitude": 57.8828,
@@ -17479,7 +17479,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 31.0664,
 								"latitude": 57.8828,
@@ -17491,7 +17491,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 33.3712,
 								"latitude": 57.8828,
@@ -17503,7 +17503,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 35.676,
 								"latitude": 57.8828,
@@ -17515,7 +17515,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 37.9808,
 								"latitude": 57.8828,
@@ -17527,7 +17527,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 40.2856,
 								"latitude": 57.8828,
@@ -17539,7 +17539,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 42.5905,
 								"latitude": 57.8828,
@@ -17551,7 +17551,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 44.8953,
 								"latitude": 57.8828,
@@ -17563,7 +17563,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 47.2001,
 								"latitude": 57.8828,
@@ -17575,7 +17575,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 49.5049,
 								"latitude": 57.8828,
@@ -17587,7 +17587,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 51.8097,
 								"latitude": 57.8828,
@@ -17599,7 +17599,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 54.1145,
 								"latitude": 57.8828,
@@ -17611,7 +17611,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 56.4193,
 								"latitude": 57.8828,
@@ -17623,7 +17623,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 58.7241,
 								"latitude": 57.8828,
@@ -17635,7 +17635,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 61.0289,
 								"latitude": 57.8828,
@@ -17647,7 +17647,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 63.3337,
 								"latitude": 57.8828,
@@ -17659,7 +17659,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 65.6385,
 								"latitude": 57.8828,
@@ -17671,7 +17671,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 67.9433,
 								"latitude": 57.8828,
@@ -17683,7 +17683,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 70.2481,
 								"latitude": 57.8828,
@@ -17695,7 +17695,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 72.5529,
 								"latitude": 57.8828,
@@ -17707,7 +17707,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 74.8577,
 								"latitude": 57.8828,
@@ -17719,7 +17719,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 77.1625,
 								"latitude": 57.8828,
@@ -17731,7 +17731,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 79.4673,
 								"latitude": 57.8828,
@@ -17743,7 +17743,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 81.7721,
 								"latitude": 57.8828,
@@ -17755,7 +17755,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 84.0769,
 								"latitude": 57.8828,
@@ -17767,7 +17767,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 86.3817,
 								"latitude": 57.8828,
@@ -17779,7 +17779,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 88.6865,
 								"latitude": 57.8828,
@@ -17791,7 +17791,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 90.9913,
 								"latitude": 57.8828,
@@ -17803,7 +17803,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 93.2961,
 								"latitude": 57.8828,
@@ -17815,7 +17815,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 95.6009,
 								"latitude": 57.8828,
@@ -17827,7 +17827,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 97.9057,
 								"latitude": 57.8828,
@@ -17839,7 +17839,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 100.2105,
 								"latitude": 57.8828,
@@ -17851,7 +17851,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 102.5153,
 								"latitude": 57.8828,
@@ -17863,7 +17863,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 104.8201,
 								"latitude": 57.8828,
@@ -17875,7 +17875,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 107.1249,
 								"latitude": 57.8828,
@@ -17887,7 +17887,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 109.4297,
 								"latitude": 57.8828,
@@ -17899,7 +17899,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 111.7345,
 								"latitude": 57.8828,
@@ -17911,7 +17911,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 114.0393,
 								"latitude": 57.8828,
@@ -17923,7 +17923,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 116.3441,
 								"latitude": 57.8828,
@@ -17935,7 +17935,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 118.6489,
 								"latitude": 57.8828,
@@ -17947,7 +17947,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 120.9537,
 								"latitude": 57.8828,
@@ -17959,7 +17959,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 123.2585,
 								"latitude": 57.8828,
@@ -17971,7 +17971,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 125.5634,
 								"latitude": 57.8828,
@@ -17983,7 +17983,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 127.8682,
 								"latitude": 57.8828,
@@ -17995,7 +17995,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 130.173,
 								"latitude": 57.8828,
@@ -18007,7 +18007,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 132.4778,
 								"latitude": 57.8828,
@@ -18019,7 +18019,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 134.7826,
 								"latitude": 57.8828,
@@ -18031,7 +18031,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 137.0874,
 								"latitude": 57.8828,
@@ -18043,7 +18043,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 139.3922,
 								"latitude": 57.8828,
@@ -18055,7 +18055,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 157.8306,
 								"latitude": 57.8828,
@@ -18067,7 +18067,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 160.1354,
 								"latitude": 57.8828,
@@ -18079,7 +18079,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 162.4402,
 								"latitude": 57.8828,
@@ -18091,7 +18091,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -160.2322,
 								"latitude": 56.2669,
@@ -18103,7 +18103,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -130.2698,
 								"latitude": 56.2669,
@@ -18115,7 +18115,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -127.965,
 								"latitude": 56.2669,
@@ -18127,7 +18127,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -125.6602,
 								"latitude": 56.2669,
@@ -18139,7 +18139,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -123.3554,
 								"latitude": 56.2669,
@@ -18151,7 +18151,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -121.0505,
 								"latitude": 56.2669,
@@ -18163,7 +18163,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -118.7457,
 								"latitude": 56.2669,
@@ -18175,7 +18175,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -116.4409,
 								"latitude": 56.2669,
@@ -18187,7 +18187,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -114.1361,
 								"latitude": 56.2669,
@@ -18199,7 +18199,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -111.8313,
 								"latitude": 56.2669,
@@ -18211,7 +18211,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -109.5265,
 								"latitude": 56.2669,
@@ -18223,7 +18223,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -107.2217,
 								"latitude": 56.2669,
@@ -18235,7 +18235,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -104.9169,
 								"latitude": 56.2669,
@@ -18247,7 +18247,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -102.6121,
 								"latitude": 56.2669,
@@ -18259,7 +18259,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -100.3073,
 								"latitude": 56.2669,
@@ -18271,7 +18271,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -98.0025,
 								"latitude": 56.2669,
@@ -18283,7 +18283,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -95.6977,
 								"latitude": 56.2669,
@@ -18295,7 +18295,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -93.3929,
 								"latitude": 56.2669,
@@ -18307,7 +18307,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -91.0881,
 								"latitude": 56.2669,
@@ -18319,7 +18319,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -88.7833,
 								"latitude": 56.2669,
@@ -18331,7 +18331,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -74.9545,
 								"latitude": 56.2669,
@@ -18343,7 +18343,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -72.6497,
 								"latitude": 56.2669,
@@ -18355,7 +18355,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -70.3449,
 								"latitude": 56.2669,
@@ -18367,7 +18367,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -68.0401,
 								"latitude": 56.2669,
@@ -18379,7 +18379,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -65.7353,
 								"latitude": 56.2669,
@@ -18391,7 +18391,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -63.4305,
 								"latitude": 56.2669,
@@ -18403,7 +18403,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United Kingdom",
 								"longitude": -3.5056,
 								"latitude": 56.2669,
@@ -18415,7 +18415,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Denmark",
 								"longitude": 8.0184,
 								"latitude": 56.2669,
@@ -18427,7 +18427,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Denmark",
 								"longitude": 10.3232,
 								"latitude": 56.2669,
@@ -18439,7 +18439,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sweden",
 								"longitude": 12.628,
 								"latitude": 56.2669,
@@ -18451,7 +18451,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sweden",
 								"longitude": 14.9328,
 								"latitude": 56.2669,
@@ -18463,7 +18463,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Latvia",
 								"longitude": 21.8472,
 								"latitude": 56.2669,
@@ -18475,7 +18475,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Latvia",
 								"longitude": 24.152,
 								"latitude": 56.2669,
@@ -18487,7 +18487,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Latvia",
 								"longitude": 26.4568,
 								"latitude": 56.2669,
@@ -18499,7 +18499,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 28.7616,
 								"latitude": 56.2669,
@@ -18511,7 +18511,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 31.0664,
 								"latitude": 56.2669,
@@ -18523,7 +18523,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 33.3712,
 								"latitude": 56.2669,
@@ -18535,7 +18535,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 35.676,
 								"latitude": 56.2669,
@@ -18547,7 +18547,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 37.9808,
 								"latitude": 56.2669,
@@ -18559,7 +18559,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 40.2856,
 								"latitude": 56.2669,
@@ -18571,7 +18571,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 42.5905,
 								"latitude": 56.2669,
@@ -18583,7 +18583,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 44.8953,
 								"latitude": 56.2669,
@@ -18595,7 +18595,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 47.2001,
 								"latitude": 56.2669,
@@ -18607,7 +18607,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 49.5049,
 								"latitude": 56.2669,
@@ -18619,7 +18619,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 51.8097,
 								"latitude": 56.2669,
@@ -18631,7 +18631,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 54.1145,
 								"latitude": 56.2669,
@@ -18643,7 +18643,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 56.4193,
 								"latitude": 56.2669,
@@ -18655,7 +18655,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 58.7241,
 								"latitude": 56.2669,
@@ -18667,7 +18667,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 61.0289,
 								"latitude": 56.2669,
@@ -18679,7 +18679,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 63.3337,
 								"latitude": 56.2669,
@@ -18691,7 +18691,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 65.6385,
 								"latitude": 56.2669,
@@ -18703,7 +18703,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 67.9433,
 								"latitude": 56.2669,
@@ -18715,7 +18715,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 70.2481,
 								"latitude": 56.2669,
@@ -18727,7 +18727,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 72.5529,
 								"latitude": 56.2669,
@@ -18739,7 +18739,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 74.8577,
 								"latitude": 56.2669,
@@ -18751,7 +18751,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 77.1625,
 								"latitude": 56.2669,
@@ -18763,7 +18763,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 79.4673,
 								"latitude": 56.2669,
@@ -18775,7 +18775,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 81.7721,
 								"latitude": 56.2669,
@@ -18787,7 +18787,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 84.0769,
 								"latitude": 56.2669,
@@ -18799,7 +18799,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 86.3817,
 								"latitude": 56.2669,
@@ -18811,7 +18811,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 88.6865,
 								"latitude": 56.2669,
@@ -18823,7 +18823,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 90.9913,
 								"latitude": 56.2669,
@@ -18835,7 +18835,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 93.2961,
 								"latitude": 56.2669,
@@ -18847,7 +18847,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 95.6009,
 								"latitude": 56.2669,
@@ -18859,7 +18859,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 97.9057,
 								"latitude": 56.2669,
@@ -18871,7 +18871,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 100.2105,
 								"latitude": 56.2669,
@@ -18883,7 +18883,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 102.5153,
 								"latitude": 56.2669,
@@ -18895,7 +18895,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 104.8201,
 								"latitude": 56.2669,
@@ -18907,7 +18907,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 107.1249,
 								"latitude": 56.2669,
@@ -18919,7 +18919,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 109.4297,
 								"latitude": 56.2669,
@@ -18931,7 +18931,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 111.7345,
 								"latitude": 56.2669,
@@ -18943,7 +18943,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 114.0393,
 								"latitude": 56.2669,
@@ -18955,7 +18955,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 116.3441,
 								"latitude": 56.2669,
@@ -18967,7 +18967,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 118.6489,
 								"latitude": 56.2669,
@@ -18979,7 +18979,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 120.9537,
 								"latitude": 56.2669,
@@ -18991,7 +18991,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 123.2585,
 								"latitude": 56.2669,
@@ -19003,7 +19003,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 125.5634,
 								"latitude": 56.2669,
@@ -19015,7 +19015,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 127.8682,
 								"latitude": 56.2669,
@@ -19027,7 +19027,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 130.173,
 								"latitude": 56.2669,
@@ -19039,7 +19039,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 132.4778,
 								"latitude": 56.2669,
@@ -19051,7 +19051,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 134.7826,
 								"latitude": 56.2669,
@@ -19063,7 +19063,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 137.0874,
 								"latitude": 56.2669,
@@ -19075,7 +19075,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 157.8306,
 								"latitude": 56.2669,
@@ -19087,7 +19087,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 160.1354,
 								"latitude": 56.2669,
@@ -19099,7 +19099,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 162.4402,
 								"latitude": 56.2669,
@@ -19111,7 +19111,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -164.8418,
 								"latitude": 54.6137,
@@ -19123,7 +19123,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -130.2698,
 								"latitude": 54.6137,
@@ -19135,7 +19135,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -127.965,
 								"latitude": 54.6137,
@@ -19147,7 +19147,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -125.6602,
 								"latitude": 54.6137,
@@ -19159,7 +19159,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -123.3554,
 								"latitude": 54.6137,
@@ -19171,7 +19171,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -121.0505,
 								"latitude": 54.6137,
@@ -19183,7 +19183,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -118.7457,
 								"latitude": 54.6137,
@@ -19195,7 +19195,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -116.4409,
 								"latitude": 54.6137,
@@ -19207,7 +19207,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -114.1361,
 								"latitude": 54.6137,
@@ -19219,7 +19219,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -111.8313,
 								"latitude": 54.6137,
@@ -19231,7 +19231,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -109.5265,
 								"latitude": 54.6137,
@@ -19243,7 +19243,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -107.2217,
 								"latitude": 54.6137,
@@ -19255,7 +19255,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -104.9169,
 								"latitude": 54.6137,
@@ -19267,7 +19267,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -102.6121,
 								"latitude": 54.6137,
@@ -19279,7 +19279,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -100.3073,
 								"latitude": 54.6137,
@@ -19291,7 +19291,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -98.0025,
 								"latitude": 54.6137,
@@ -19303,7 +19303,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -95.6977,
 								"latitude": 54.6137,
@@ -19315,7 +19315,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -93.3929,
 								"latitude": 54.6137,
@@ -19327,7 +19327,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -91.0881,
 								"latitude": 54.6137,
@@ -19339,7 +19339,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -88.7833,
 								"latitude": 54.6137,
@@ -19351,7 +19351,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -86.4785,
 								"latitude": 54.6137,
@@ -19363,7 +19363,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -84.1737,
 								"latitude": 54.6137,
@@ -19375,7 +19375,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -79.5641,
 								"latitude": 54.6137,
@@ -19387,7 +19387,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -77.2593,
 								"latitude": 54.6137,
@@ -19399,7 +19399,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -74.9545,
 								"latitude": 54.6137,
@@ -19411,7 +19411,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -72.6497,
 								"latitude": 54.6137,
@@ -19423,7 +19423,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -70.3449,
 								"latitude": 54.6137,
@@ -19435,7 +19435,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -68.0401,
 								"latitude": 54.6137,
@@ -19447,7 +19447,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -65.7353,
 								"latitude": 54.6137,
@@ -19459,7 +19459,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -63.4305,
 								"latitude": 54.6137,
@@ -19471,7 +19471,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -61.1257,
 								"latitude": 54.6137,
@@ -19483,7 +19483,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -58.8209,
 								"latitude": 54.6137,
@@ -19495,7 +19495,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ireland",
 								"longitude": -8.1152,
 								"latitude": 54.6137,
@@ -19507,7 +19507,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United Kingdom",
 								"longitude": -5.8104,
 								"latitude": 54.6137,
@@ -19519,7 +19519,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United Kingdom",
 								"longitude": -3.5056,
 								"latitude": 54.6137,
@@ -19531,7 +19531,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United Kingdom",
 								"longitude": -1.2008,
 								"latitude": 54.6137,
@@ -19543,7 +19543,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Germany",
 								"longitude": 10.3232,
 								"latitude": 54.6137,
@@ -19555,7 +19555,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Poland",
 								"longitude": 17.2376,
 								"latitude": 54.6137,
@@ -19567,7 +19567,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 21.8472,
 								"latitude": 54.6137,
@@ -19579,7 +19579,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Lithuania",
 								"longitude": 24.152,
 								"latitude": 54.6137,
@@ -19591,7 +19591,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Belarus",
 								"longitude": 26.4568,
 								"latitude": 54.6137,
@@ -19603,7 +19603,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Belarus",
 								"longitude": 28.7616,
 								"latitude": 54.6137,
@@ -19615,7 +19615,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 31.0664,
 								"latitude": 54.6137,
@@ -19627,7 +19627,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 33.3712,
 								"latitude": 54.6137,
@@ -19639,7 +19639,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 35.676,
 								"latitude": 54.6137,
@@ -19651,7 +19651,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 37.9808,
 								"latitude": 54.6137,
@@ -19663,7 +19663,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 40.2856,
 								"latitude": 54.6137,
@@ -19675,7 +19675,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 42.5905,
 								"latitude": 54.6137,
@@ -19687,7 +19687,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 44.8953,
 								"latitude": 54.6137,
@@ -19699,7 +19699,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 47.2001,
 								"latitude": 54.6137,
@@ -19711,7 +19711,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 49.5049,
 								"latitude": 54.6137,
@@ -19723,7 +19723,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 51.8097,
 								"latitude": 54.6137,
@@ -19735,7 +19735,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 54.1145,
 								"latitude": 54.6137,
@@ -19747,7 +19747,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 56.4193,
 								"latitude": 54.6137,
@@ -19759,7 +19759,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 58.7241,
 								"latitude": 54.6137,
@@ -19771,7 +19771,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 61.0289,
 								"latitude": 54.6137,
@@ -19783,7 +19783,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 63.3337,
 								"latitude": 54.6137,
@@ -19795,7 +19795,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 65.6385,
 								"latitude": 54.6137,
@@ -19807,7 +19807,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 67.9433,
 								"latitude": 54.6137,
@@ -19819,7 +19819,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 70.2481,
 								"latitude": 54.6137,
@@ -19831,7 +19831,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 72.5529,
 								"latitude": 54.6137,
@@ -19843,7 +19843,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 74.8577,
 								"latitude": 54.6137,
@@ -19855,7 +19855,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 77.1625,
 								"latitude": 54.6137,
@@ -19867,7 +19867,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 79.4673,
 								"latitude": 54.6137,
@@ -19879,7 +19879,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 81.7721,
 								"latitude": 54.6137,
@@ -19891,7 +19891,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 84.0769,
 								"latitude": 54.6137,
@@ -19903,7 +19903,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 86.3817,
 								"latitude": 54.6137,
@@ -19915,7 +19915,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 88.6865,
 								"latitude": 54.6137,
@@ -19927,7 +19927,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 90.9913,
 								"latitude": 54.6137,
@@ -19939,7 +19939,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 93.2961,
 								"latitude": 54.6137,
@@ -19951,7 +19951,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 95.6009,
 								"latitude": 54.6137,
@@ -19963,7 +19963,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 97.9057,
 								"latitude": 54.6137,
@@ -19975,7 +19975,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 100.2105,
 								"latitude": 54.6137,
@@ -19987,7 +19987,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 102.5153,
 								"latitude": 54.6137,
@@ -19999,7 +19999,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 104.8201,
 								"latitude": 54.6137,
@@ -20011,7 +20011,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 107.1249,
 								"latitude": 54.6137,
@@ -20023,7 +20023,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 109.4297,
 								"latitude": 54.6137,
@@ -20035,7 +20035,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 111.7345,
 								"latitude": 54.6137,
@@ -20047,7 +20047,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 114.0393,
 								"latitude": 54.6137,
@@ -20059,7 +20059,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 116.3441,
 								"latitude": 54.6137,
@@ -20071,7 +20071,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 118.6489,
 								"latitude": 54.6137,
@@ -20083,7 +20083,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 120.9537,
 								"latitude": 54.6137,
@@ -20095,7 +20095,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 123.2585,
 								"latitude": 54.6137,
@@ -20107,7 +20107,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 125.5634,
 								"latitude": 54.6137,
@@ -20119,7 +20119,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 127.8682,
 								"latitude": 54.6137,
@@ -20131,7 +20131,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 130.173,
 								"latitude": 54.6137,
@@ -20143,7 +20143,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 132.4778,
 								"latitude": 54.6137,
@@ -20155,7 +20155,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 134.7826,
 								"latitude": 54.6137,
@@ -20167,7 +20167,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 157.8306,
 								"latitude": 54.6137,
@@ -20179,7 +20179,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 160.1354,
 								"latitude": 54.6137,
@@ -20191,7 +20191,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -132.5746,
 								"latitude": 52.9232,
@@ -20203,7 +20203,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -127.965,
 								"latitude": 52.9232,
@@ -20215,7 +20215,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -125.6602,
 								"latitude": 52.9232,
@@ -20227,7 +20227,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -123.3554,
 								"latitude": 52.9232,
@@ -20239,7 +20239,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -121.0505,
 								"latitude": 52.9232,
@@ -20251,7 +20251,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -118.7457,
 								"latitude": 52.9232,
@@ -20263,7 +20263,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -116.4409,
 								"latitude": 52.9232,
@@ -20275,7 +20275,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -114.1361,
 								"latitude": 52.9232,
@@ -20287,7 +20287,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -111.8313,
 								"latitude": 52.9232,
@@ -20299,7 +20299,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -109.5265,
 								"latitude": 52.9232,
@@ -20311,7 +20311,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -107.2217,
 								"latitude": 52.9232,
@@ -20323,7 +20323,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -104.9169,
 								"latitude": 52.9232,
@@ -20335,7 +20335,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -102.6121,
 								"latitude": 52.9232,
@@ -20347,7 +20347,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -100.3073,
 								"latitude": 52.9232,
@@ -20359,7 +20359,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -98.0025,
 								"latitude": 52.9232,
@@ -20371,7 +20371,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -95.6977,
 								"latitude": 52.9232,
@@ -20383,7 +20383,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -93.3929,
 								"latitude": 52.9232,
@@ -20395,7 +20395,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -91.0881,
 								"latitude": 52.9232,
@@ -20407,7 +20407,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -88.7833,
 								"latitude": 52.9232,
@@ -20419,7 +20419,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -86.4785,
 								"latitude": 52.9232,
@@ -20431,7 +20431,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -84.1737,
 								"latitude": 52.9232,
@@ -20443,7 +20443,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -81.8689,
 								"latitude": 52.9232,
@@ -20455,7 +20455,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -77.2593,
 								"latitude": 52.9232,
@@ -20467,7 +20467,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -74.9545,
 								"latitude": 52.9232,
@@ -20479,7 +20479,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -72.6497,
 								"latitude": 52.9232,
@@ -20491,7 +20491,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -70.3449,
 								"latitude": 52.9232,
@@ -20503,7 +20503,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -68.0401,
 								"latitude": 52.9232,
@@ -20515,7 +20515,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -65.7353,
 								"latitude": 52.9232,
@@ -20527,7 +20527,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -63.4305,
 								"latitude": 52.9232,
@@ -20539,7 +20539,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -61.1257,
 								"latitude": 52.9232,
@@ -20551,7 +20551,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -58.8209,
 								"latitude": 52.9232,
@@ -20563,7 +20563,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -56.5161,
 								"latitude": 52.9232,
@@ -20575,7 +20575,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ireland",
 								"longitude": -8.1152,
 								"latitude": 52.9232,
@@ -20587,7 +20587,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United Kingdom",
 								"longitude": -3.5056,
 								"latitude": 52.9232,
@@ -20599,7 +20599,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United Kingdom",
 								"longitude": -1.2008,
 								"latitude": 52.9232,
@@ -20611,7 +20611,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United Kingdom",
 								"longitude": 1.104,
 								"latitude": 52.9232,
@@ -20624,7 +20624,7 @@
 							},
 						
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Germany",
 								"longitude": 8.0184,
 								"latitude": 52.9232,
@@ -20636,7 +20636,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Germany",
 								"longitude": 10.3232,
 								"latitude": 52.9232,
@@ -20648,7 +20648,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Germany",
 								"longitude": 12.628,
 								"latitude": 52.9232,
@@ -20660,7 +20660,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Poland",
 								"longitude": 14.9328,
 								"latitude": 52.9232,
@@ -20672,7 +20672,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Poland",
 								"longitude": 17.2376,
 								"latitude": 52.9232,
@@ -20684,7 +20684,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Poland",
 								"longitude": 19.5424,
 								"latitude": 52.9232,
@@ -20696,7 +20696,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Poland",
 								"longitude": 21.8472,
 								"latitude": 52.9232,
@@ -20708,7 +20708,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Belarus",
 								"longitude": 24.152,
 								"latitude": 52.9232,
@@ -20720,7 +20720,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Belarus",
 								"longitude": 26.4568,
 								"latitude": 52.9232,
@@ -20732,7 +20732,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Belarus",
 								"longitude": 28.7616,
 								"latitude": 52.9232,
@@ -20744,7 +20744,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Belarus",
 								"longitude": 31.0664,
 								"latitude": 52.9232,
@@ -20756,7 +20756,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 33.3712,
 								"latitude": 52.9232,
@@ -20768,7 +20768,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 35.676,
 								"latitude": 52.9232,
@@ -20780,7 +20780,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 37.9808,
 								"latitude": 52.9232,
@@ -20792,7 +20792,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 40.2856,
 								"latitude": 52.9232,
@@ -20804,7 +20804,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 42.5905,
 								"latitude": 52.9232,
@@ -20816,7 +20816,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 44.8953,
 								"latitude": 52.9232,
@@ -20828,7 +20828,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 47.2001,
 								"latitude": 52.9232,
@@ -20840,7 +20840,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 49.5049,
 								"latitude": 52.9232,
@@ -20852,7 +20852,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 51.8097,
 								"latitude": 52.9232,
@@ -20864,7 +20864,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 54.1145,
 								"latitude": 52.9232,
@@ -20876,7 +20876,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 56.4193,
 								"latitude": 52.9232,
@@ -20888,7 +20888,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 58.7241,
 								"latitude": 52.9232,
@@ -20900,7 +20900,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 61.0289,
 								"latitude": 52.9232,
@@ -20912,7 +20912,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 63.3337,
 								"latitude": 52.9232,
@@ -20924,7 +20924,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 65.6385,
 								"latitude": 52.9232,
@@ -20936,7 +20936,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 67.9433,
 								"latitude": 52.9232,
@@ -20948,7 +20948,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 70.2481,
 								"latitude": 52.9232,
@@ -20960,7 +20960,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 72.5529,
 								"latitude": 52.9232,
@@ -20972,7 +20972,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 74.8577,
 								"latitude": 52.9232,
@@ -20984,7 +20984,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 77.1625,
 								"latitude": 52.9232,
@@ -20996,7 +20996,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 79.4673,
 								"latitude": 52.9232,
@@ -21008,7 +21008,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 81.7721,
 								"latitude": 52.9232,
@@ -21020,7 +21020,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 84.0769,
 								"latitude": 52.9232,
@@ -21032,7 +21032,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 86.3817,
 								"latitude": 52.9232,
@@ -21044,7 +21044,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 88.6865,
 								"latitude": 52.9232,
@@ -21056,7 +21056,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 90.9913,
 								"latitude": 52.9232,
@@ -21068,7 +21068,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 93.2961,
 								"latitude": 52.9232,
@@ -21080,7 +21080,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 95.6009,
 								"latitude": 52.9232,
@@ -21092,7 +21092,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 97.9057,
 								"latitude": 52.9232,
@@ -21104,7 +21104,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 100.2105,
 								"latitude": 52.9232,
@@ -21116,7 +21116,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 102.5153,
 								"latitude": 52.9232,
@@ -21128,7 +21128,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 104.8201,
 								"latitude": 52.9232,
@@ -21140,7 +21140,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 107.1249,
 								"latitude": 52.9232,
@@ -21152,7 +21152,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 109.4297,
 								"latitude": 52.9232,
@@ -21164,7 +21164,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 111.7345,
 								"latitude": 52.9232,
@@ -21176,7 +21176,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 114.0393,
 								"latitude": 52.9232,
@@ -21188,7 +21188,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 116.3441,
 								"latitude": 52.9232,
@@ -21200,7 +21200,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 118.6489,
 								"latitude": 52.9232,
@@ -21212,7 +21212,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 120.9537,
 								"latitude": 52.9232,
@@ -21224,7 +21224,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 123.2585,
 								"latitude": 52.9232,
@@ -21236,7 +21236,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 125.5634,
 								"latitude": 52.9232,
@@ -21248,7 +21248,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 127.8682,
 								"latitude": 52.9232,
@@ -21260,7 +21260,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 130.173,
 								"latitude": 52.9232,
@@ -21272,7 +21272,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 132.4778,
 								"latitude": 52.9232,
@@ -21284,7 +21284,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 134.7826,
 								"latitude": 52.9232,
@@ -21296,7 +21296,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 137.0874,
 								"latitude": 52.9232,
@@ -21308,7 +21308,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 139.3922,
 								"latitude": 52.9232,
@@ -21320,7 +21320,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 141.697,
 								"latitude": 52.9232,
@@ -21332,7 +21332,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 157.8306,
 								"latitude": 52.9232,
@@ -21344,7 +21344,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -125.6602,
 								"latitude": 51.1955,
@@ -21356,7 +21356,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -123.3554,
 								"latitude": 51.1955,
@@ -21368,7 +21368,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -121.0505,
 								"latitude": 51.1955,
@@ -21380,7 +21380,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -118.7457,
 								"latitude": 51.1955,
@@ -21392,7 +21392,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -116.4409,
 								"latitude": 51.1955,
@@ -21404,7 +21404,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -114.1361,
 								"latitude": 51.1955,
@@ -21416,7 +21416,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -111.8313,
 								"latitude": 51.1955,
@@ -21428,7 +21428,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -109.5265,
 								"latitude": 51.1955,
@@ -21440,7 +21440,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -107.2217,
 								"latitude": 51.1955,
@@ -21452,7 +21452,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -104.9169,
 								"latitude": 51.1955,
@@ -21464,7 +21464,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -102.6121,
 								"latitude": 51.1955,
@@ -21476,7 +21476,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -100.3073,
 								"latitude": 51.1955,
@@ -21488,7 +21488,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -98.0025,
 								"latitude": 51.1955,
@@ -21500,7 +21500,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -95.6977,
 								"latitude": 51.1955,
@@ -21512,7 +21512,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -93.3929,
 								"latitude": 51.1955,
@@ -21524,7 +21524,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -91.0881,
 								"latitude": 51.1955,
@@ -21536,7 +21536,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -88.7833,
 								"latitude": 51.1955,
@@ -21548,7 +21548,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -86.4785,
 								"latitude": 51.1955,
@@ -21560,7 +21560,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -84.1737,
 								"latitude": 51.1955,
@@ -21572,7 +21572,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -81.8689,
 								"latitude": 51.1955,
@@ -21584,7 +21584,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -79.5641,
 								"latitude": 51.1955,
@@ -21596,7 +21596,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -77.2593,
 								"latitude": 51.1955,
@@ -21608,7 +21608,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -74.9545,
 								"latitude": 51.1955,
@@ -21620,7 +21620,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -72.6497,
 								"latitude": 51.1955,
@@ -21632,7 +21632,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -70.3449,
 								"latitude": 51.1955,
@@ -21644,7 +21644,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -68.0401,
 								"latitude": 51.1955,
@@ -21656,7 +21656,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -65.7353,
 								"latitude": 51.1955,
@@ -21668,7 +21668,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -63.4305,
 								"latitude": 51.1955,
@@ -21680,7 +21680,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -61.1257,
 								"latitude": 51.1955,
@@ -21692,7 +21692,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -58.8209,
 								"latitude": 51.1955,
@@ -21704,7 +21704,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -56.5161,
 								"latitude": 51.1955,
@@ -21716,7 +21716,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United Kingdom",
 								"longitude": -3.5056,
 								"latitude": 51.1955,
@@ -21728,7 +21728,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United Kingdom",
 								"longitude": -1.2008,
 								"latitude": 51.1955,
@@ -21740,7 +21740,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United Kingdom",
 								"longitude": 1.104,
 								"latitude": 51.1955,
@@ -21752,7 +21752,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Belgium",
 								"longitude": 3.4088,
 								"latitude": 51.1955,
@@ -21764,7 +21764,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Netherlands",
 								"longitude": 5.7136,
 								"latitude": 51.1955,
@@ -21776,7 +21776,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Germany",
 								"longitude": 8.0184,
 								"latitude": 51.1955,
@@ -21788,7 +21788,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Germany",
 								"longitude": 10.3232,
 								"latitude": 51.1955,
@@ -21800,7 +21800,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Germany",
 								"longitude": 12.628,
 								"latitude": 51.1955,
@@ -21812,7 +21812,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Poland",
 								"longitude": 14.9328,
 								"latitude": 51.1955,
@@ -21824,7 +21824,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Poland",
 								"longitude": 17.2376,
 								"latitude": 51.1955,
@@ -21836,7 +21836,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Poland",
 								"longitude": 19.5424,
 								"latitude": 51.1955,
@@ -21848,7 +21848,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Poland",
 								"longitude": 21.8472,
 								"latitude": 51.1955,
@@ -21860,7 +21860,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ukraine",
 								"longitude": 24.152,
 								"latitude": 51.1955,
@@ -21872,7 +21872,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ukraine",
 								"longitude": 26.4568,
 								"latitude": 51.1955,
@@ -21884,7 +21884,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ukraine",
 								"longitude": 28.7616,
 								"latitude": 51.1955,
@@ -21896,7 +21896,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ukraine",
 								"longitude": 31.0664,
 								"latitude": 51.1955,
@@ -21908,7 +21908,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ukraine",
 								"longitude": 33.3712,
 								"latitude": 51.1955,
@@ -21920,7 +21920,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 35.676,
 								"latitude": 51.1955,
@@ -21932,7 +21932,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 37.9808,
 								"latitude": 51.1955,
@@ -21944,7 +21944,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 40.2856,
 								"latitude": 51.1955,
@@ -21956,7 +21956,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 42.5905,
 								"latitude": 51.1955,
@@ -21968,7 +21968,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 44.8953,
 								"latitude": 51.1955,
@@ -21980,7 +21980,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 47.2001,
 								"latitude": 51.1955,
@@ -21992,7 +21992,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 49.5049,
 								"latitude": 51.1955,
@@ -22004,7 +22004,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 51.8097,
 								"latitude": 51.1955,
@@ -22016,7 +22016,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 54.1145,
 								"latitude": 51.1955,
@@ -22028,7 +22028,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 56.4193,
 								"latitude": 51.1955,
@@ -22040,7 +22040,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 58.7241,
 								"latitude": 51.1955,
@@ -22052,7 +22052,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 61.0289,
 								"latitude": 51.1955,
@@ -22064,7 +22064,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 63.3337,
 								"latitude": 51.1955,
@@ -22076,7 +22076,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 65.6385,
 								"latitude": 51.1955,
@@ -22088,7 +22088,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 67.9433,
 								"latitude": 51.1955,
@@ -22100,7 +22100,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 70.2481,
 								"latitude": 51.1955,
@@ -22112,7 +22112,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 72.5529,
 								"latitude": 51.1955,
@@ -22124,7 +22124,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 74.8577,
 								"latitude": 51.1955,
@@ -22136,7 +22136,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 77.1625,
 								"latitude": 51.1955,
@@ -22148,7 +22148,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 79.4673,
 								"latitude": 51.1955,
@@ -22160,7 +22160,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 81.7721,
 								"latitude": 51.1955,
@@ -22172,7 +22172,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 84.0769,
 								"latitude": 51.1955,
@@ -22184,7 +22184,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 86.3817,
 								"latitude": 51.1955,
@@ -22196,7 +22196,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 88.6865,
 								"latitude": 51.1955,
@@ -22208,7 +22208,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 90.9913,
 								"latitude": 51.1955,
@@ -22220,7 +22220,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 93.2961,
 								"latitude": 51.1955,
@@ -22232,7 +22232,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 95.6009,
 								"latitude": 51.1955,
@@ -22244,7 +22244,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 97.9057,
 								"latitude": 51.1955,
@@ -22256,7 +22256,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 100.2105,
 								"latitude": 51.1955,
@@ -22268,7 +22268,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 102.5153,
 								"latitude": 51.1955,
@@ -22280,7 +22280,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 104.8201,
 								"latitude": 51.1955,
@@ -22292,7 +22292,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 107.1249,
 								"latitude": 51.1955,
@@ -22304,7 +22304,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 109.4297,
 								"latitude": 51.1955,
@@ -22316,7 +22316,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 111.7345,
 								"latitude": 51.1955,
@@ -22328,7 +22328,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 114.0393,
 								"latitude": 51.1955,
@@ -22340,7 +22340,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 116.3441,
 								"latitude": 51.1955,
@@ -22352,7 +22352,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 118.6489,
 								"latitude": 51.1955,
@@ -22364,7 +22364,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 120.9537,
 								"latitude": 51.1955,
@@ -22376,7 +22376,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 123.2585,
 								"latitude": 51.1955,
@@ -22388,7 +22388,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 125.5634,
 								"latitude": 51.1955,
@@ -22400,7 +22400,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 127.8682,
 								"latitude": 51.1955,
@@ -22412,7 +22412,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 130.173,
 								"latitude": 51.1955,
@@ -22424,7 +22424,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 132.4778,
 								"latitude": 51.1955,
@@ -22436,7 +22436,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 134.7826,
 								"latitude": 51.1955,
@@ -22448,7 +22448,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 137.0874,
 								"latitude": 51.1955,
@@ -22460,7 +22460,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 139.3922,
 								"latitude": 51.1955,
@@ -22472,7 +22472,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -125.6602,
 								"latitude": 49.4309,
@@ -22484,7 +22484,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -123.3554,
 								"latitude": 49.4309,
@@ -22496,7 +22496,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -121.0505,
 								"latitude": 49.4309,
@@ -22508,7 +22508,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -118.7457,
 								"latitude": 49.4309,
@@ -22520,7 +22520,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -116.4409,
 								"latitude": 49.4309,
@@ -22532,7 +22532,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -114.1361,
 								"latitude": 49.4309,
@@ -22545,7 +22545,7 @@
 							},
 							
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -109.5265,
 								"latitude": 49.4309,
@@ -22557,7 +22557,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -107.2217,
 								"latitude": 49.4309,
@@ -22569,7 +22569,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -104.9169,
 								"latitude": 49.4309,
@@ -22581,7 +22581,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -102.6121,
 								"latitude": 49.4309,
@@ -22593,7 +22593,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -100.3073,
 								"latitude": 49.4309,
@@ -22605,7 +22605,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -98.0025,
 								"latitude": 49.4309,
@@ -22617,7 +22617,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -95.6977,
 								"latitude": 49.4309,
@@ -22629,7 +22629,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -93.3929,
 								"latitude": 49.4309,
@@ -22641,7 +22641,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -91.0881,
 								"latitude": 49.4309,
@@ -22653,7 +22653,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -88.7833,
 								"latitude": 49.4309,
@@ -22665,7 +22665,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -86.4785,
 								"latitude": 49.4309,
@@ -22677,7 +22677,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -84.1737,
 								"latitude": 49.4309,
@@ -22689,7 +22689,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -81.8689,
 								"latitude": 49.4309,
@@ -22701,7 +22701,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -79.5641,
 								"latitude": 49.4309,
@@ -22713,7 +22713,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -77.2593,
 								"latitude": 49.4309,
@@ -22725,7 +22725,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -74.9545,
 								"latitude": 49.4309,
@@ -22737,7 +22737,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -72.6497,
 								"latitude": 49.4309,
@@ -22749,7 +22749,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -70.3449,
 								"latitude": 49.4309,
@@ -22761,7 +22761,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -68.0401,
 								"latitude": 49.4309,
@@ -22773,7 +22773,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -63.4305,
 								"latitude": 49.4309,
@@ -22785,7 +22785,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -56.5161,
 								"latitude": 49.4309,
@@ -22797,7 +22797,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -54.2113,
 								"latitude": 49.4309,
@@ -22809,7 +22809,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "France",
 								"longitude": -1.2008,
 								"latitude": 49.4309,
@@ -22821,7 +22821,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "France",
 								"longitude": 1.104,
 								"latitude": 49.4309,
@@ -22833,7 +22833,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "France",
 								"longitude": 3.4088,
 								"latitude": 49.4309,
@@ -22845,7 +22845,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Luxembourg",
 								"longitude": 5.7136,
 								"latitude": 49.4309,
@@ -22857,7 +22857,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Germany",
 								"longitude": 8.0184,
 								"latitude": 49.4309,
@@ -22869,7 +22869,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Germany",
 								"longitude": 10.3232,
 								"latitude": 49.4309,
@@ -22881,7 +22881,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Germany",
 								"longitude": 12.628,
 								"latitude": 49.4309,
@@ -22893,7 +22893,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Czechia",
 								"longitude": 14.9328,
 								"latitude": 49.4309,
@@ -22905,7 +22905,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Czechia",
 								"longitude": 17.2376,
 								"latitude": 49.4309,
@@ -22917,7 +22917,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Slovakia",
 								"longitude": 19.5424,
 								"latitude": 49.4309,
@@ -22929,7 +22929,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Slovakia",
 								"longitude": 21.8472,
 								"latitude": 49.4309,
@@ -22941,7 +22941,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ukraine",
 								"longitude": 24.152,
 								"latitude": 49.4309,
@@ -22953,7 +22953,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ukraine",
 								"longitude": 26.4568,
 								"latitude": 49.4309,
@@ -22965,7 +22965,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ukraine",
 								"longitude": 28.7616,
 								"latitude": 49.4309,
@@ -22977,7 +22977,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ukraine",
 								"longitude": 31.0664,
 								"latitude": 49.4309,
@@ -22989,7 +22989,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ukraine",
 								"longitude": 33.3712,
 								"latitude": 49.4309,
@@ -23001,7 +23001,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ukraine",
 								"longitude": 35.676,
 								"latitude": 49.4309,
@@ -23013,7 +23013,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ukraine",
 								"longitude": 37.9808,
 								"latitude": 49.4309,
@@ -23025,7 +23025,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 40.2856,
 								"latitude": 49.4309,
@@ -23037,7 +23037,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 42.5905,
 								"latitude": 49.4309,
@@ -23049,7 +23049,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 44.8953,
 								"latitude": 49.4309,
@@ -23061,7 +23061,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 47.2001,
 								"latitude": 49.4309,
@@ -23073,7 +23073,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 49.5049,
 								"latitude": 49.4309,
@@ -23085,7 +23085,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 51.8097,
 								"latitude": 49.4309,
@@ -23097,7 +23097,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 54.1145,
 								"latitude": 49.4309,
@@ -23109,7 +23109,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 56.4193,
 								"latitude": 49.4309,
@@ -23121,7 +23121,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 58.7241,
 								"latitude": 49.4309,
@@ -23133,7 +23133,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 61.0289,
 								"latitude": 49.4309,
@@ -23145,7 +23145,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 63.3337,
 								"latitude": 49.4309,
@@ -23157,7 +23157,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 65.6385,
 								"latitude": 49.4309,
@@ -23169,7 +23169,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 67.9433,
 								"latitude": 49.4309,
@@ -23181,7 +23181,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 70.2481,
 								"latitude": 49.4309,
@@ -23193,7 +23193,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 72.5529,
 								"latitude": 49.4309,
@@ -23205,7 +23205,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 74.8577,
 								"latitude": 49.4309,
@@ -23217,7 +23217,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 77.1625,
 								"latitude": 49.4309,
@@ -23229,7 +23229,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 79.4673,
 								"latitude": 49.4309,
@@ -23241,7 +23241,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 81.7721,
 								"latitude": 49.4309,
@@ -23253,7 +23253,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 84.0769,
 								"latitude": 49.4309,
@@ -23265,7 +23265,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 86.3817,
 								"latitude": 49.4309,
@@ -23277,7 +23277,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 88.6865,
 								"latitude": 49.4309,
@@ -23289,7 +23289,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 90.9913,
 								"latitude": 49.4309,
@@ -23301,7 +23301,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 93.2961,
 								"latitude": 49.4309,
@@ -23313,7 +23313,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 95.6009,
 								"latitude": 49.4309,
@@ -23325,7 +23325,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 97.9057,
 								"latitude": 49.4309,
@@ -23337,7 +23337,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 100.2105,
 								"latitude": 49.4309,
@@ -23349,7 +23349,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 102.5153,
 								"latitude": 49.4309,
@@ -23361,7 +23361,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 104.8201,
 								"latitude": 49.4309,
@@ -23373,7 +23373,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 107.1249,
 								"latitude": 49.4309,
@@ -23385,7 +23385,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 109.4297,
 								"latitude": 49.4309,
@@ -23397,7 +23397,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 111.7345,
 								"latitude": 49.4309,
@@ -23409,7 +23409,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 114.0393,
 								"latitude": 49.4309,
@@ -23421,7 +23421,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 116.3441,
 								"latitude": 49.4309,
@@ -23433,7 +23433,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 118.6489,
 								"latitude": 49.4309,
@@ -23445,7 +23445,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 120.9537,
 								"latitude": 49.4309,
@@ -23457,7 +23457,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 123.2585,
 								"latitude": 49.4309,
@@ -23469,7 +23469,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 125.5634,
 								"latitude": 49.4309,
@@ -23481,7 +23481,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 127.8682,
 								"latitude": 49.4309,
@@ -23493,7 +23493,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 130.173,
 								"latitude": 49.4309,
@@ -23505,7 +23505,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 132.4778,
 								"latitude": 49.4309,
@@ -23517,7 +23517,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 134.7826,
 								"latitude": 49.4309,
@@ -23529,7 +23529,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 137.0874,
 								"latitude": 49.4309,
@@ -23541,7 +23541,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 139.3922,
 								"latitude": 49.4309,
@@ -23553,7 +23553,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 144.0018,
 								"latitude": 49.4309,
@@ -23565,7 +23565,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -123.3554,
 								"latitude": 47.6297,
@@ -23577,7 +23577,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -121.0505,
 								"latitude": 47.6297,
@@ -23589,7 +23589,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -118.7457,
 								"latitude": 47.6297,
@@ -23601,7 +23601,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -116.4409,
 								"latitude": 47.6297,
@@ -23613,7 +23613,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -114.1361,
 								"latitude": 47.6297,
@@ -23625,7 +23625,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -111.8313,
 								"latitude": 47.6297,
@@ -23637,7 +23637,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -109.5265,
 								"latitude": 47.6297,
@@ -23649,7 +23649,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -107.2217,
 								"latitude": 47.6297,
@@ -23661,7 +23661,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -104.9169,
 								"latitude": 47.6297,
@@ -23673,7 +23673,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -102.6121,
 								"latitude": 47.6297,
@@ -23685,7 +23685,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -100.3073,
 								"latitude": 47.6297,
@@ -23697,7 +23697,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -98.0025,
 								"latitude": 47.6297,
@@ -23709,7 +23709,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -95.6977,
 								"latitude": 47.6297,
@@ -23721,7 +23721,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -93.3929,
 								"latitude": 47.6297,
@@ -23733,7 +23733,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -91.0881,
 								"latitude": 47.6297,
@@ -23745,7 +23745,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -84.1737,
 								"latitude": 47.6297,
@@ -23757,7 +23757,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -81.8689,
 								"latitude": 47.6297,
@@ -23769,7 +23769,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -79.5641,
 								"latitude": 47.6297,
@@ -23781,7 +23781,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -77.2593,
 								"latitude": 47.6297,
@@ -23793,7 +23793,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -74.9545,
 								"latitude": 47.6297,
@@ -23805,7 +23805,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -72.6497,
 								"latitude": 47.6297,
@@ -23817,7 +23817,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -70.3449,
 								"latitude": 47.6297,
@@ -23829,7 +23829,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -68.0401,
 								"latitude": 47.6297,
@@ -23841,7 +23841,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -65.7353,
 								"latitude": 47.6297,
@@ -23853,7 +23853,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -58.8209,
 								"latitude": 47.6297,
@@ -23865,7 +23865,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -56.5161,
 								"latitude": 47.6297,
@@ -23877,7 +23877,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -54.2113,
 								"latitude": 47.6297,
@@ -23889,7 +23889,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "France",
 								"longitude": -3.5056,
 								"latitude": 47.6297,
@@ -23901,7 +23901,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "France",
 								"longitude": -1.2008,
 								"latitude": 47.6297,
@@ -23913,7 +23913,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "France",
 								"longitude": 1.104,
 								"latitude": 47.6297,
@@ -23925,7 +23925,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "France",
 								"longitude": 3.4088,
 								"latitude": 47.6297,
@@ -23937,7 +23937,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "France",
 								"longitude": 5.7136,
 								"latitude": 47.6297,
@@ -23949,7 +23949,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Germany",
 								"longitude": 8.0184,
 								"latitude": 47.6297,
@@ -23961,7 +23961,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Germany",
 								"longitude": 10.3232,
 								"latitude": 47.6297,
@@ -23973,7 +23973,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Germany",
 								"longitude": 12.628,
 								"latitude": 47.6297,
@@ -23985,7 +23985,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Austria",
 								"longitude": 14.9328,
 								"latitude": 47.6297,
@@ -23997,7 +23997,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Hungary",
 								"longitude": 17.2376,
 								"latitude": 47.6297,
@@ -24009,7 +24009,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Hungary",
 								"longitude": 19.5424,
 								"latitude": 47.6297,
@@ -24021,7 +24021,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Hungary",
 								"longitude": 21.8472,
 								"latitude": 47.6297,
@@ -24033,7 +24033,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Romania",
 								"longitude": 24.152,
 								"latitude": 47.6297,
@@ -24045,7 +24045,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Romania",
 								"longitude": 26.4568,
 								"latitude": 47.6297,
@@ -24057,7 +24057,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Moldova",
 								"longitude": 28.7616,
 								"latitude": 47.6297,
@@ -24069,7 +24069,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ukraine",
 								"longitude": 31.0664,
 								"latitude": 47.6297,
@@ -24081,7 +24081,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ukraine",
 								"longitude": 33.3712,
 								"latitude": 47.6297,
@@ -24093,7 +24093,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ukraine",
 								"longitude": 35.676,
 								"latitude": 47.6297,
@@ -24105,7 +24105,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ukraine",
 								"longitude": 37.9808,
 								"latitude": 47.6297,
@@ -24117,7 +24117,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 40.2856,
 								"latitude": 47.6297,
@@ -24129,7 +24129,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 42.5905,
 								"latitude": 47.6297,
@@ -24141,7 +24141,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 44.8953,
 								"latitude": 47.6297,
@@ -24153,7 +24153,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 47.2001,
 								"latitude": 47.6297,
@@ -24165,7 +24165,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 49.5049,
 								"latitude": 47.6297,
@@ -24177,7 +24177,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 51.8097,
 								"latitude": 47.6297,
@@ -24189,7 +24189,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 54.1145,
 								"latitude": 47.6297,
@@ -24201,7 +24201,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 56.4193,
 								"latitude": 47.6297,
@@ -24213,7 +24213,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 58.7241,
 								"latitude": 47.6297,
@@ -24225,7 +24225,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 61.0289,
 								"latitude": 47.6297,
@@ -24237,7 +24237,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 63.3337,
 								"latitude": 47.6297,
@@ -24249,7 +24249,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 65.6385,
 								"latitude": 47.6297,
@@ -24261,7 +24261,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 67.9433,
 								"latitude": 47.6297,
@@ -24273,7 +24273,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 70.2481,
 								"latitude": 47.6297,
@@ -24285,7 +24285,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 72.5529,
 								"latitude": 47.6297,
@@ -24297,7 +24297,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 74.8577,
 								"latitude": 47.6297,
@@ -24309,7 +24309,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 77.1625,
 								"latitude": 47.6297,
@@ -24321,7 +24321,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 79.4673,
 								"latitude": 47.6297,
@@ -24333,7 +24333,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 81.7721,
 								"latitude": 47.6297,
@@ -24346,7 +24346,7 @@
 							},
 					
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 86.3817,
 								"latitude": 47.6297,
@@ -24358,7 +24358,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 88.6865,
 								"latitude": 47.6297,
@@ -24370,7 +24370,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 90.9913,
 								"latitude": 47.6297,
@@ -24382,7 +24382,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 93.2961,
 								"latitude": 47.6297,
@@ -24394,7 +24394,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 95.6009,
 								"latitude": 47.6297,
@@ -24406,7 +24406,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 97.9057,
 								"latitude": 47.6297,
@@ -24418,7 +24418,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 100.2105,
 								"latitude": 47.6297,
@@ -24430,7 +24430,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 102.5153,
 								"latitude": 47.6297,
@@ -24442,7 +24442,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 104.8201,
 								"latitude": 47.6297,
@@ -24454,7 +24454,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 107.1249,
 								"latitude": 47.6297,
@@ -24466,7 +24466,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 109.4297,
 								"latitude": 47.6297,
@@ -24478,7 +24478,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 111.7345,
 								"latitude": 47.6297,
@@ -24490,7 +24490,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 114.0393,
 								"latitude": 47.6297,
@@ -24502,7 +24502,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 116.3441,
 								"latitude": 47.6297,
@@ -24514,7 +24514,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 118.6489,
 								"latitude": 47.6297,
@@ -24526,7 +24526,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 120.9537,
 								"latitude": 47.6297,
@@ -24538,7 +24538,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 123.2585,
 								"latitude": 47.6297,
@@ -24550,7 +24550,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 125.5634,
 								"latitude": 47.6297,
@@ -24562,7 +24562,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 127.8682,
 								"latitude": 47.6297,
@@ -24574,7 +24574,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 130.173,
 								"latitude": 47.6297,
@@ -24586,7 +24586,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 132.4778,
 								"latitude": 47.6297,
@@ -24598,7 +24598,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 134.7826,
 								"latitude": 47.6297,
@@ -24610,7 +24610,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 137.0874,
 								"latitude": 47.6297,
@@ -24622,7 +24622,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 139.3922,
 								"latitude": 47.6297,
@@ -24634,7 +24634,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -123.3554,
 								"latitude": 45.7922,
@@ -24646,7 +24646,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -121.0505,
 								"latitude": 45.7922,
@@ -24658,7 +24658,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -118.7457,
 								"latitude": 45.7922,
@@ -24670,7 +24670,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -116.4409,
 								"latitude": 45.7922,
@@ -24682,7 +24682,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -114.1361,
 								"latitude": 45.7922,
@@ -24694,7 +24694,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -111.8313,
 								"latitude": 45.7922,
@@ -24706,7 +24706,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -109.5265,
 								"latitude": 45.7922,
@@ -24718,7 +24718,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -107.2217,
 								"latitude": 45.7922,
@@ -24730,7 +24730,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -104.9169,
 								"latitude": 45.7922,
@@ -24742,7 +24742,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -102.6121,
 								"latitude": 45.7922,
@@ -24754,7 +24754,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -100.3073,
 								"latitude": 45.7922,
@@ -24766,7 +24766,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -98.0025,
 								"latitude": 45.7922,
@@ -24778,7 +24778,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -95.6977,
 								"latitude": 45.7922,
@@ -24790,7 +24790,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -93.3929,
 								"latitude": 45.7922,
@@ -24802,7 +24802,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -91.0881,
 								"latitude": 45.7922,
@@ -24814,7 +24814,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -88.7833,
 								"latitude": 45.7922,
@@ -24826,7 +24826,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -86.4785,
 								"latitude": 45.7922,
@@ -24838,7 +24838,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -79.5641,
 								"latitude": 45.7922,
@@ -24850,7 +24850,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -77.2593,
 								"latitude": 45.7922,
@@ -24862,7 +24862,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -74.9545,
 								"latitude": 45.7922,
@@ -24874,7 +24874,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -72.6497,
 								"latitude": 45.7922,
@@ -24886,7 +24886,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -70.3449,
 								"latitude": 45.7922,
@@ -24898,7 +24898,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -68.0401,
 								"latitude": 45.7922,
@@ -24910,7 +24910,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -65.7353,
 								"latitude": 45.7922,
@@ -24922,7 +24922,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -63.4305,
 								"latitude": 45.7922,
@@ -24934,7 +24934,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -61.1257,
 								"latitude": 45.7922,
@@ -24946,7 +24946,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "France",
 								"longitude": -1.2008,
 								"latitude": 45.7922,
@@ -24958,7 +24958,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "France",
 								"longitude": 1.104,
 								"latitude": 45.7922,
@@ -24970,7 +24970,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "France",
 								"longitude": 3.4088,
 								"latitude": 45.7922,
@@ -24982,7 +24982,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "France",
 								"longitude": 5.7136,
 								"latitude": 45.7922,
@@ -24994,7 +24994,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Italy",
 								"longitude": 8.0184,
 								"latitude": 45.7922,
@@ -25006,7 +25006,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Italy",
 								"longitude": 10.3232,
 								"latitude": 45.7922,
@@ -25018,7 +25018,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Italy",
 								"longitude": 12.628,
 								"latitude": 45.7922,
@@ -25030,7 +25030,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Slovenia",
 								"longitude": 14.9328,
 								"latitude": 45.7922,
@@ -25042,7 +25042,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Croatia",
 								"longitude": 17.2376,
 								"latitude": 45.7922,
@@ -25054,7 +25054,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Serbia",
 								"longitude": 19.5424,
 								"latitude": 45.7922,
@@ -25066,7 +25066,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Romania",
 								"longitude": 21.8472,
 								"latitude": 45.7922,
@@ -25078,7 +25078,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Romania",
 								"longitude": 24.152,
 								"latitude": 45.7922,
@@ -25090,7 +25090,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Romania",
 								"longitude": 26.4568,
 								"latitude": 45.7922,
@@ -25102,7 +25102,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ukraine",
 								"longitude": 28.7616,
 								"latitude": 45.7922,
@@ -25114,7 +25114,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ukraine",
 								"longitude": 33.3712,
 								"latitude": 45.7922,
@@ -25126,7 +25126,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 37.9808,
 								"latitude": 45.7922,
@@ -25138,7 +25138,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 40.2856,
 								"latitude": 45.7922,
@@ -25150,7 +25150,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 42.5905,
 								"latitude": 45.7922,
@@ -25162,7 +25162,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 44.8953,
 								"latitude": 45.7922,
@@ -25174,7 +25174,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 47.2001,
 								"latitude": 45.7922,
@@ -25186,7 +25186,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 54.1145,
 								"latitude": 45.7922,
@@ -25198,7 +25198,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 56.4193,
 								"latitude": 45.7922,
@@ -25210,7 +25210,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 58.7241,
 								"latitude": 45.7922,
@@ -25222,7 +25222,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 61.0289,
 								"latitude": 45.7922,
@@ -25234,7 +25234,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 63.3337,
 								"latitude": 45.7922,
@@ -25246,7 +25246,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 65.6385,
 								"latitude": 45.7922,
@@ -25258,7 +25258,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 67.9433,
 								"latitude": 45.7922,
@@ -25270,7 +25270,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 70.2481,
 								"latitude": 45.7922,
@@ -25282,7 +25282,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 72.5529,
 								"latitude": 45.7922,
@@ -25294,7 +25294,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 74.8577,
 								"latitude": 45.7922,
@@ -25306,7 +25306,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 77.1625,
 								"latitude": 45.7922,
@@ -25318,7 +25318,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 79.4673,
 								"latitude": 45.7922,
@@ -25330,7 +25330,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 81.7721,
 								"latitude": 45.7922,
@@ -25342,7 +25342,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 84.0769,
 								"latitude": 45.7922,
@@ -25354,7 +25354,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 86.3817,
 								"latitude": 45.7922,
@@ -25366,7 +25366,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 88.6865,
 								"latitude": 45.7922,
@@ -25378,7 +25378,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 90.9913,
 								"latitude": 45.7922,
@@ -25390,7 +25390,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 93.2961,
 								"latitude": 45.7922,
@@ -25402,7 +25402,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 95.6009,
 								"latitude": 45.7922,
@@ -25414,7 +25414,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 97.9057,
 								"latitude": 45.7922,
@@ -25426,7 +25426,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 100.2105,
 								"latitude": 45.7922,
@@ -25438,7 +25438,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 102.5153,
 								"latitude": 45.7922,
@@ -25450,7 +25450,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 104.8201,
 								"latitude": 45.7922,
@@ -25462,7 +25462,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 107.1249,
 								"latitude": 45.7922,
@@ -25474,7 +25474,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 109.4297,
 								"latitude": 45.7922,
@@ -25486,7 +25486,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 111.7345,
 								"latitude": 45.7922,
@@ -25498,7 +25498,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 114.0393,
 								"latitude": 45.7922,
@@ -25510,7 +25510,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 116.3441,
 								"latitude": 45.7922,
@@ -25522,7 +25522,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 118.6489,
 								"latitude": 45.7922,
@@ -25534,7 +25534,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 120.9537,
 								"latitude": 45.7922,
@@ -25546,7 +25546,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 123.2585,
 								"latitude": 45.7922,
@@ -25558,7 +25558,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 125.5634,
 								"latitude": 45.7922,
@@ -25570,7 +25570,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 127.8682,
 								"latitude": 45.7922,
@@ -25582,7 +25582,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 130.173,
 								"latitude": 45.7922,
@@ -25594,7 +25594,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 132.4778,
 								"latitude": 45.7922,
@@ -25606,7 +25606,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 134.7826,
 								"latitude": 45.7922,
@@ -25618,7 +25618,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 137.0874,
 								"latitude": 45.7922,
@@ -25630,7 +25630,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -123.3554,
 								"latitude": 43.919,
@@ -25642,7 +25642,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -121.0505,
 								"latitude": 43.919,
@@ -25654,7 +25654,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -118.7457,
 								"latitude": 43.919,
@@ -25666,7 +25666,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -116.4409,
 								"latitude": 43.919,
@@ -25678,7 +25678,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -114.1361,
 								"latitude": 43.919,
@@ -25690,7 +25690,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -111.8313,
 								"latitude": 43.919,
@@ -25702,7 +25702,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -109.5265,
 								"latitude": 43.919,
@@ -25714,7 +25714,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -107.2217,
 								"latitude": 43.919,
@@ -25726,7 +25726,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -104.9169,
 								"latitude": 43.919,
@@ -25738,7 +25738,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -102.6121,
 								"latitude": 43.919,
@@ -25750,7 +25750,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -100.3073,
 								"latitude": 43.919,
@@ -25762,7 +25762,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -98.0025,
 								"latitude": 43.919,
@@ -25774,7 +25774,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -95.6977,
 								"latitude": 43.919,
@@ -25786,7 +25786,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -93.3929,
 								"latitude": 43.919,
@@ -25798,7 +25798,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -91.0881,
 								"latitude": 43.919,
@@ -25810,7 +25810,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -88.7833,
 								"latitude": 43.919,
@@ -25822,7 +25822,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -86.4785,
 								"latitude": 43.919,
@@ -25834,7 +25834,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -84.1737,
 								"latitude": 43.919,
@@ -25846,7 +25846,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -81.8689,
 								"latitude": 43.919,
@@ -25858,7 +25858,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -79.5641,
 								"latitude": 43.919,
@@ -25870,7 +25870,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -77.2593,
 								"latitude": 43.919,
@@ -25882,7 +25882,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -74.9545,
 								"latitude": 43.919,
@@ -25894,7 +25894,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -72.6497,
 								"latitude": 43.919,
@@ -25906,7 +25906,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -70.3449,
 								"latitude": 43.919,
@@ -25918,7 +25918,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Canada",
 								"longitude": -65.7353,
 								"latitude": 43.919,
@@ -25930,7 +25930,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "France",
 								"longitude": -1.2008,
 								"latitude": 43.919,
@@ -25942,7 +25942,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "France",
 								"longitude": 1.104,
 								"latitude": 43.919,
@@ -25954,7 +25954,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "France",
 								"longitude": 3.4088,
 								"latitude": 43.919,
@@ -25966,7 +25966,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "France",
 								"longitude": 5.7136,
 								"latitude": 43.919,
@@ -25978,7 +25978,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Italy",
 								"longitude": 8.0184,
 								"latitude": 43.919,
@@ -25990,7 +25990,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Italy",
 								"longitude": 10.3232,
 								"latitude": 43.919,
@@ -26002,7 +26002,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Italy",
 								"longitude": 12.628,
 								"latitude": 43.919,
@@ -26014,7 +26014,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Bosnia and Herzegovina",
 								"longitude": 17.2376,
 								"latitude": 43.919,
@@ -26026,7 +26026,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Serbia",
 								"longitude": 19.5424,
 								"latitude": 43.919,
@@ -26038,7 +26038,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Serbia",
 								"longitude": 21.8472,
 								"latitude": 43.919,
@@ -26050,7 +26050,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Romania",
 								"longitude": 24.152,
 								"latitude": 43.919,
@@ -26062,7 +26062,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Romania",
 								"longitude": 26.4568,
 								"latitude": 43.919,
@@ -26074,7 +26074,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Romania",
 								"longitude": 28.7616,
 								"latitude": 43.919,
@@ -26086,7 +26086,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 40.2856,
 								"latitude": 43.919,
@@ -26098,7 +26098,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 42.5905,
 								"latitude": 43.919,
@@ -26110,7 +26110,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 44.8953,
 								"latitude": 43.919,
@@ -26122,7 +26122,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 47.2001,
 								"latitude": 43.919,
@@ -26134,7 +26134,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 51.8097,
 								"latitude": 43.919,
@@ -26146,7 +26146,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 54.1145,
 								"latitude": 43.919,
@@ -26158,7 +26158,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Uzbekistan",
 								"longitude": 56.4193,
 								"latitude": 43.919,
@@ -26170,7 +26170,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Uzbekistan",
 								"longitude": 58.7241,
 								"latitude": 43.919,
@@ -26182,7 +26182,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Uzbekistan",
 								"longitude": 61.0289,
 								"latitude": 43.919,
@@ -26194,7 +26194,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 63.3337,
 								"latitude": 43.919,
@@ -26206,7 +26206,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 65.6385,
 								"latitude": 43.919,
@@ -26218,7 +26218,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 67.9433,
 								"latitude": 43.919,
@@ -26230,7 +26230,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 70.2481,
 								"latitude": 43.919,
@@ -26242,7 +26242,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 72.5529,
 								"latitude": 43.919,
@@ -26254,7 +26254,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 74.8577,
 								"latitude": 43.919,
@@ -26266,7 +26266,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 77.1625,
 								"latitude": 43.919,
@@ -26278,7 +26278,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 79.4673,
 								"latitude": 43.919,
@@ -26290,7 +26290,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 81.7721,
 								"latitude": 43.919,
@@ -26302,7 +26302,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 84.0769,
 								"latitude": 43.919,
@@ -26314,7 +26314,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 86.3817,
 								"latitude": 43.919,
@@ -26326,7 +26326,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 88.6865,
 								"latitude": 43.919,
@@ -26338,7 +26338,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 90.9913,
 								"latitude": 43.919,
@@ -26350,7 +26350,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 93.2961,
 								"latitude": 43.919,
@@ -26362,7 +26362,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 95.6009,
 								"latitude": 43.919,
@@ -26374,7 +26374,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 97.9057,
 								"latitude": 43.919,
@@ -26386,7 +26386,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 100.2105,
 								"latitude": 43.919,
@@ -26398,7 +26398,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 102.5153,
 								"latitude": 43.919,
@@ -26410,7 +26410,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 104.8201,
 								"latitude": 43.919,
@@ -26422,7 +26422,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 107.1249,
 								"latitude": 43.919,
@@ -26434,7 +26434,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 109.4297,
 								"latitude": 43.919,
@@ -26446,7 +26446,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 111.7345,
 								"latitude": 43.919,
@@ -26458,7 +26458,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 114.0393,
 								"latitude": 43.919,
@@ -26470,7 +26470,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 116.3441,
 								"latitude": 43.919,
@@ -26482,7 +26482,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 118.6489,
 								"latitude": 43.919,
@@ -26494,7 +26494,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 120.9537,
 								"latitude": 43.919,
@@ -26506,7 +26506,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 123.2585,
 								"latitude": 43.919,
@@ -26518,7 +26518,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 125.5634,
 								"latitude": 43.919,
@@ -26530,7 +26530,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 127.8682,
 								"latitude": 43.919,
@@ -26542,7 +26542,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 130.173,
 								"latitude": 43.919,
@@ -26554,7 +26554,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 132.4778,
 								"latitude": 43.919,
@@ -26566,7 +26566,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 134.7826,
 								"latitude": 43.919,
@@ -26578,7 +26578,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 
 								"longitude": 141.697,
 								"latitude": 43.919,
@@ -26590,7 +26590,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 
 								"longitude": 144.0018,
 								"latitude": 43.919,
@@ -26602,7 +26602,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -123.3554,
 								"latitude": 42.0107,
@@ -26614,7 +26614,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -121.0505,
 								"latitude": 42.0107,
@@ -26626,7 +26626,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -118.7457,
 								"latitude": 42.0107,
@@ -26638,7 +26638,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -116.4409,
 								"latitude": 42.0107,
@@ -26650,7 +26650,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -114.1361,
 								"latitude": 42.0107,
@@ -26662,7 +26662,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -111.8313,
 								"latitude": 42.0107,
@@ -26674,7 +26674,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -109.5265,
 								"latitude": 42.0107,
@@ -26686,7 +26686,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -107.2217,
 								"latitude": 42.0107,
@@ -26698,7 +26698,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -104.9169,
 								"latitude": 42.0107,
@@ -26710,7 +26710,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -102.6121,
 								"latitude": 42.0107,
@@ -26722,7 +26722,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -100.3073,
 								"latitude": 42.0107,
@@ -26734,7 +26734,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -98.0025,
 								"latitude": 42.0107,
@@ -26746,7 +26746,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -95.6977,
 								"latitude": 42.0107,
@@ -26758,7 +26758,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -93.3929,
 								"latitude": 42.0107,
@@ -26770,7 +26770,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -91.0881,
 								"latitude": 42.0107,
@@ -26782,7 +26782,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -88.7833,
 								"latitude": 42.0107,
@@ -26794,7 +26794,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -86.4785,
 								"latitude": 42.0107,
@@ -26806,7 +26806,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -84.1737,
 								"latitude": 42.0107,
@@ -26818,7 +26818,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -79.5641,
 								"latitude": 42.0107,
@@ -26830,7 +26830,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -77.2593,
 								"latitude": 42.0107,
@@ -26842,7 +26842,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -74.9545,
 								"latitude": 42.0107,
@@ -26855,7 +26855,7 @@
 							},
 							
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Portugal",
 								"longitude": -8.1152,
 								"latitude": 42.0107,
@@ -26867,7 +26867,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Spain",
 								"longitude": -5.8104,
 								"latitude": 42.0107,
@@ -26879,7 +26879,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Spain",
 								"longitude": -3.5056,
 								"latitude": 42.0107,
@@ -26891,7 +26891,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Spain",
 								"longitude": -1.2008,
 								"latitude": 42.0107,
@@ -26903,7 +26903,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Spain",
 								"longitude": 1.104,
 								"latitude": 42.0107,
@@ -26916,7 +26916,7 @@
 							},
 						
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Italy",
 								"longitude": 14.9328,
 								"latitude": 42.0107,
@@ -26928,7 +26928,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Albania",
 								"longitude": 19.5424,
 								"latitude": 42.0107,
@@ -26940,7 +26940,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "North Macedonia",
 								"longitude": 21.8472,
 								"latitude": 42.0107,
@@ -26952,7 +26952,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Bulgaria",
 								"longitude": 24.152,
 								"latitude": 42.0107,
@@ -26964,7 +26964,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Turkey",
 								"longitude": 26.4568,
 								"latitude": 42.0107,
@@ -26976,7 +26976,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Turkey",
 								"longitude": 33.3712,
 								"latitude": 42.0107,
@@ -26988,7 +26988,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Georgia",
 								"longitude": 42.5905,
 								"latitude": 42.0107,
@@ -27000,7 +27000,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Georgia",
 								"longitude": 44.8953,
 								"latitude": 42.0107,
@@ -27012,7 +27012,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Russia",
 								"longitude": 47.2001,
 								"latitude": 42.0107,
@@ -27024,7 +27024,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Turkmenistan",
 								"longitude": 54.1145,
 								"latitude": 42.0107,
@@ -27036,7 +27036,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Uzbekistan",
 								"longitude": 56.4193,
 								"latitude": 42.0107,
@@ -27048,7 +27048,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Turkmenistan",
 								"longitude": 58.7241,
 								"latitude": 42.0107,
@@ -27060,7 +27060,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Uzbekistan",
 								"longitude": 61.0289,
 								"latitude": 42.0107,
@@ -27072,7 +27072,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Uzbekistan",
 								"longitude": 63.3337,
 								"latitude": 42.0107,
@@ -27084,7 +27084,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Uzbekistan",
 								"longitude": 65.6385,
 								"latitude": 42.0107,
@@ -27096,7 +27096,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kazakhstan",
 								"longitude": 67.9433,
 								"latitude": 42.0107,
@@ -27108,7 +27108,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Uzbekistan",
 								"longitude": 70.2481,
 								"latitude": 42.0107,
@@ -27120,7 +27120,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kyrgyzstan",
 								"longitude": 72.5529,
 								"latitude": 42.0107,
@@ -27132,7 +27132,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kyrgyzstan",
 								"longitude": 74.8577,
 								"latitude": 42.0107,
@@ -27144,7 +27144,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kyrgyzstan",
 								"longitude": 77.1625,
 								"latitude": 42.0107,
@@ -27156,7 +27156,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kyrgyzstan",
 								"longitude": 79.4673,
 								"latitude": 42.0107,
@@ -27168,7 +27168,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 81.7721,
 								"latitude": 42.0107,
@@ -27180,7 +27180,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 84.0769,
 								"latitude": 42.0107,
@@ -27192,7 +27192,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 86.3817,
 								"latitude": 42.0107,
@@ -27204,7 +27204,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 88.6865,
 								"latitude": 42.0107,
@@ -27216,7 +27216,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 90.9913,
 								"latitude": 42.0107,
@@ -27228,7 +27228,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 93.2961,
 								"latitude": 42.0107,
@@ -27240,7 +27240,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 95.6009,
 								"latitude": 42.0107,
@@ -27252,7 +27252,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 97.9057,
 								"latitude": 42.0107,
@@ -27264,7 +27264,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 100.2105,
 								"latitude": 42.0107,
@@ -27276,7 +27276,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 102.5153,
 								"latitude": 42.0107,
@@ -27288,7 +27288,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mongolia",
 								"longitude": 104.8201,
 								"latitude": 42.0107,
@@ -27300,7 +27300,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 107.1249,
 								"latitude": 42.0107,
@@ -27312,7 +27312,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 109.4297,
 								"latitude": 42.0107,
@@ -27324,7 +27324,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 111.7345,
 								"latitude": 42.0107,
@@ -27336,7 +27336,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 114.0393,
 								"latitude": 42.0107,
@@ -27348,7 +27348,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 116.3441,
 								"latitude": 42.0107,
@@ -27360,7 +27360,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 118.6489,
 								"latitude": 42.0107,
@@ -27372,7 +27372,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 120.9537,
 								"latitude": 42.0107,
@@ -27384,7 +27384,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 123.2585,
 								"latitude": 42.0107,
@@ -27396,7 +27396,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 125.5634,
 								"latitude": 42.0107,
@@ -27408,7 +27408,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 127.8682,
 								"latitude": 42.0107,
@@ -27420,7 +27420,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "North Korea",
 								"longitude": 130.173,
 								"latitude": 42.0107,
@@ -27432,7 +27432,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -123.3554,
 								"latitude": 40.0679,
@@ -27444,7 +27444,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -121.0505,
 								"latitude": 40.0679,
@@ -27456,7 +27456,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -118.7457,
 								"latitude": 40.0679,
@@ -27468,7 +27468,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -116.4409,
 								"latitude": 40.0679,
@@ -27480,7 +27480,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -114.1361,
 								"latitude": 40.0679,
@@ -27492,7 +27492,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -111.8313,
 								"latitude": 40.0679,
@@ -27504,7 +27504,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -109.5265,
 								"latitude": 40.0679,
@@ -27516,7 +27516,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -107.2217,
 								"latitude": 40.0679,
@@ -27528,7 +27528,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -104.9169,
 								"latitude": 40.0679,
@@ -27540,7 +27540,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -102.6121,
 								"latitude": 40.0679,
@@ -27552,7 +27552,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -100.3073,
 								"latitude": 40.0679,
@@ -27564,7 +27564,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -98.0025,
 								"latitude": 40.0679,
@@ -27576,7 +27576,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -95.6977,
 								"latitude": 40.0679,
@@ -27588,7 +27588,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -93.3929,
 								"latitude": 40.0679,
@@ -27600,7 +27600,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -91.0881,
 								"latitude": 40.0679,
@@ -27612,7 +27612,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -88.7833,
 								"latitude": 40.0679,
@@ -27624,7 +27624,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -86.4785,
 								"latitude": 40.0679,
@@ -27636,7 +27636,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -84.1737,
 								"latitude": 40.0679,
@@ -27648,7 +27648,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -81.8689,
 								"latitude": 40.0679,
@@ -27660,7 +27660,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -79.5641,
 								"latitude": 40.0679,
@@ -27673,7 +27673,7 @@
 							},
 						
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -74.9545,
 								"latitude": 40.0679,
@@ -27685,7 +27685,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Portugal",
 								"longitude": -8.1152,
 								"latitude": 40.0679,
@@ -27697,7 +27697,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Spain",
 								"longitude": -5.8104,
 								"latitude": 40.0679,
@@ -27709,7 +27709,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Spain",
 								"longitude": -3.5056,
 								"latitude": 40.0679,
@@ -27721,7 +27721,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Spain",
 								"longitude": -1.2008,
 								"latitude": 40.0679,
@@ -27733,7 +27733,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Italy",
 								"longitude": 14.9328,
 								"latitude": 40.0679,
@@ -27745,7 +27745,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Albania",
 								"longitude": 19.5424,
 								"latitude": 40.0679,
@@ -27757,7 +27757,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greece",
 								"longitude": 21.8472,
 								"latitude": 40.0679,
@@ -27769,7 +27769,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greece",
 								"longitude": 24.152,
 								"latitude": 40.0679,
@@ -27781,7 +27781,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Turkey",
 								"longitude": 26.4568,
 								"latitude": 40.0679,
@@ -27793,7 +27793,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Turkey",
 								"longitude": 28.7616,
 								"latitude": 40.0679,
@@ -27805,7 +27805,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Turkey",
 								"longitude": 31.0664,
 								"latitude": 40.0679,
@@ -27817,7 +27817,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Turkey",
 								"longitude": 33.3712,
 								"latitude": 40.0679,
@@ -27829,7 +27829,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Turkey",
 								"longitude": 35.676,
 								"latitude": 40.0679,
@@ -27841,7 +27841,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Turkey",
 								"longitude": 37.9808,
 								"latitude": 40.0679,
@@ -27853,7 +27853,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Turkey",
 								"longitude": 40.2856,
 								"latitude": 40.0679,
@@ -27865,7 +27865,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Turkey",
 								"longitude": 42.5905,
 								"latitude": 40.0679,
@@ -27877,7 +27877,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Armenia",
 								"longitude": 44.8953,
 								"latitude": 40.0679,
@@ -27889,7 +27889,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Azerbaijan",
 								"longitude": 47.2001,
 								"latitude": 40.0679,
@@ -27901,7 +27901,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Azerbaijan",
 								"longitude": 49.5049,
 								"latitude": 40.0679,
@@ -27913,7 +27913,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Turkmenistan",
 								"longitude": 54.1145,
 								"latitude": 40.0679,
@@ -27925,7 +27925,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Turkmenistan",
 								"longitude": 56.4193,
 								"latitude": 40.0679,
@@ -27937,7 +27937,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Turkmenistan",
 								"longitude": 58.7241,
 								"latitude": 40.0679,
@@ -27949,7 +27949,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Turkmenistan",
 								"longitude": 61.0289,
 								"latitude": 40.0679,
@@ -27961,7 +27961,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Uzbekistan",
 								"longitude": 63.3337,
 								"latitude": 40.0679,
@@ -27973,7 +27973,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Uzbekistan",
 								"longitude": 65.6385,
 								"latitude": 40.0679,
@@ -27985,7 +27985,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Uzbekistan",
 								"longitude": 67.9433,
 								"latitude": 40.0679,
@@ -27997,7 +27997,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Tajikistan",
 								"longitude": 70.2481,
 								"latitude": 40.0679,
@@ -28009,7 +28009,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kyrgyzstan",
 								"longitude": 72.5529,
 								"latitude": 40.0679,
@@ -28021,7 +28021,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 74.8577,
 								"latitude": 40.0679,
@@ -28033,7 +28033,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 77.1625,
 								"latitude": 40.0679,
@@ -28045,7 +28045,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 79.4673,
 								"latitude": 40.0679,
@@ -28057,7 +28057,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 81.7721,
 								"latitude": 40.0679,
@@ -28069,7 +28069,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 84.0769,
 								"latitude": 40.0679,
@@ -28081,7 +28081,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 86.3817,
 								"latitude": 40.0679,
@@ -28093,7 +28093,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 88.6865,
 								"latitude": 40.0679,
@@ -28105,7 +28105,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 90.9913,
 								"latitude": 40.0679,
@@ -28117,7 +28117,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 93.2961,
 								"latitude": 40.0679,
@@ -28129,7 +28129,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 95.6009,
 								"latitude": 40.0679,
@@ -28141,7 +28141,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 97.9057,
 								"latitude": 40.0679,
@@ -28153,7 +28153,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 100.2105,
 								"latitude": 40.0679,
@@ -28165,7 +28165,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 102.5153,
 								"latitude": 40.0679,
@@ -28177,7 +28177,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 104.8201,
 								"latitude": 40.0679,
@@ -28189,7 +28189,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 107.1249,
 								"latitude": 40.0679,
@@ -28201,7 +28201,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 109.4297,
 								"latitude": 40.0679,
@@ -28213,7 +28213,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 111.7345,
 								"latitude": 40.0679,
@@ -28225,7 +28225,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 114.0393,
 								"latitude": 40.0679,
@@ -28237,7 +28237,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 116.3441,
 								"latitude": 40.0679,
@@ -28249,7 +28249,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 118.6489,
 								"latitude": 40.0679,
@@ -28261,7 +28261,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 123.2585,
 								"latitude": 40.0679,
@@ -28273,7 +28273,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "North Korea",
 								"longitude": 125.5634,
 								"latitude": 40.0679,
@@ -28285,7 +28285,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "North Korea",
 								"longitude": 127.8682,
 								"latitude": 40.0679,
@@ -28297,7 +28297,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 
 								"longitude": 141.697,
 								"latitude": 40.0679,
@@ -28309,7 +28309,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -121.0505,
 								"latitude": 38.0916,
@@ -28321,7 +28321,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -118.7457,
 								"latitude": 38.0916,
@@ -28333,7 +28333,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -116.4409,
 								"latitude": 38.0916,
@@ -28345,7 +28345,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -114.1361,
 								"latitude": 38.0916,
@@ -28357,7 +28357,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -111.8313,
 								"latitude": 38.0916,
@@ -28369,7 +28369,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -109.5265,
 								"latitude": 38.0916,
@@ -28381,7 +28381,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -107.2217,
 								"latitude": 38.0916,
@@ -28393,7 +28393,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -104.9169,
 								"latitude": 38.0916,
@@ -28405,7 +28405,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -102.6121,
 								"latitude": 38.0916,
@@ -28417,7 +28417,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -100.3073,
 								"latitude": 38.0916,
@@ -28429,7 +28429,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -98.0025,
 								"latitude": 38.0916,
@@ -28441,7 +28441,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -95.6977,
 								"latitude": 38.0916,
@@ -28453,7 +28453,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -93.3929,
 								"latitude": 38.0916,
@@ -28465,7 +28465,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -91.0881,
 								"latitude": 38.0916,
@@ -28477,7 +28477,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -88.7833,
 								"latitude": 38.0916,
@@ -28489,7 +28489,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -86.4785,
 								"latitude": 38.0916,
@@ -28501,7 +28501,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -84.1737,
 								"latitude": 38.0916,
@@ -28513,7 +28513,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -81.8689,
 								"latitude": 38.0916,
@@ -28525,7 +28525,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -79.5641,
 								"latitude": 38.0916,
@@ -28537,7 +28537,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -77.2593,
 								"latitude": 38.0916,
@@ -28549,7 +28549,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Portugal",
 								"longitude": -8.1152,
 								"latitude": 38.0916,
@@ -28561,7 +28561,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Spain",
 								"longitude": -5.8104,
 								"latitude": 38.0916,
@@ -28573,7 +28573,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Spain",
 								"longitude": -3.5056,
 								"latitude": 38.0916,
@@ -28585,7 +28585,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Spain",
 								"longitude": -1.2008,
 								"latitude": 38.0916,
@@ -28597,7 +28597,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Italy",
 								"longitude": 12.628,
 								"latitude": 38.0916,
@@ -28609,7 +28609,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Italy",
 								"longitude": 14.9328,
 								"latitude": 38.0916,
@@ -28621,7 +28621,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greece",
 								"longitude": 21.8472,
 								"latitude": 38.0916,
@@ -28633,7 +28633,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Greece",
 								"longitude": 24.152,
 								"latitude": 38.0916,
@@ -28645,7 +28645,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Turkey",
 								"longitude": 26.4568,
 								"latitude": 38.0916,
@@ -28657,7 +28657,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Turkey",
 								"longitude": 28.7616,
 								"latitude": 38.0916,
@@ -28669,7 +28669,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Turkey",
 								"longitude": 31.0664,
 								"latitude": 38.0916,
@@ -28681,7 +28681,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Turkey",
 								"longitude": 33.3712,
 								"latitude": 38.0916,
@@ -28693,7 +28693,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Turkey",
 								"longitude": 35.676,
 								"latitude": 38.0916,
@@ -28705,7 +28705,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Turkey",
 								"longitude": 37.9808,
 								"latitude": 38.0916,
@@ -28717,7 +28717,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Turkey",
 								"longitude": 40.2856,
 								"latitude": 38.0916,
@@ -28729,7 +28729,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Turkey",
 								"longitude": 42.5905,
 								"latitude": 38.0916,
@@ -28741,7 +28741,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iran",
 								"longitude": 44.8953,
 								"latitude": 38.0916,
@@ -28753,7 +28753,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iran",
 								"longitude": 47.2001,
 								"latitude": 38.0916,
@@ -28765,7 +28765,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Turkmenistan",
 								"longitude": 54.1145,
 								"latitude": 38.0916,
@@ -28777,7 +28777,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Turkmenistan",
 								"longitude": 56.4193,
 								"latitude": 38.0916,
@@ -28789,7 +28789,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Turkmenistan",
 								"longitude": 58.7241,
 								"latitude": 38.0916,
@@ -28801,7 +28801,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Turkmenistan",
 								"longitude": 61.0289,
 								"latitude": 38.0916,
@@ -28813,7 +28813,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Turkmenistan",
 								"longitude": 63.3337,
 								"latitude": 38.0916,
@@ -28825,7 +28825,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Turkmenistan",
 								"longitude": 65.6385,
 								"latitude": 38.0916,
@@ -28837,7 +28837,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Uzbekistan",
 								"longitude": 67.9433,
 								"latitude": 38.0916,
@@ -28849,7 +28849,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Tajikistan",
 								"longitude": 70.2481,
 								"latitude": 38.0916,
@@ -28861,7 +28861,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Tajikistan",
 								"longitude": 72.5529,
 								"latitude": 38.0916,
@@ -28873,7 +28873,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Tajikistan",
 								"longitude": 74.8577,
 								"latitude": 38.0916,
@@ -28885,7 +28885,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 77.1625,
 								"latitude": 38.0916,
@@ -28897,7 +28897,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 79.4673,
 								"latitude": 38.0916,
@@ -28909,7 +28909,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 81.7721,
 								"latitude": 38.0916,
@@ -28921,7 +28921,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 84.0769,
 								"latitude": 38.0916,
@@ -28933,7 +28933,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 86.3817,
 								"latitude": 38.0916,
@@ -28945,7 +28945,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 88.6865,
 								"latitude": 38.0916,
@@ -28957,7 +28957,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 90.9913,
 								"latitude": 38.0916,
@@ -28969,7 +28969,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 93.2961,
 								"latitude": 38.0916,
@@ -28981,7 +28981,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 95.6009,
 								"latitude": 38.0916,
@@ -28993,7 +28993,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 97.9057,
 								"latitude": 38.0916,
@@ -29005,7 +29005,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 100.2105,
 								"latitude": 38.0916,
@@ -29017,7 +29017,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 102.5153,
 								"latitude": 38.0916,
@@ -29029,7 +29029,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 104.8201,
 								"latitude": 38.0916,
@@ -29041,7 +29041,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 107.1249,
 								"latitude": 38.0916,
@@ -29053,7 +29053,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 109.4297,
 								"latitude": 38.0916,
@@ -29065,7 +29065,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 111.7345,
 								"latitude": 38.0916,
@@ -29077,7 +29077,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 114.0393,
 								"latitude": 38.0916,
@@ -29089,7 +29089,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 116.3441,
 								"latitude": 38.0916,
@@ -29101,7 +29101,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "North Korea",
 								"longitude": 125.5634,
 								"latitude": 38.0916,
@@ -29113,7 +29113,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "South Korea",
 								"longitude": 127.8682,
 								"latitude": 38.0916,
@@ -29125,7 +29125,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 
 								"longitude": 139.3922,
 								"latitude": 38.0916,
@@ -29137,7 +29137,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -121.0505,
 								"latitude": 36.0827,
@@ -29149,7 +29149,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -118.7457,
 								"latitude": 36.0827,
@@ -29161,7 +29161,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -116.4409,
 								"latitude": 36.0827,
@@ -29173,7 +29173,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -114.1361,
 								"latitude": 36.0827,
@@ -29185,7 +29185,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -111.8313,
 								"latitude": 36.0827,
@@ -29197,7 +29197,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -109.5265,
 								"latitude": 36.0827,
@@ -29209,7 +29209,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -107.2217,
 								"latitude": 36.0827,
@@ -29221,7 +29221,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -104.9169,
 								"latitude": 36.0827,
@@ -29233,7 +29233,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -102.6121,
 								"latitude": 36.0827,
@@ -29245,7 +29245,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -100.3073,
 								"latitude": 36.0827,
@@ -29257,7 +29257,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -98.0025,
 								"latitude": 36.0827,
@@ -29269,7 +29269,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -95.6977,
 								"latitude": 36.0827,
@@ -29281,7 +29281,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -93.3929,
 								"latitude": 36.0827,
@@ -29293,7 +29293,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -91.0881,
 								"latitude": 36.0827,
@@ -29305,7 +29305,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -88.7833,
 								"latitude": 36.0827,
@@ -29317,7 +29317,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -86.4785,
 								"latitude": 36.0827,
@@ -29329,7 +29329,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -84.1737,
 								"latitude": 36.0827,
@@ -29341,7 +29341,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -81.8689,
 								"latitude": 36.0827,
@@ -29353,7 +29353,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -79.5641,
 								"latitude": 36.0827,
@@ -29365,7 +29365,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -77.2593,
 								"latitude": 36.0827,
@@ -29377,7 +29377,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Spain",
 								"longitude": -5.8104,
 								"latitude": 36.0827,
@@ -29389,7 +29389,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": 1.104,
 								"latitude": 36.0827,
@@ -29401,7 +29401,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": 3.4088,
 								"latitude": 36.0827,
@@ -29413,7 +29413,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": 5.7136,
 								"latitude": 36.0827,
@@ -29425,7 +29425,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": 8.0184,
 								"latitude": 36.0827,
@@ -29437,7 +29437,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Tunisia",
 								"longitude": 10.3232,
 								"latitude": 36.0827,
@@ -29449,7 +29449,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Turkey",
 								"longitude": 33.3712,
 								"latitude": 36.0827,
@@ -29461,7 +29461,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Syria",
 								"longitude": 37.9808,
 								"latitude": 36.0827,
@@ -29473,7 +29473,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Syria",
 								"longitude": 40.2856,
 								"latitude": 36.0827,
@@ -29485,7 +29485,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iraq",
 								"longitude": 42.5905,
 								"latitude": 36.0827,
@@ -29497,7 +29497,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iraq",
 								"longitude": 44.8953,
 								"latitude": 36.0827,
@@ -29509,7 +29509,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iran",
 								"longitude": 47.2001,
 								"latitude": 36.0827,
@@ -29521,7 +29521,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iran",
 								"longitude": 49.5049,
 								"latitude": 36.0827,
@@ -29533,7 +29533,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iran",
 								"longitude": 51.8097,
 								"latitude": 36.0827,
@@ -29545,7 +29545,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iran",
 								"longitude": 54.1145,
 								"latitude": 36.0827,
@@ -29557,7 +29557,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iran",
 								"longitude": 56.4193,
 								"latitude": 36.0827,
@@ -29569,7 +29569,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iran",
 								"longitude": 58.7241,
 								"latitude": 36.0827,
@@ -29581,7 +29581,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iran",
 								"longitude": 61.0289,
 								"latitude": 36.0827,
@@ -29593,7 +29593,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Turkmenistan",
 								"longitude": 63.3337,
 								"latitude": 36.0827,
@@ -29605,7 +29605,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Afghanistan",
 								"longitude": 65.6385,
 								"latitude": 36.0827,
@@ -29617,7 +29617,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Afghanistan",
 								"longitude": 67.9433,
 								"latitude": 36.0827,
@@ -29629,7 +29629,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Afghanistan",
 								"longitude": 70.2481,
 								"latitude": 36.0827,
@@ -29641,7 +29641,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Pakistan",
 								"longitude": 72.5529,
 								"latitude": 36.0827,
@@ -29653,7 +29653,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Pakistan",
 								"longitude": 74.8577,
 								"latitude": 36.0827,
@@ -29665,7 +29665,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 77.1625,
 								"latitude": 36.0827,
@@ -29677,7 +29677,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 79.4673,
 								"latitude": 36.0827,
@@ -29689,7 +29689,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 81.7721,
 								"latitude": 36.0827,
@@ -29701,7 +29701,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 84.0769,
 								"latitude": 36.0827,
@@ -29713,7 +29713,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 86.3817,
 								"latitude": 36.0827,
@@ -29725,7 +29725,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 88.6865,
 								"latitude": 36.0827,
@@ -29737,7 +29737,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 90.9913,
 								"latitude": 36.0827,
@@ -29749,7 +29749,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 93.2961,
 								"latitude": 36.0827,
@@ -29761,7 +29761,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 95.6009,
 								"latitude": 36.0827,
@@ -29773,7 +29773,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 97.9057,
 								"latitude": 36.0827,
@@ -29785,7 +29785,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 100.2105,
 								"latitude": 36.0827,
@@ -29797,7 +29797,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 102.5153,
 								"latitude": 36.0827,
@@ -29809,7 +29809,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 104.8201,
 								"latitude": 36.0827,
@@ -29821,7 +29821,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 107.1249,
 								"latitude": 36.0827,
@@ -29833,7 +29833,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 109.4297,
 								"latitude": 36.0827,
@@ -29845,7 +29845,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 111.7345,
 								"latitude": 36.0827,
@@ -29857,7 +29857,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 114.0393,
 								"latitude": 36.0827,
@@ -29869,7 +29869,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 116.3441,
 								"latitude": 36.0827,
@@ -29881,7 +29881,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 118.6489,
 								"latitude": 36.0827,
@@ -29893,7 +29893,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "South Korea",
 								"longitude": 127.8682,
 								"latitude": 36.0827,
@@ -29905,7 +29905,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 
 								"longitude": 137.0874,
 								"latitude": 36.0827,
@@ -29918,7 +29918,7 @@
 							},
 							
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -118.7457,
 								"latitude": 34.0423,
@@ -29930,7 +29930,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -116.4409,
 								"latitude": 34.0423,
@@ -29942,7 +29942,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -114.1361,
 								"latitude": 34.0423,
@@ -29954,7 +29954,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -111.8313,
 								"latitude": 34.0423,
@@ -29966,7 +29966,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -109.5265,
 								"latitude": 34.0423,
@@ -29978,7 +29978,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -107.2217,
 								"latitude": 34.0423,
@@ -29990,7 +29990,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -104.9169,
 								"latitude": 34.0423,
@@ -30002,7 +30002,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -102.6121,
 								"latitude": 34.0423,
@@ -30014,7 +30014,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -100.3073,
 								"latitude": 34.0423,
@@ -30026,7 +30026,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -98.0025,
 								"latitude": 34.0423,
@@ -30038,7 +30038,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -95.6977,
 								"latitude": 34.0423,
@@ -30050,7 +30050,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -93.3929,
 								"latitude": 34.0423,
@@ -30062,7 +30062,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -91.0881,
 								"latitude": 34.0423,
@@ -30074,7 +30074,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -88.7833,
 								"latitude": 34.0423,
@@ -30086,7 +30086,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -86.4785,
 								"latitude": 34.0423,
@@ -30098,7 +30098,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -84.1737,
 								"latitude": 34.0423,
@@ -30110,7 +30110,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -81.8689,
 								"latitude": 34.0423,
@@ -30122,7 +30122,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -79.5641,
 								"latitude": 34.0423,
@@ -30134,7 +30134,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Morocco",
 								"longitude": -5.8104,
 								"latitude": 34.0423,
@@ -30146,7 +30146,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Morocco",
 								"longitude": -3.5056,
 								"latitude": 34.0423,
@@ -30158,7 +30158,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": -1.2008,
 								"latitude": 34.0423,
@@ -30170,7 +30170,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": 1.104,
 								"latitude": 34.0423,
@@ -30182,7 +30182,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": 3.4088,
 								"latitude": 34.0423,
@@ -30194,7 +30194,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": 5.7136,
 								"latitude": 34.0423,
@@ -30206,7 +30206,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Tunisia",
 								"longitude": 8.0184,
 								"latitude": 34.0423,
@@ -30218,7 +30218,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Tunisia",
 								"longitude": 10.3232,
 								"latitude": 34.0423,
@@ -30231,7 +30231,7 @@
 							},
 					
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Syria",
 								"longitude": 37.9808,
 								"latitude": 34.0423,
@@ -30243,7 +30243,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Syria",
 								"longitude": 40.2856,
 								"latitude": 34.0423,
@@ -30255,7 +30255,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iraq",
 								"longitude": 42.5905,
 								"latitude": 34.0423,
@@ -30267,7 +30267,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iraq",
 								"longitude": 44.8953,
 								"latitude": 34.0423,
@@ -30279,7 +30279,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iran",
 								"longitude": 47.2001,
 								"latitude": 34.0423,
@@ -30291,7 +30291,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iran",
 								"longitude": 49.5049,
 								"latitude": 34.0423,
@@ -30303,7 +30303,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iran",
 								"longitude": 51.8097,
 								"latitude": 34.0423,
@@ -30315,7 +30315,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iran",
 								"longitude": 54.1145,
 								"latitude": 34.0423,
@@ -30327,7 +30327,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iran",
 								"longitude": 56.4193,
 								"latitude": 34.0423,
@@ -30339,7 +30339,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iran",
 								"longitude": 58.7241,
 								"latitude": 34.0423,
@@ -30351,7 +30351,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Afghanistan",
 								"longitude": 61.0289,
 								"latitude": 34.0423,
@@ -30363,7 +30363,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Afghanistan",
 								"longitude": 63.3337,
 								"latitude": 34.0423,
@@ -30375,7 +30375,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Afghanistan",
 								"longitude": 65.6385,
 								"latitude": 34.0423,
@@ -30387,7 +30387,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Afghanistan",
 								"longitude": 67.9433,
 								"latitude": 34.0423,
@@ -30399,7 +30399,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Pakistan",
 								"longitude": 70.2481,
 								"latitude": 34.0423,
@@ -30411,7 +30411,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Pakistan",
 								"longitude": 72.5529,
 								"latitude": 34.0423,
@@ -30423,7 +30423,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 74.8577,
 								"latitude": 34.0423,
@@ -30435,7 +30435,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 77.1625,
 								"latitude": 34.0423,
@@ -30447,7 +30447,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 79.4673,
 								"latitude": 34.0423,
@@ -30459,7 +30459,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 81.7721,
 								"latitude": 34.0423,
@@ -30471,7 +30471,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 84.0769,
 								"latitude": 34.0423,
@@ -30483,7 +30483,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 86.3817,
 								"latitude": 34.0423,
@@ -30495,7 +30495,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 88.6865,
 								"latitude": 34.0423,
@@ -30507,7 +30507,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 90.9913,
 								"latitude": 34.0423,
@@ -30519,7 +30519,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 93.2961,
 								"latitude": 34.0423,
@@ -30531,7 +30531,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 95.6009,
 								"latitude": 34.0423,
@@ -30543,7 +30543,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 97.9057,
 								"latitude": 34.0423,
@@ -30555,7 +30555,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 100.2105,
 								"latitude": 34.0423,
@@ -30567,7 +30567,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 102.5153,
 								"latitude": 34.0423,
@@ -30579,7 +30579,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 104.8201,
 								"latitude": 34.0423,
@@ -30591,7 +30591,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 107.1249,
 								"latitude": 34.0423,
@@ -30603,7 +30603,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 109.4297,
 								"latitude": 34.0423,
@@ -30615,7 +30615,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 111.7345,
 								"latitude": 34.0423,
@@ -30627,7 +30627,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 114.0393,
 								"latitude": 34.0423,
@@ -30639,7 +30639,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 116.3441,
 								"latitude": 34.0423,
@@ -30651,7 +30651,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 118.6489,
 								"latitude": 34.0423,
@@ -30663,7 +30663,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 
 								"longitude": 132.4778,
 								"latitude": 34.0423,
@@ -30675,7 +30675,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 
 								"longitude": 134.7826,
 								"latitude": 34.0423,
@@ -30687,7 +30687,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -116.4409,
 								"latitude": 31.9714,
@@ -30699,7 +30699,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -114.1361,
 								"latitude": 31.9714,
@@ -30711,7 +30711,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -111.8313,
 								"latitude": 31.9714,
@@ -30723,7 +30723,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -109.5265,
 								"latitude": 31.9714,
@@ -30735,7 +30735,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -107.2217,
 								"latitude": 31.9714,
@@ -30747,7 +30747,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -104.9169,
 								"latitude": 31.9714,
@@ -30759,7 +30759,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -102.6121,
 								"latitude": 31.9714,
@@ -30771,7 +30771,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -100.3073,
 								"latitude": 31.9714,
@@ -30783,7 +30783,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -98.0025,
 								"latitude": 31.9714,
@@ -30795,7 +30795,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -95.6977,
 								"latitude": 31.9714,
@@ -30807,7 +30807,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -93.3929,
 								"latitude": 31.9714,
@@ -30819,7 +30819,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -91.0881,
 								"latitude": 31.9714,
@@ -30831,7 +30831,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -88.7833,
 								"latitude": 31.9714,
@@ -30843,7 +30843,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -86.4785,
 								"latitude": 31.9714,
@@ -30855,7 +30855,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -84.1737,
 								"latitude": 31.9714,
@@ -30867,7 +30867,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -81.8689,
 								"latitude": 31.9714,
@@ -30879,7 +30879,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Morocco",
 								"longitude": -8.1152,
 								"latitude": 31.9714,
@@ -30891,7 +30891,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Morocco",
 								"longitude": -5.8104,
 								"latitude": 31.9714,
@@ -30903,7 +30903,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Morocco",
 								"longitude": -3.5056,
 								"latitude": 31.9714,
@@ -30915,7 +30915,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": -1.2008,
 								"latitude": 31.9714,
@@ -30927,7 +30927,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": 1.104,
 								"latitude": 31.9714,
@@ -30939,7 +30939,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": 3.4088,
 								"latitude": 31.9714,
@@ -30951,7 +30951,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": 5.7136,
 								"latitude": 31.9714,
@@ -30963,7 +30963,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": 8.0184,
 								"latitude": 31.9714,
@@ -30975,7 +30975,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Tunisia",
 								"longitude": 10.3232,
 								"latitude": 31.9714,
@@ -30987,7 +30987,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Libya",
 								"longitude": 12.628,
 								"latitude": 31.9714,
@@ -30999,7 +30999,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Libya",
 								"longitude": 14.9328,
 								"latitude": 31.9714,
@@ -31011,7 +31011,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Libya",
 								"longitude": 21.8472,
 								"latitude": 31.9714,
@@ -31023,7 +31023,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Libya",
 								"longitude": 24.152,
 								"latitude": 31.9714,
@@ -31035,7 +31035,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Palestinian Territories",
 								"longitude": 35.676,
 								"latitude": 31.9714,
@@ -31047,7 +31047,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Jordan",
 								"longitude": 37.9808,
 								"latitude": 31.9714,
@@ -31059,7 +31059,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 40.2856,
 								"latitude": 31.9714,
@@ -31071,7 +31071,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iraq",
 								"longitude": 42.5905,
 								"latitude": 31.9714,
@@ -31083,7 +31083,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iraq",
 								"longitude": 44.8953,
 								"latitude": 31.9714,
@@ -31095,7 +31095,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iraq",
 								"longitude": 47.2001,
 								"latitude": 31.9714,
@@ -31107,7 +31107,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iran",
 								"longitude": 49.5049,
 								"latitude": 31.9714,
@@ -31119,7 +31119,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iran",
 								"longitude": 51.8097,
 								"latitude": 31.9714,
@@ -31131,7 +31131,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iran",
 								"longitude": 54.1145,
 								"latitude": 31.9714,
@@ -31143,7 +31143,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iran",
 								"longitude": 56.4193,
 								"latitude": 31.9714,
@@ -31155,7 +31155,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iran",
 								"longitude": 58.7241,
 								"latitude": 31.9714,
@@ -31167,7 +31167,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iran",
 								"longitude": 61.0289,
 								"latitude": 31.9714,
@@ -31179,7 +31179,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Afghanistan",
 								"longitude": 63.3337,
 								"latitude": 31.9714,
@@ -31191,7 +31191,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Afghanistan",
 								"longitude": 65.6385,
 								"latitude": 31.9714,
@@ -31203,7 +31203,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Afghanistan",
 								"longitude": 67.9433,
 								"latitude": 31.9714,
@@ -31215,7 +31215,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Pakistan",
 								"longitude": 70.2481,
 								"latitude": 31.9714,
@@ -31227,7 +31227,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Pakistan",
 								"longitude": 72.5529,
 								"latitude": 31.9714,
@@ -31239,7 +31239,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Pakistan",
 								"longitude": 74.8577,
 								"latitude": 31.9714,
@@ -31251,7 +31251,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 77.1625,
 								"latitude": 31.9714,
@@ -31263,7 +31263,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 79.4673,
 								"latitude": 31.9714,
@@ -31275,7 +31275,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 81.7721,
 								"latitude": 31.9714,
@@ -31287,7 +31287,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 84.0769,
 								"latitude": 31.9714,
@@ -31299,7 +31299,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 86.3817,
 								"latitude": 31.9714,
@@ -31311,7 +31311,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 88.6865,
 								"latitude": 31.9714,
@@ -31323,7 +31323,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 90.9913,
 								"latitude": 31.9714,
@@ -31335,7 +31335,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 93.2961,
 								"latitude": 31.9714,
@@ -31347,7 +31347,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 95.6009,
 								"latitude": 31.9714,
@@ -31359,7 +31359,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 97.9057,
 								"latitude": 31.9714,
@@ -31371,7 +31371,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 100.2105,
 								"latitude": 31.9714,
@@ -31383,7 +31383,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 102.5153,
 								"latitude": 31.9714,
@@ -31395,7 +31395,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 104.8201,
 								"latitude": 31.9714,
@@ -31407,7 +31407,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 107.1249,
 								"latitude": 31.9714,
@@ -31419,7 +31419,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 109.4297,
 								"latitude": 31.9714,
@@ -31431,7 +31431,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 111.7345,
 								"latitude": 31.9714,
@@ -31443,7 +31443,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 114.0393,
 								"latitude": 31.9714,
@@ -31455,7 +31455,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 116.3441,
 								"latitude": 31.9714,
@@ -31467,7 +31467,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 118.6489,
 								"latitude": 31.9714,
@@ -31479,7 +31479,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 120.9537,
 								"latitude": 31.9714,
@@ -31491,7 +31491,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -111.8313,
 								"latitude": 29.8715,
@@ -31503,7 +31503,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -109.5265,
 								"latitude": 29.8715,
@@ -31515,7 +31515,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -107.2217,
 								"latitude": 29.8715,
@@ -31527,7 +31527,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -104.9169,
 								"latitude": 29.8715,
@@ -31539,7 +31539,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -102.6121,
 								"latitude": 29.8715,
@@ -31551,7 +31551,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -100.3073,
 								"latitude": 29.8715,
@@ -31563,7 +31563,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -98.0025,
 								"latitude": 29.8715,
@@ -31575,7 +31575,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -95.6977,
 								"latitude": 29.8715,
@@ -31587,7 +31587,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -93.3929,
 								"latitude": 29.8715,
@@ -31599,7 +31599,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -91.0881,
 								"latitude": 29.8715,
@@ -31611,7 +31611,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -81.8689,
 								"latitude": 29.8715,
@@ -31623,7 +31623,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Morocco",
 								"longitude": -8.1152,
 								"latitude": 29.8715,
@@ -31635,7 +31635,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Morocco",
 								"longitude": -5.8104,
 								"latitude": 29.8715,
@@ -31647,7 +31647,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": -3.5056,
 								"latitude": 29.8715,
@@ -31659,7 +31659,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": -1.2008,
 								"latitude": 29.8715,
@@ -31671,7 +31671,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": 1.104,
 								"latitude": 29.8715,
@@ -31683,7 +31683,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": 3.4088,
 								"latitude": 29.8715,
@@ -31695,7 +31695,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": 5.7136,
 								"latitude": 29.8715,
@@ -31707,7 +31707,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": 8.0184,
 								"latitude": 29.8715,
@@ -31719,7 +31719,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Libya",
 								"longitude": 10.3232,
 								"latitude": 29.8715,
@@ -31731,7 +31731,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Libya",
 								"longitude": 12.628,
 								"latitude": 29.8715,
@@ -31743,7 +31743,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Libya",
 								"longitude": 14.9328,
 								"latitude": 29.8715,
@@ -31755,7 +31755,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Libya",
 								"longitude": 17.2376,
 								"latitude": 29.8715,
@@ -31767,7 +31767,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Libya",
 								"longitude": 19.5424,
 								"latitude": 29.8715,
@@ -31779,7 +31779,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Libya",
 								"longitude": 21.8472,
 								"latitude": 29.8715,
@@ -31791,7 +31791,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Libya",
 								"longitude": 24.152,
 								"latitude": 29.8715,
@@ -31803,7 +31803,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Egypt",
 								"longitude": 26.4568,
 								"latitude": 29.8715,
@@ -31815,7 +31815,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Egypt",
 								"longitude": 28.7616,
 								"latitude": 29.8715,
@@ -31827,7 +31827,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Egypt",
 								"longitude": 31.0664,
 								"latitude": 29.8715,
@@ -31839,7 +31839,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Egypt",
 								"longitude": 33.3712,
 								"latitude": 29.8715,
@@ -31851,7 +31851,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Jordan",
 								"longitude": 35.676,
 								"latitude": 29.8715,
@@ -31863,7 +31863,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 37.9808,
 								"latitude": 29.8715,
@@ -31875,7 +31875,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 40.2856,
 								"latitude": 29.8715,
@@ -31887,7 +31887,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 42.5905,
 								"latitude": 29.8715,
@@ -31899,7 +31899,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iraq",
 								"longitude": 44.8953,
 								"latitude": 29.8715,
@@ -31911,7 +31911,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kuwait",
 								"longitude": 47.2001,
 								"latitude": 29.8715,
@@ -31923,7 +31923,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iran",
 								"longitude": 51.8097,
 								"latitude": 29.8715,
@@ -31935,7 +31935,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iran",
 								"longitude": 54.1145,
 								"latitude": 29.8715,
@@ -31947,7 +31947,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iran",
 								"longitude": 56.4193,
 								"latitude": 29.8715,
@@ -31959,7 +31959,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iran",
 								"longitude": 58.7241,
 								"latitude": 29.8715,
@@ -31971,7 +31971,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Pakistan",
 								"longitude": 61.0289,
 								"latitude": 29.8715,
@@ -31983,7 +31983,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Afghanistan",
 								"longitude": 63.3337,
 								"latitude": 29.8715,
@@ -31995,7 +31995,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Afghanistan",
 								"longitude": 65.6385,
 								"latitude": 29.8715,
@@ -32007,7 +32007,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Pakistan",
 								"longitude": 67.9433,
 								"latitude": 29.8715,
@@ -32019,7 +32019,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Pakistan",
 								"longitude": 70.2481,
 								"latitude": 29.8715,
@@ -32031,7 +32031,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Pakistan",
 								"longitude": 72.5529,
 								"latitude": 29.8715,
@@ -32043,7 +32043,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 74.8577,
 								"latitude": 29.8715,
@@ -32055,7 +32055,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 77.1625,
 								"latitude": 29.8715,
@@ -32067,7 +32067,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 79.4673,
 								"latitude": 29.8715,
@@ -32079,7 +32079,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Nepal",
 								"longitude": 81.7721,
 								"latitude": 29.8715,
@@ -32091,7 +32091,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 84.0769,
 								"latitude": 29.8715,
@@ -32103,7 +32103,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 86.3817,
 								"latitude": 29.8715,
@@ -32115,7 +32115,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 88.6865,
 								"latitude": 29.8715,
@@ -32127,7 +32127,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 90.9913,
 								"latitude": 29.8715,
@@ -32139,7 +32139,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 93.2961,
 								"latitude": 29.8715,
@@ -32151,7 +32151,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 95.6009,
 								"latitude": 29.8715,
@@ -32163,7 +32163,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 97.9057,
 								"latitude": 29.8715,
@@ -32175,7 +32175,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 100.2105,
 								"latitude": 29.8715,
@@ -32187,7 +32187,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 102.5153,
 								"latitude": 29.8715,
@@ -32199,7 +32199,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 104.8201,
 								"latitude": 29.8715,
@@ -32211,7 +32211,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 107.1249,
 								"latitude": 29.8715,
@@ -32223,7 +32223,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 109.4297,
 								"latitude": 29.8715,
@@ -32235,7 +32235,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 111.7345,
 								"latitude": 29.8715,
@@ -32247,7 +32247,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 114.0393,
 								"latitude": 29.8715,
@@ -32259,7 +32259,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 116.3441,
 								"latitude": 29.8715,
@@ -32271,7 +32271,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 118.6489,
 								"latitude": 29.8715,
@@ -32283,7 +32283,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 120.9537,
 								"latitude": 29.8715,
@@ -32295,7 +32295,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -114.1361,
 								"latitude": 27.744,
@@ -32307,7 +32307,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -109.5265,
 								"latitude": 27.744,
@@ -32319,7 +32319,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -107.2217,
 								"latitude": 27.744,
@@ -32331,7 +32331,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -104.9169,
 								"latitude": 27.744,
@@ -32343,7 +32343,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -102.6121,
 								"latitude": 27.744,
@@ -32355,7 +32355,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -100.3073,
 								"latitude": 27.744,
@@ -32367,7 +32367,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -98.0025,
 								"latitude": 27.744,
@@ -32379,7 +32379,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -81.8689,
 								"latitude": 27.744,
@@ -32391,7 +32391,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Morocco",
 								"longitude": -12.7248,
 								"latitude": 27.744,
@@ -32403,7 +32403,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Morocco",
 								"longitude": -10.42,
 								"latitude": 27.744,
@@ -32415,7 +32415,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": -8.1152,
 								"latitude": 27.744,
@@ -32427,7 +32427,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": -5.8104,
 								"latitude": 27.744,
@@ -32439,7 +32439,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": -3.5056,
 								"latitude": 27.744,
@@ -32451,7 +32451,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": -1.2008,
 								"latitude": 27.744,
@@ -32463,7 +32463,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": 1.104,
 								"latitude": 27.744,
@@ -32475,7 +32475,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": 3.4088,
 								"latitude": 27.744,
@@ -32487,7 +32487,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": 5.7136,
 								"latitude": 27.744,
@@ -32499,7 +32499,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": 8.0184,
 								"latitude": 27.744,
@@ -32511,7 +32511,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Libya",
 								"longitude": 10.3232,
 								"latitude": 27.744,
@@ -32523,7 +32523,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Libya",
 								"longitude": 12.628,
 								"latitude": 27.744,
@@ -32535,7 +32535,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Libya",
 								"longitude": 14.9328,
 								"latitude": 27.744,
@@ -32547,7 +32547,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Libya",
 								"longitude": 17.2376,
 								"latitude": 27.744,
@@ -32559,7 +32559,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Libya",
 								"longitude": 19.5424,
 								"latitude": 27.744,
@@ -32571,7 +32571,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Libya",
 								"longitude": 21.8472,
 								"latitude": 27.744,
@@ -32583,7 +32583,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Libya",
 								"longitude": 24.152,
 								"latitude": 27.744,
@@ -32595,7 +32595,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Egypt",
 								"longitude": 26.4568,
 								"latitude": 27.744,
@@ -32607,7 +32607,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Egypt",
 								"longitude": 28.7616,
 								"latitude": 27.744,
@@ -32619,7 +32619,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Egypt",
 								"longitude": 31.0664,
 								"latitude": 27.744,
@@ -32631,7 +32631,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Egypt",
 								"longitude": 33.3712,
 								"latitude": 27.744,
@@ -32643,7 +32643,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 35.676,
 								"latitude": 27.744,
@@ -32655,7 +32655,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 37.9808,
 								"latitude": 27.744,
@@ -32667,7 +32667,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 40.2856,
 								"latitude": 27.744,
@@ -32679,7 +32679,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 42.5905,
 								"latitude": 27.744,
@@ -32691,7 +32691,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 44.8953,
 								"latitude": 27.744,
@@ -32703,7 +32703,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 47.2001,
 								"latitude": 27.744,
@@ -32715,7 +32715,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iran",
 								"longitude": 51.8097,
 								"latitude": 27.744,
@@ -32727,7 +32727,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iran",
 								"longitude": 54.1145,
 								"latitude": 27.744,
@@ -32739,7 +32739,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iran",
 								"longitude": 56.4193,
 								"latitude": 27.744,
@@ -32751,7 +32751,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iran",
 								"longitude": 58.7241,
 								"latitude": 27.744,
@@ -32763,7 +32763,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iran",
 								"longitude": 61.0289,
 								"latitude": 27.744,
@@ -32775,7 +32775,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Pakistan",
 								"longitude": 63.3337,
 								"latitude": 27.744,
@@ -32787,7 +32787,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Pakistan",
 								"longitude": 65.6385,
 								"latitude": 27.744,
@@ -32799,7 +32799,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Pakistan",
 								"longitude": 67.9433,
 								"latitude": 27.744,
@@ -32811,7 +32811,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Pakistan",
 								"longitude": 70.2481,
 								"latitude": 27.744,
@@ -32823,7 +32823,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 72.5529,
 								"latitude": 27.744,
@@ -32835,7 +32835,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 74.8577,
 								"latitude": 27.744,
@@ -32847,7 +32847,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 77.1625,
 								"latitude": 27.744,
@@ -32859,7 +32859,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 79.4673,
 								"latitude": 27.744,
@@ -32871,7 +32871,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 81.7721,
 								"latitude": 27.744,
@@ -32883,7 +32883,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Nepal",
 								"longitude": 84.0769,
 								"latitude": 27.744,
@@ -32895,7 +32895,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Nepal",
 								"longitude": 86.3817,
 								"latitude": 27.744,
@@ -32907,7 +32907,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 88.6865,
 								"latitude": 27.744,
@@ -32919,7 +32919,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Bhutan",
 								"longitude": 90.9913,
 								"latitude": 27.744,
@@ -32931,7 +32931,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 93.2961,
 								"latitude": 27.744,
@@ -32943,7 +32943,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 95.6009,
 								"latitude": 27.744,
@@ -32955,7 +32955,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Myanmar",
 								"longitude": 97.9057,
 								"latitude": 27.744,
@@ -32967,7 +32967,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 100.2105,
 								"latitude": 27.744,
@@ -32979,7 +32979,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 102.5153,
 								"latitude": 27.744,
@@ -32991,7 +32991,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 104.8201,
 								"latitude": 27.744,
@@ -33003,7 +33003,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 107.1249,
 								"latitude": 27.744,
@@ -33015,7 +33015,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 109.4297,
 								"latitude": 27.744,
@@ -33027,7 +33027,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 111.7345,
 								"latitude": 27.744,
@@ -33039,7 +33039,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 114.0393,
 								"latitude": 27.744,
@@ -33051,7 +33051,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 116.3441,
 								"latitude": 27.744,
@@ -33063,7 +33063,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 118.6489,
 								"latitude": 27.744,
@@ -33075,7 +33075,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 120.9537,
 								"latitude": 27.744,
@@ -33087,7 +33087,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -111.8313,
 								"latitude": 25.5904,
@@ -33099,7 +33099,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -107.2217,
 								"latitude": 25.5904,
@@ -33111,7 +33111,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -104.9169,
 								"latitude": 25.5904,
@@ -33123,7 +33123,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -102.6121,
 								"latitude": 25.5904,
@@ -33135,7 +33135,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -100.3073,
 								"latitude": 25.5904,
@@ -33147,7 +33147,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -98.0025,
 								"latitude": 25.5904,
@@ -33159,7 +33159,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Western Sahara",
 								"longitude": -12.7248,
 								"latitude": 25.5904,
@@ -33171,7 +33171,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mauritania",
 								"longitude": -10.42,
 								"latitude": 25.5904,
@@ -33183,7 +33183,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mauritania",
 								"longitude": -8.1152,
 								"latitude": 25.5904,
@@ -33195,7 +33195,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mauritania",
 								"longitude": -5.8104,
 								"latitude": 25.5904,
@@ -33207,7 +33207,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": -3.5056,
 								"latitude": 25.5904,
@@ -33219,7 +33219,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": -1.2008,
 								"latitude": 25.5904,
@@ -33231,7 +33231,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": 1.104,
 								"latitude": 25.5904,
@@ -33243,7 +33243,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": 3.4088,
 								"latitude": 25.5904,
@@ -33255,7 +33255,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": 5.7136,
 								"latitude": 25.5904,
@@ -33267,7 +33267,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": 8.0184,
 								"latitude": 25.5904,
@@ -33279,7 +33279,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Libya",
 								"longitude": 10.3232,
 								"latitude": 25.5904,
@@ -33291,7 +33291,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Libya",
 								"longitude": 12.628,
 								"latitude": 25.5904,
@@ -33303,7 +33303,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Libya",
 								"longitude": 14.9328,
 								"latitude": 25.5904,
@@ -33315,7 +33315,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Libya",
 								"longitude": 17.2376,
 								"latitude": 25.5904,
@@ -33327,7 +33327,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Libya",
 								"longitude": 19.5424,
 								"latitude": 25.5904,
@@ -33339,7 +33339,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Libya",
 								"longitude": 21.8472,
 								"latitude": 25.5904,
@@ -33351,7 +33351,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Libya",
 								"longitude": 24.152,
 								"latitude": 25.5904,
@@ -33363,7 +33363,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Egypt",
 								"longitude": 26.4568,
 								"latitude": 25.5904,
@@ -33375,7 +33375,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Egypt",
 								"longitude": 28.7616,
 								"latitude": 25.5904,
@@ -33387,7 +33387,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Egypt",
 								"longitude": 31.0664,
 								"latitude": 25.5904,
@@ -33399,7 +33399,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Egypt",
 								"longitude": 33.3712,
 								"latitude": 25.5904,
@@ -33411,7 +33411,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 37.9808,
 								"latitude": 25.5904,
@@ -33423,7 +33423,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 40.2856,
 								"latitude": 25.5904,
@@ -33435,7 +33435,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 42.5905,
 								"latitude": 25.5904,
@@ -33447,7 +33447,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 44.8953,
 								"latitude": 25.5904,
@@ -33459,7 +33459,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 47.2001,
 								"latitude": 25.5904,
@@ -33471,7 +33471,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 49.5049,
 								"latitude": 25.5904,
@@ -33483,7 +33483,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United Arab Emirates",
 								"longitude": 56.4193,
 								"latitude": 25.5904,
@@ -33495,7 +33495,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iran",
 								"longitude": 58.7241,
 								"latitude": 25.5904,
@@ -33507,7 +33507,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Iran",
 								"longitude": 61.0289,
 								"latitude": 25.5904,
@@ -33519,7 +33519,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Pakistan",
 								"longitude": 63.3337,
 								"latitude": 25.5904,
@@ -33531,7 +33531,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Pakistan",
 								"longitude": 65.6385,
 								"latitude": 25.5904,
@@ -33543,7 +33543,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Pakistan",
 								"longitude": 67.9433,
 								"latitude": 25.5904,
@@ -33555,7 +33555,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Pakistan",
 								"longitude": 70.2481,
 								"latitude": 25.5904,
@@ -33567,7 +33567,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 72.5529,
 								"latitude": 25.5904,
@@ -33579,7 +33579,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 74.8577,
 								"latitude": 25.5904,
@@ -33591,7 +33591,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 77.1625,
 								"latitude": 25.5904,
@@ -33603,7 +33603,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 79.4673,
 								"latitude": 25.5904,
@@ -33615,7 +33615,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 81.7721,
 								"latitude": 25.5904,
@@ -33627,7 +33627,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 84.0769,
 								"latitude": 25.5904,
@@ -33639,7 +33639,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 86.3817,
 								"latitude": 25.5904,
@@ -33651,7 +33651,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 88.6865,
 								"latitude": 25.5904,
@@ -33663,7 +33663,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 90.9913,
 								"latitude": 25.5904,
@@ -33675,7 +33675,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 93.2961,
 								"latitude": 25.5904,
@@ -33687,7 +33687,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Myanmar",
 								"longitude": 95.6009,
 								"latitude": 25.5904,
@@ -33699,7 +33699,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Myanmar",
 								"longitude": 97.9057,
 								"latitude": 25.5904,
@@ -33711,7 +33711,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 100.2105,
 								"latitude": 25.5904,
@@ -33723,7 +33723,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 102.5153,
 								"latitude": 25.5904,
@@ -33735,7 +33735,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 104.8201,
 								"latitude": 25.5904,
@@ -33747,7 +33747,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 107.1249,
 								"latitude": 25.5904,
@@ -33759,7 +33759,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 109.4297,
 								"latitude": 25.5904,
@@ -33771,7 +33771,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 111.7345,
 								"latitude": 25.5904,
@@ -33783,7 +33783,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 114.0393,
 								"latitude": 25.5904,
@@ -33795,7 +33795,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 116.3441,
 								"latitude": 25.5904,
@@ -33807,7 +33807,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 118.6489,
 								"latitude": 25.5904,
@@ -33819,7 +33819,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -109.5265,
 								"latitude": 23.4123,
@@ -33831,7 +33831,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -104.9169,
 								"latitude": 23.4123,
@@ -33843,7 +33843,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -102.6121,
 								"latitude": 23.4123,
@@ -33855,7 +33855,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -100.3073,
 								"latitude": 23.4123,
@@ -33867,7 +33867,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -98.0025,
 								"latitude": 23.4123,
@@ -33879,7 +33879,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Western Sahara",
 								"longitude": -15.0296,
 								"latitude": 23.4123,
@@ -33891,7 +33891,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mauritania",
 								"longitude": -12.7248,
 								"latitude": 23.4123,
@@ -33903,7 +33903,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mauritania",
 								"longitude": -10.42,
 								"latitude": 23.4123,
@@ -33915,7 +33915,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mauritania",
 								"longitude": -8.1152,
 								"latitude": 23.4123,
@@ -33927,7 +33927,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mali",
 								"longitude": -5.8104,
 								"latitude": 23.4123,
@@ -33939,7 +33939,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mali",
 								"longitude": -3.5056,
 								"latitude": 23.4123,
@@ -33951,7 +33951,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": -1.2008,
 								"latitude": 23.4123,
@@ -33963,7 +33963,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": 1.104,
 								"latitude": 23.4123,
@@ -33975,7 +33975,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": 3.4088,
 								"latitude": 23.4123,
@@ -33987,7 +33987,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": 5.7136,
 								"latitude": 23.4123,
@@ -33999,7 +33999,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": 8.0184,
 								"latitude": 23.4123,
@@ -34011,7 +34011,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": 10.3232,
 								"latitude": 23.4123,
@@ -34023,7 +34023,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Niger",
 								"longitude": 12.628,
 								"latitude": 23.4123,
@@ -34035,7 +34035,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Libya",
 								"longitude": 14.9328,
 								"latitude": 23.4123,
@@ -34047,7 +34047,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Libya",
 								"longitude": 17.2376,
 								"latitude": 23.4123,
@@ -34059,7 +34059,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Libya",
 								"longitude": 19.5424,
 								"latitude": 23.4123,
@@ -34071,7 +34071,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Libya",
 								"longitude": 21.8472,
 								"latitude": 23.4123,
@@ -34083,7 +34083,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Libya",
 								"longitude": 24.152,
 								"latitude": 23.4123,
@@ -34095,7 +34095,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Egypt",
 								"longitude": 26.4568,
 								"latitude": 23.4123,
@@ -34107,7 +34107,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Egypt",
 								"longitude": 28.7616,
 								"latitude": 23.4123,
@@ -34119,7 +34119,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Egypt",
 								"longitude": 31.0664,
 								"latitude": 23.4123,
@@ -34131,7 +34131,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Egypt",
 								"longitude": 33.3712,
 								"latitude": 23.4123,
@@ -34143,7 +34143,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Egypt",
 								"longitude": 35.676,
 								"latitude": 23.4123,
@@ -34155,7 +34155,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 40.2856,
 								"latitude": 23.4123,
@@ -34167,7 +34167,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 42.5905,
 								"latitude": 23.4123,
@@ -34179,7 +34179,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 44.8953,
 								"latitude": 23.4123,
@@ -34191,7 +34191,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 47.2001,
 								"latitude": 23.4123,
@@ -34203,7 +34203,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 49.5049,
 								"latitude": 23.4123,
@@ -34215,7 +34215,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 51.8097,
 								"latitude": 23.4123,
@@ -34227,7 +34227,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United Arab Emirates",
 								"longitude": 54.1145,
 								"latitude": 23.4123,
@@ -34239,7 +34239,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Oman",
 								"longitude": 56.4193,
 								"latitude": 23.4123,
@@ -34251,7 +34251,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Oman",
 								"longitude": 58.7241,
 								"latitude": 23.4123,
@@ -34263,7 +34263,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 70.2481,
 								"latitude": 23.4123,
@@ -34275,7 +34275,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 72.5529,
 								"latitude": 23.4123,
@@ -34287,7 +34287,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 74.8577,
 								"latitude": 23.4123,
@@ -34299,7 +34299,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 77.1625,
 								"latitude": 23.4123,
@@ -34311,7 +34311,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 79.4673,
 								"latitude": 23.4123,
@@ -34323,7 +34323,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 81.7721,
 								"latitude": 23.4123,
@@ -34335,7 +34335,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 84.0769,
 								"latitude": 23.4123,
@@ -34347,7 +34347,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 86.3817,
 								"latitude": 23.4123,
@@ -34359,7 +34359,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 88.6865,
 								"latitude": 23.4123,
@@ -34371,7 +34371,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Bangladesh",
 								"longitude": 90.9913,
 								"latitude": 23.4123,
@@ -34383,7 +34383,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Myanmar",
 								"longitude": 93.2961,
 								"latitude": 23.4123,
@@ -34395,7 +34395,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Myanmar",
 								"longitude": 95.6009,
 								"latitude": 23.4123,
@@ -34407,7 +34407,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Myanmar",
 								"longitude": 97.9057,
 								"latitude": 23.4123,
@@ -34419,7 +34419,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 100.2105,
 								"latitude": 23.4123,
@@ -34431,7 +34431,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 102.5153,
 								"latitude": 23.4123,
@@ -34443,7 +34443,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 104.8201,
 								"latitude": 23.4123,
@@ -34455,7 +34455,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 107.1249,
 								"latitude": 23.4123,
@@ -34467,7 +34467,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 109.4297,
 								"latitude": 23.4123,
@@ -34479,7 +34479,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 111.7345,
 								"latitude": 23.4123,
@@ -34491,7 +34491,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 114.0393,
 								"latitude": 23.4123,
@@ -34503,7 +34503,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 116.3441,
 								"latitude": 23.4123,
@@ -34515,7 +34515,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Taiwan",
 								"longitude": 120.9537,
 								"latitude": 23.4123,
@@ -34527,7 +34527,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -157.9274,
 								"latitude": 21.2115,
@@ -34539,7 +34539,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -104.9169,
 								"latitude": 21.2115,
@@ -34551,7 +34551,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -102.6121,
 								"latitude": 21.2115,
@@ -34563,7 +34563,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -100.3073,
 								"latitude": 21.2115,
@@ -34575,7 +34575,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -98.0025,
 								"latitude": 21.2115,
@@ -34587,7 +34587,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -88.7833,
 								"latitude": 21.2115,
@@ -34599,7 +34599,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Cuba",
 								"longitude": -77.2593,
 								"latitude": 21.2115,
@@ -34611,7 +34611,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mauritania",
 								"longitude": -15.0296,
 								"latitude": 21.2115,
@@ -34623,7 +34623,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mauritania",
 								"longitude": -12.7248,
 								"latitude": 21.2115,
@@ -34635,7 +34635,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mauritania",
 								"longitude": -10.42,
 								"latitude": 21.2115,
@@ -34647,7 +34647,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mauritania",
 								"longitude": -8.1152,
 								"latitude": 21.2115,
@@ -34659,7 +34659,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mali",
 								"longitude": -5.8104,
 								"latitude": 21.2115,
@@ -34671,7 +34671,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mali",
 								"longitude": -3.5056,
 								"latitude": 21.2115,
@@ -34683,7 +34683,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mali",
 								"longitude": -1.2008,
 								"latitude": 21.2115,
@@ -34695,7 +34695,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mali",
 								"longitude": 1.104,
 								"latitude": 21.2115,
@@ -34707,7 +34707,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": 3.4088,
 								"latitude": 21.2115,
@@ -34719,7 +34719,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Algeria",
 								"longitude": 5.7136,
 								"latitude": 21.2115,
@@ -34731,7 +34731,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Niger",
 								"longitude": 8.0184,
 								"latitude": 21.2115,
@@ -34743,7 +34743,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Niger",
 								"longitude": 10.3232,
 								"latitude": 21.2115,
@@ -34755,7 +34755,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Niger",
 								"longitude": 12.628,
 								"latitude": 21.2115,
@@ -34767,7 +34767,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Niger",
 								"longitude": 14.9328,
 								"latitude": 21.2115,
@@ -34779,7 +34779,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chad",
 								"longitude": 17.2376,
 								"latitude": 21.2115,
@@ -34791,7 +34791,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chad",
 								"longitude": 19.5424,
 								"latitude": 21.2115,
@@ -34803,7 +34803,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Libya",
 								"longitude": 21.8472,
 								"latitude": 21.2115,
@@ -34815,7 +34815,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Libya",
 								"longitude": 24.152,
 								"latitude": 21.2115,
@@ -34827,7 +34827,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sudan",
 								"longitude": 26.4568,
 								"latitude": 21.2115,
@@ -34839,7 +34839,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sudan",
 								"longitude": 28.7616,
 								"latitude": 21.2115,
@@ -34851,7 +34851,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sudan",
 								"longitude": 31.0664,
 								"latitude": 21.2115,
@@ -34863,7 +34863,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sudan",
 								"longitude": 33.3712,
 								"latitude": 21.2115,
@@ -34875,7 +34875,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sudan",
 								"longitude": 35.676,
 								"latitude": 21.2115,
@@ -34887,7 +34887,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 40.2856,
 								"latitude": 21.2115,
@@ -34899,7 +34899,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 42.5905,
 								"latitude": 21.2115,
@@ -34911,7 +34911,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 44.8953,
 								"latitude": 21.2115,
@@ -34923,7 +34923,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 47.2001,
 								"latitude": 21.2115,
@@ -34935,7 +34935,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 49.5049,
 								"latitude": 21.2115,
@@ -34947,7 +34947,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 51.8097,
 								"latitude": 21.2115,
@@ -34959,7 +34959,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 54.1145,
 								"latitude": 21.2115,
@@ -34971,7 +34971,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Oman",
 								"longitude": 56.4193,
 								"latitude": 21.2115,
@@ -34983,7 +34983,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Oman",
 								"longitude": 58.7241,
 								"latitude": 21.2115,
@@ -34995,7 +34995,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 70.2481,
 								"latitude": 21.2115,
@@ -35007,7 +35007,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 72.5529,
 								"latitude": 21.2115,
@@ -35019,7 +35019,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 74.8577,
 								"latitude": 21.2115,
@@ -35031,7 +35031,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 77.1625,
 								"latitude": 21.2115,
@@ -35043,7 +35043,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 79.4673,
 								"latitude": 21.2115,
@@ -35055,7 +35055,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 81.7721,
 								"latitude": 21.2115,
@@ -35067,7 +35067,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 84.0769,
 								"latitude": 21.2115,
@@ -35079,7 +35079,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 86.3817,
 								"latitude": 21.2115,
@@ -35091,7 +35091,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Myanmar",
 								"longitude": 93.2961,
 								"latitude": 21.2115,
@@ -35103,7 +35103,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Myanmar",
 								"longitude": 95.6009,
 								"latitude": 21.2115,
@@ -35115,7 +35115,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Myanmar",
 								"longitude": 97.9057,
 								"latitude": 21.2115,
@@ -35127,7 +35127,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Myanmar",
 								"longitude": 100.2105,
 								"latitude": 21.2115,
@@ -35139,7 +35139,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Lao People's Democratic Republic",
 								"longitude": 102.5153,
 								"latitude": 21.2115,
@@ -35151,7 +35151,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Vietnam",
 								"longitude": 104.8201,
 								"latitude": 21.2115,
@@ -35163,7 +35163,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Vietnam",
 								"longitude": 107.1249,
 								"latitude": 21.2115,
@@ -35175,7 +35175,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "United States",
 								"longitude": -155.6226,
 								"latitude": 18.9899,
@@ -35187,7 +35187,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -102.6121,
 								"latitude": 18.9899,
@@ -35199,7 +35199,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -100.3073,
 								"latitude": 18.9899,
@@ -35211,7 +35211,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -98.0025,
 								"latitude": 18.9899,
@@ -35223,7 +35223,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -91.0881,
 								"latitude": 18.9899,
@@ -35235,7 +35235,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -88.7833,
 								"latitude": 18.9899,
@@ -35247,7 +35247,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Haiti",
 								"longitude": -72.6497,
 								"latitude": 18.9899,
@@ -35259,7 +35259,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Dominican Republic",
 								"longitude": -70.3449,
 								"latitude": 18.9899,
@@ -35271,7 +35271,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mauritania",
 								"longitude": -15.0296,
 								"latitude": 18.9899,
@@ -35283,7 +35283,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mauritania",
 								"longitude": -12.7248,
 								"latitude": 18.9899,
@@ -35295,7 +35295,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mauritania",
 								"longitude": -10.42,
 								"latitude": 18.9899,
@@ -35307,7 +35307,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mauritania",
 								"longitude": -8.1152,
 								"latitude": 18.9899,
@@ -35319,7 +35319,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mauritania",
 								"longitude": -5.8104,
 								"latitude": 18.9899,
@@ -35331,7 +35331,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mali",
 								"longitude": -3.5056,
 								"latitude": 18.9899,
@@ -35343,7 +35343,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mali",
 								"longitude": -1.2008,
 								"latitude": 18.9899,
@@ -35355,7 +35355,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mali",
 								"longitude": 1.104,
 								"latitude": 18.9899,
@@ -35367,7 +35367,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mali",
 								"longitude": 3.4088,
 								"latitude": 18.9899,
@@ -35379,7 +35379,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Niger",
 								"longitude": 5.7136,
 								"latitude": 18.9899,
@@ -35391,7 +35391,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Niger",
 								"longitude": 8.0184,
 								"latitude": 18.9899,
@@ -35403,7 +35403,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Niger",
 								"longitude": 10.3232,
 								"latitude": 18.9899,
@@ -35415,7 +35415,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Niger",
 								"longitude": 12.628,
 								"latitude": 18.9899,
@@ -35427,7 +35427,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Niger",
 								"longitude": 14.9328,
 								"latitude": 18.9899,
@@ -35439,7 +35439,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chad",
 								"longitude": 17.2376,
 								"latitude": 18.9899,
@@ -35451,7 +35451,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chad",
 								"longitude": 19.5424,
 								"latitude": 18.9899,
@@ -35463,7 +35463,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chad",
 								"longitude": 21.8472,
 								"latitude": 18.9899,
@@ -35475,7 +35475,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sudan",
 								"longitude": 24.152,
 								"latitude": 18.9899,
@@ -35487,7 +35487,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sudan",
 								"longitude": 26.4568,
 								"latitude": 18.9899,
@@ -35499,7 +35499,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sudan",
 								"longitude": 28.7616,
 								"latitude": 18.9899,
@@ -35511,7 +35511,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sudan",
 								"longitude": 31.0664,
 								"latitude": 18.9899,
@@ -35523,7 +35523,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sudan",
 								"longitude": 33.3712,
 								"latitude": 18.9899,
@@ -35535,7 +35535,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sudan",
 								"longitude": 35.676,
 								"latitude": 18.9899,
@@ -35547,7 +35547,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 42.5905,
 								"latitude": 18.9899,
@@ -35559,7 +35559,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 44.8953,
 								"latitude": 18.9899,
@@ -35571,7 +35571,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 47.2001,
 								"latitude": 18.9899,
@@ -35583,7 +35583,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 49.5049,
 								"latitude": 18.9899,
@@ -35595,7 +35595,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Yemen",
 								"longitude": 51.8097,
 								"latitude": 18.9899,
@@ -35607,7 +35607,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Oman",
 								"longitude": 54.1145,
 								"latitude": 18.9899,
@@ -35619,7 +35619,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Oman",
 								"longitude": 56.4193,
 								"latitude": 18.9899,
@@ -35631,7 +35631,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 74.8577,
 								"latitude": 18.9899,
@@ -35643,7 +35643,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 77.1625,
 								"latitude": 18.9899,
@@ -35655,7 +35655,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 79.4673,
 								"latitude": 18.9899,
@@ -35667,7 +35667,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 81.7721,
 								"latitude": 18.9899,
@@ -35679,7 +35679,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 84.0769,
 								"latitude": 18.9899,
@@ -35691,7 +35691,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Myanmar",
 								"longitude": 95.6009,
 								"latitude": 18.9899,
@@ -35703,7 +35703,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Thailand",
 								"longitude": 97.9057,
 								"latitude": 18.9899,
@@ -35715,7 +35715,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Thailand",
 								"longitude": 100.2105,
 								"latitude": 18.9899,
@@ -35727,7 +35727,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Lao People's Democratic Republic",
 								"longitude": 102.5153,
 								"latitude": 18.9899,
@@ -35739,7 +35739,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Vietnam",
 								"longitude": 104.8201,
 								"latitude": 18.9899,
@@ -35751,7 +35751,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "China",
 								"longitude": 109.4297,
 								"latitude": 18.9899,
@@ -35763,7 +35763,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -98.0025,
 								"latitude": 16.7495,
@@ -35775,7 +35775,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -95.6977,
 								"latitude": 16.7495,
@@ -35787,7 +35787,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -93.3929,
 								"latitude": 16.7495,
@@ -35799,7 +35799,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mexico",
 								"longitude": -91.0881,
 								"latitude": 16.7495,
@@ -35811,7 +35811,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Belize",
 								"longitude": -88.7833,
 								"latitude": 16.7495,
@@ -35823,7 +35823,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mauritania",
 								"longitude": -15.0296,
 								"latitude": 16.7495,
@@ -35835,7 +35835,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mauritania",
 								"longitude": -12.7248,
 								"latitude": 16.7495,
@@ -35847,7 +35847,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mauritania",
 								"longitude": -10.42,
 								"latitude": 16.7495,
@@ -35859,7 +35859,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mauritania",
 								"longitude": -8.1152,
 								"latitude": 16.7495,
@@ -35871,7 +35871,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mauritania",
 								"longitude": -5.8104,
 								"latitude": 16.7495,
@@ -35883,7 +35883,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mali",
 								"longitude": -3.5056,
 								"latitude": 16.7495,
@@ -35895,7 +35895,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mali",
 								"longitude": -1.2008,
 								"latitude": 16.7495,
@@ -35907,7 +35907,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mali",
 								"longitude": 1.104,
 								"latitude": 16.7495,
@@ -35919,7 +35919,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mali",
 								"longitude": 3.4088,
 								"latitude": 16.7495,
@@ -35931,7 +35931,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Niger",
 								"longitude": 5.7136,
 								"latitude": 16.7495,
@@ -35943,7 +35943,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Niger",
 								"longitude": 8.0184,
 								"latitude": 16.7495,
@@ -35955,7 +35955,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Niger",
 								"longitude": 10.3232,
 								"latitude": 16.7495,
@@ -35967,7 +35967,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Niger",
 								"longitude": 12.628,
 								"latitude": 16.7495,
@@ -35979,7 +35979,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Niger",
 								"longitude": 14.9328,
 								"latitude": 16.7495,
@@ -35991,7 +35991,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chad",
 								"longitude": 17.2376,
 								"latitude": 16.7495,
@@ -36003,7 +36003,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chad",
 								"longitude": 19.5424,
 								"latitude": 16.7495,
@@ -36015,7 +36015,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chad",
 								"longitude": 21.8472,
 								"latitude": 16.7495,
@@ -36027,7 +36027,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sudan",
 								"longitude": 24.152,
 								"latitude": 16.7495,
@@ -36039,7 +36039,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sudan",
 								"longitude": 26.4568,
 								"latitude": 16.7495,
@@ -36051,7 +36051,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sudan",
 								"longitude": 28.7616,
 								"latitude": 16.7495,
@@ -36063,7 +36063,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sudan",
 								"longitude": 31.0664,
 								"latitude": 16.7495,
@@ -36075,7 +36075,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sudan",
 								"longitude": 33.3712,
 								"latitude": 16.7495,
@@ -36087,7 +36087,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sudan",
 								"longitude": 35.676,
 								"latitude": 16.7495,
@@ -36099,7 +36099,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Eritrea",
 								"longitude": 37.9808,
 								"latitude": 16.7495,
@@ -36111,7 +36111,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Saudi Arabia",
 								"longitude": 42.5905,
 								"latitude": 16.7495,
@@ -36123,7 +36123,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Yemen",
 								"longitude": 44.8953,
 								"latitude": 16.7495,
@@ -36135,7 +36135,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Yemen",
 								"longitude": 47.2001,
 								"latitude": 16.7495,
@@ -36147,7 +36147,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Yemen",
 								"longitude": 49.5049,
 								"latitude": 16.7495,
@@ -36159,7 +36159,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Yemen",
 								"longitude": 51.8097,
 								"latitude": 16.7495,
@@ -36171,7 +36171,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 74.8577,
 								"latitude": 16.7495,
@@ -36183,7 +36183,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 77.1625,
 								"latitude": 16.7495,
@@ -36195,7 +36195,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 79.4673,
 								"latitude": 16.7495,
@@ -36207,7 +36207,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 81.7721,
 								"latitude": 16.7495,
@@ -36219,7 +36219,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Myanmar",
 								"longitude": 95.6009,
 								"latitude": 16.7495,
@@ -36231,7 +36231,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Myanmar",
 								"longitude": 97.9057,
 								"latitude": 16.7495,
@@ -36243,7 +36243,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Thailand",
 								"longitude": 100.2105,
 								"latitude": 16.7495,
@@ -36255,7 +36255,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Thailand",
 								"longitude": 102.5153,
 								"latitude": 16.7495,
@@ -36267,7 +36267,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Thailand",
 								"longitude": 104.8201,
 								"latitude": 16.7495,
@@ -36279,7 +36279,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Vietnam",
 								"longitude": 107.1249,
 								"latitude": 16.7495,
@@ -36291,7 +36291,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Philippines",
 								"longitude": 120.9537,
 								"latitude": 16.7495,
@@ -36303,7 +36303,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Guatemala",
 								"longitude": -91.0881,
 								"latitude": 14.4922,
@@ -36315,7 +36315,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Honduras",
 								"longitude": -88.7833,
 								"latitude": 14.4922,
@@ -36327,7 +36327,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Honduras",
 								"longitude": -86.4785,
 								"latitude": 14.4922,
@@ -36339,7 +36339,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Nicaragua",
 								"longitude": -84.1737,
 								"latitude": 14.4922,
@@ -36351,7 +36351,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Senegal",
 								"longitude": -17.3344,
 								"latitude": 14.4922,
@@ -36363,7 +36363,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Senegal",
 								"longitude": -15.0296,
 								"latitude": 14.4922,
@@ -36375,7 +36375,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Senegal",
 								"longitude": -12.7248,
 								"latitude": 14.4922,
@@ -36387,7 +36387,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mali",
 								"longitude": -10.42,
 								"latitude": 14.4922,
@@ -36399,7 +36399,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mali",
 								"longitude": -8.1152,
 								"latitude": 14.4922,
@@ -36411,7 +36411,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mali",
 								"longitude": -5.8104,
 								"latitude": 14.4922,
@@ -36423,7 +36423,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mali",
 								"longitude": -3.5056,
 								"latitude": 14.4922,
@@ -36435,7 +36435,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Burkina Faso",
 								"longitude": -1.2008,
 								"latitude": 14.4922,
@@ -36447,7 +36447,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Niger",
 								"longitude": 1.104,
 								"latitude": 14.4922,
@@ -36459,7 +36459,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Niger",
 								"longitude": 3.4088,
 								"latitude": 14.4922,
@@ -36471,7 +36471,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Niger",
 								"longitude": 5.7136,
 								"latitude": 14.4922,
@@ -36483,7 +36483,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Niger",
 								"longitude": 8.0184,
 								"latitude": 14.4922,
@@ -36495,7 +36495,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Niger",
 								"longitude": 10.3232,
 								"latitude": 14.4922,
@@ -36507,7 +36507,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Niger",
 								"longitude": 12.628,
 								"latitude": 14.4922,
@@ -36519,7 +36519,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chad",
 								"longitude": 14.9328,
 								"latitude": 14.4922,
@@ -36531,7 +36531,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chad",
 								"longitude": 17.2376,
 								"latitude": 14.4922,
@@ -36543,7 +36543,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chad",
 								"longitude": 19.5424,
 								"latitude": 14.4922,
@@ -36555,7 +36555,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chad",
 								"longitude": 21.8472,
 								"latitude": 14.4922,
@@ -36567,7 +36567,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sudan",
 								"longitude": 24.152,
 								"latitude": 14.4922,
@@ -36579,7 +36579,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sudan",
 								"longitude": 26.4568,
 								"latitude": 14.4922,
@@ -36591,7 +36591,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sudan",
 								"longitude": 28.7616,
 								"latitude": 14.4922,
@@ -36603,7 +36603,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sudan",
 								"longitude": 31.0664,
 								"latitude": 14.4922,
@@ -36615,7 +36615,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sudan",
 								"longitude": 33.3712,
 								"latitude": 14.4922,
@@ -36627,7 +36627,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sudan",
 								"longitude": 35.676,
 								"latitude": 14.4922,
@@ -36639,7 +36639,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ethiopia",
 								"longitude": 37.9808,
 								"latitude": 14.4922,
@@ -36651,7 +36651,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ethiopia",
 								"longitude": 40.2856,
 								"latitude": 14.4922,
@@ -36663,7 +36663,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Yemen",
 								"longitude": 44.8953,
 								"latitude": 14.4922,
@@ -36675,7 +36675,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Yemen",
 								"longitude": 47.2001,
 								"latitude": 14.4922,
@@ -36687,7 +36687,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Yemen",
 								"longitude": 49.5049,
 								"latitude": 14.4922,
@@ -36699,7 +36699,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 74.8577,
 								"latitude": 14.4922,
@@ -36711,7 +36711,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 77.1625,
 								"latitude": 14.4922,
@@ -36723,7 +36723,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 79.4673,
 								"latitude": 14.4922,
@@ -36735,7 +36735,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Myanmar",
 								"longitude": 97.9057,
 								"latitude": 14.4922,
@@ -36747,7 +36747,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Thailand",
 								"longitude": 100.2105,
 								"latitude": 14.4922,
@@ -36759,7 +36759,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Thailand",
 								"longitude": 102.5153,
 								"latitude": 14.4922,
@@ -36771,7 +36771,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Thailand",
 								"longitude": 104.8201,
 								"latitude": 14.4922,
@@ -36783,7 +36783,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Lao People's Democratic Republic",
 								"longitude": 107.1249,
 								"latitude": 14.4922,
@@ -36795,7 +36795,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Philippines",
 								"longitude": 120.9537,
 								"latitude": 14.4922,
@@ -36807,7 +36807,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Nicaragua",
 								"longitude": -86.4785,
 								"latitude": 12.2202,
@@ -36819,7 +36819,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Nicaragua",
 								"longitude": -84.1737,
 								"latitude": 12.2202,
@@ -36831,7 +36831,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Guinea-Bissau",
 								"longitude": -15.0296,
 								"latitude": 12.2202,
@@ -36843,7 +36843,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Guinea",
 								"longitude": -12.7248,
 								"latitude": 12.2202,
@@ -36855,7 +36855,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mali",
 								"longitude": -10.42,
 								"latitude": 12.2202,
@@ -36867,7 +36867,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mali",
 								"longitude": -8.1152,
 								"latitude": 12.2202,
@@ -36879,7 +36879,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mali",
 								"longitude": -5.8104,
 								"latitude": 12.2202,
@@ -36891,7 +36891,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Burkina Faso",
 								"longitude": -3.5056,
 								"latitude": 12.2202,
@@ -36903,7 +36903,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Burkina Faso",
 								"longitude": -1.2008,
 								"latitude": 12.2202,
@@ -36915,7 +36915,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Burkina Faso",
 								"longitude": 1.104,
 								"latitude": 12.2202,
@@ -36927,7 +36927,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Niger",
 								"longitude": 3.4088,
 								"latitude": 12.2202,
@@ -36939,7 +36939,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Nigeria",
 								"longitude": 5.7136,
 								"latitude": 12.2202,
@@ -36951,7 +36951,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Nigeria",
 								"longitude": 8.0184,
 								"latitude": 12.2202,
@@ -36963,7 +36963,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Nigeria",
 								"longitude": 10.3232,
 								"latitude": 12.2202,
@@ -36975,7 +36975,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Nigeria",
 								"longitude": 12.628,
 								"latitude": 12.2202,
@@ -36987,7 +36987,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chad",
 								"longitude": 14.9328,
 								"latitude": 12.2202,
@@ -36999,7 +36999,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chad",
 								"longitude": 17.2376,
 								"latitude": 12.2202,
@@ -37011,7 +37011,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chad",
 								"longitude": 19.5424,
 								"latitude": 12.2202,
@@ -37023,7 +37023,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chad",
 								"longitude": 21.8472,
 								"latitude": 12.2202,
@@ -37035,7 +37035,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sudan",
 								"longitude": 24.152,
 								"latitude": 12.2202,
@@ -37047,7 +37047,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sudan",
 								"longitude": 26.4568,
 								"latitude": 12.2202,
@@ -37059,7 +37059,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sudan",
 								"longitude": 28.7616,
 								"latitude": 12.2202,
@@ -37071,7 +37071,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sudan",
 								"longitude": 31.0664,
 								"latitude": 12.2202,
@@ -37083,7 +37083,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "South Sudan",
 								"longitude": 33.3712,
 								"latitude": 12.2202,
@@ -37095,7 +37095,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ethiopia",
 								"longitude": 35.676,
 								"latitude": 12.2202,
@@ -37107,7 +37107,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ethiopia",
 								"longitude": 37.9808,
 								"latitude": 12.2202,
@@ -37119,7 +37119,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ethiopia",
 								"longitude": 40.2856,
 								"latitude": 12.2202,
@@ -37131,7 +37131,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Djibouti",
 								"longitude": 42.5905,
 								"latitude": 12.2202,
@@ -37143,7 +37143,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 77.1625,
 								"latitude": 12.2202,
@@ -37155,7 +37155,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 79.4673,
 								"latitude": 12.2202,
@@ -37167,7 +37167,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Thailand",
 								"longitude": 100.2105,
 								"latitude": 12.2202,
@@ -37179,7 +37179,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Thailand",
 								"longitude": 102.5153,
 								"latitude": 12.2202,
@@ -37191,7 +37191,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Cambodia",
 								"longitude": 104.8201,
 								"latitude": 12.2202,
@@ -37203,7 +37203,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Vietnam",
 								"longitude": 107.1249,
 								"latitude": 12.2202,
@@ -37215,7 +37215,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Vietnam",
 								"longitude": 109.4297,
 								"latitude": 12.2202,
@@ -37227,7 +37227,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Philippines",
 								"longitude": 125.5634,
 								"latitude": 12.2202,
@@ -37239,7 +37239,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Costa Rica",
 								"longitude": -84.1737,
 								"latitude": 9.9357,
@@ -37251,7 +37251,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Colombia",
 								"longitude": -74.9545,
 								"latitude": 9.9357,
@@ -37263,7 +37263,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Venezuela",
 								"longitude": -72.6497,
 								"latitude": 9.9357,
@@ -37275,7 +37275,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Venezuela",
 								"longitude": -70.3449,
 								"latitude": 9.9357,
@@ -37287,7 +37287,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Venezuela",
 								"longitude": -68.0401,
 								"latitude": 9.9357,
@@ -37299,7 +37299,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Venezuela",
 								"longitude": -65.7353,
 								"latitude": 9.9357,
@@ -37311,7 +37311,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Venezuela",
 								"longitude": -63.4305,
 								"latitude": 9.9357,
@@ -37323,7 +37323,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Guinea",
 								"longitude": -12.7248,
 								"latitude": 9.9357,
@@ -37335,7 +37335,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Guinea",
 								"longitude": -10.42,
 								"latitude": 9.9357,
@@ -37347,7 +37347,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Côte d'Ivoire",
 								"longitude": -8.1152,
 								"latitude": 9.9357,
@@ -37359,7 +37359,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Côte d'Ivoire",
 								"longitude": -5.8104,
 								"latitude": 9.9357,
@@ -37371,7 +37371,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Côte d'Ivoire",
 								"longitude": -3.5056,
 								"latitude": 9.9357,
@@ -37383,7 +37383,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ghana",
 								"longitude": -1.2008,
 								"latitude": 9.9357,
@@ -37395,7 +37395,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Togo",
 								"longitude": 1.104,
 								"latitude": 9.9357,
@@ -37407,7 +37407,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Benin",
 								"longitude": 3.4088,
 								"latitude": 9.9357,
@@ -37419,7 +37419,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Nigeria",
 								"longitude": 5.7136,
 								"latitude": 9.9357,
@@ -37431,7 +37431,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Nigeria",
 								"longitude": 8.0184,
 								"latitude": 9.9357,
@@ -37443,7 +37443,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Nigeria",
 								"longitude": 10.3232,
 								"latitude": 9.9357,
@@ -37455,7 +37455,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Nigeria",
 								"longitude": 12.628,
 								"latitude": 9.9357,
@@ -37467,7 +37467,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chad",
 								"longitude": 14.9328,
 								"latitude": 9.9357,
@@ -37479,7 +37479,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chad",
 								"longitude": 17.2376,
 								"latitude": 9.9357,
@@ -37491,7 +37491,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chad",
 								"longitude": 19.5424,
 								"latitude": 9.9357,
@@ -37503,7 +37503,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Central African Republic",
 								"longitude": 21.8472,
 								"latitude": 9.9357,
@@ -37515,7 +37515,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sudan",
 								"longitude": 24.152,
 								"latitude": 9.9357,
@@ -37527,7 +37527,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sudan",
 								"longitude": 26.4568,
 								"latitude": 9.9357,
@@ -37539,7 +37539,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sudan",
 								"longitude": 28.7616,
 								"latitude": 9.9357,
@@ -37551,7 +37551,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sudan",
 								"longitude": 31.0664,
 								"latitude": 9.9357,
@@ -37563,7 +37563,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "South Sudan",
 								"longitude": 33.3712,
 								"latitude": 9.9357,
@@ -37575,7 +37575,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ethiopia",
 								"longitude": 35.676,
 								"latitude": 9.9357,
@@ -37587,7 +37587,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ethiopia",
 								"longitude": 37.9808,
 								"latitude": 9.9357,
@@ -37599,7 +37599,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ethiopia",
 								"longitude": 40.2856,
 								"latitude": 9.9357,
@@ -37611,7 +37611,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ethiopia",
 								"longitude": 42.5905,
 								"latitude": 9.9357,
@@ -37623,7 +37623,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Somalia",
 								"longitude": 44.8953,
 								"latitude": 9.9357,
@@ -37635,7 +37635,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Somalia",
 								"longitude": 47.2001,
 								"latitude": 9.9357,
@@ -37647,7 +37647,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Somalia",
 								"longitude": 49.5049,
 								"latitude": 9.9357,
@@ -37659,7 +37659,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "India",
 								"longitude": 77.1625,
 								"latitude": 9.9357,
@@ -37671,7 +37671,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Philippines",
 								"longitude": 118.6489,
 								"latitude": 9.9357,
@@ -37683,7 +37683,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Philippines",
 								"longitude": 123.2585,
 								"latitude": 9.9357,
@@ -37695,7 +37695,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Colombia",
 								"longitude": -77.2593,
 								"latitude": 7.641,
@@ -37707,7 +37707,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Colombia",
 								"longitude": -74.9545,
 								"latitude": 7.641,
@@ -37719,7 +37719,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Venezuela",
 								"longitude": -72.6497,
 								"latitude": 7.641,
@@ -37731,7 +37731,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Venezuela",
 								"longitude": -70.3449,
 								"latitude": 7.641,
@@ -37743,7 +37743,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Venezuela",
 								"longitude": -68.0401,
 								"latitude": 7.641,
@@ -37755,7 +37755,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Venezuela",
 								"longitude": -65.7353,
 								"latitude": 7.641,
@@ -37767,7 +37767,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Venezuela",
 								"longitude": -63.4305,
 								"latitude": 7.641,
@@ -37779,7 +37779,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Venezuela",
 								"longitude": -61.1257,
 								"latitude": 7.641,
@@ -37791,7 +37791,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Guyana",
 								"longitude": -58.8209,
 								"latitude": 7.641,
@@ -37803,7 +37803,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sierra Leone",
 								"longitude": -12.7248,
 								"latitude": 7.641,
@@ -37815,7 +37815,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Liberia",
 								"longitude": -10.42,
 								"latitude": 7.641,
@@ -37827,7 +37827,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Côte d'Ivoire",
 								"longitude": -8.1152,
 								"latitude": 7.641,
@@ -37839,7 +37839,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Côte d'Ivoire",
 								"longitude": -5.8104,
 								"latitude": 7.641,
@@ -37851,7 +37851,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Côte d'Ivoire",
 								"longitude": -3.5056,
 								"latitude": 7.641,
@@ -37863,7 +37863,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ghana",
 								"longitude": -1.2008,
 								"latitude": 7.641,
@@ -37875,7 +37875,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Togo",
 								"longitude": 1.104,
 								"latitude": 7.641,
@@ -37888,7 +37888,7 @@
 							},
 				
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Nigeria",
 								"longitude": 5.7136,
 								"latitude": 7.641,
@@ -37900,7 +37900,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Nigeria",
 								"longitude": 8.0184,
 								"latitude": 7.641,
@@ -37912,7 +37912,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Nigeria",
 								"longitude": 10.3232,
 								"latitude": 7.641,
@@ -37924,7 +37924,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Cameroon",
 								"longitude": 12.628,
 								"latitude": 7.641,
@@ -37936,7 +37936,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Cameroon",
 								"longitude": 14.9328,
 								"latitude": 7.641,
@@ -37948,7 +37948,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chad",
 								"longitude": 17.2376,
 								"latitude": 7.641,
@@ -37960,7 +37960,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Central African Republic",
 								"longitude": 19.5424,
 								"latitude": 7.641,
@@ -37972,7 +37972,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Central African Republic",
 								"longitude": 21.8472,
 								"latitude": 7.641,
@@ -37984,7 +37984,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Central African Republic",
 								"longitude": 24.152,
 								"latitude": 7.641,
@@ -37996,7 +37996,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "South Sudan",
 								"longitude": 26.4568,
 								"latitude": 7.641,
@@ -38008,7 +38008,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "South Sudan",
 								"longitude": 28.7616,
 								"latitude": 7.641,
@@ -38020,7 +38020,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "South Sudan",
 								"longitude": 31.0664,
 								"latitude": 7.641,
@@ -38032,7 +38032,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "South Sudan",
 								"longitude": 33.3712,
 								"latitude": 7.641,
@@ -38044,7 +38044,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ethiopia",
 								"longitude": 35.676,
 								"latitude": 7.641,
@@ -38056,7 +38056,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ethiopia",
 								"longitude": 37.9808,
 								"latitude": 7.641,
@@ -38068,7 +38068,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ethiopia",
 								"longitude": 40.2856,
 								"latitude": 7.641,
@@ -38080,7 +38080,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ethiopia",
 								"longitude": 42.5905,
 								"latitude": 7.641,
@@ -38092,7 +38092,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ethiopia",
 								"longitude": 44.8953,
 								"latitude": 7.641,
@@ -38104,7 +38104,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ethiopia",
 								"longitude": 47.2001,
 								"latitude": 7.641,
@@ -38116,7 +38116,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Somalia",
 								"longitude": 49.5049,
 								"latitude": 7.641,
@@ -38128,7 +38128,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Sri Lanka",
 								"longitude": 81.7721,
 								"latitude": 7.641,
@@ -38140,7 +38140,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Thailand",
 								"longitude": 100.2105,
 								"latitude": 7.641,
@@ -38152,7 +38152,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Philippines",
 								"longitude": 123.2585,
 								"latitude": 7.641,
@@ -38164,7 +38164,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Philippines",
 								"longitude": 125.5634,
 								"latitude": 7.641,
@@ -38176,7 +38176,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Colombia",
 								"longitude": -77.2593,
 								"latitude": 5.3385,
@@ -38188,7 +38188,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Colombia",
 								"longitude": -74.9545,
 								"latitude": 5.3385,
@@ -38200,7 +38200,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Colombia",
 								"longitude": -72.6497,
 								"latitude": 5.3385,
@@ -38212,7 +38212,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Colombia",
 								"longitude": -70.3449,
 								"latitude": 5.3385,
@@ -38224,7 +38224,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Colombia",
 								"longitude": -68.0401,
 								"latitude": 5.3385,
@@ -38236,7 +38236,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Venezuela",
 								"longitude": -65.7353,
 								"latitude": 5.3385,
@@ -38248,7 +38248,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Venezuela",
 								"longitude": -63.4305,
 								"latitude": 5.3385,
@@ -38260,7 +38260,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Venezuela",
 								"longitude": -61.1257,
 								"latitude": 5.3385,
@@ -38272,7 +38272,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Guyana",
 								"longitude": -58.8209,
 								"latitude": 5.3385,
@@ -38284,7 +38284,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Suriname",
 								"longitude": -56.5161,
 								"latitude": 5.3385,
@@ -38296,7 +38296,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Suriname",
 								"longitude": -54.2113,
 								"latitude": 5.3385,
@@ -38308,7 +38308,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Liberia",
 								"longitude": -8.1152,
 								"latitude": 5.3385,
@@ -38320,7 +38320,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Côte d'Ivoire",
 								"longitude": -5.8104,
 								"latitude": 5.3385,
@@ -38332,7 +38332,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Côte d'Ivoire",
 								"longitude": -3.5056,
 								"latitude": 5.3385,
@@ -38344,7 +38344,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ghana",
 								"longitude": -1.2008,
 								"latitude": 5.3385,
@@ -38356,7 +38356,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Nigeria",
 								"longitude": 5.7136,
 								"latitude": 5.3385,
@@ -38368,7 +38368,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Nigeria",
 								"longitude": 8.0184,
 								"latitude": 5.3385,
@@ -38380,7 +38380,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Cameroon",
 								"longitude": 10.3232,
 								"latitude": 5.3385,
@@ -38392,7 +38392,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Cameroon",
 								"longitude": 12.628,
 								"latitude": 5.3385,
@@ -38404,7 +38404,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Central African Republic",
 								"longitude": 14.9328,
 								"latitude": 5.3385,
@@ -38416,7 +38416,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Central African Republic",
 								"longitude": 17.2376,
 								"latitude": 5.3385,
@@ -38428,7 +38428,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Central African Republic",
 								"longitude": 19.5424,
 								"latitude": 5.3385,
@@ -38440,7 +38440,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Central African Republic",
 								"longitude": 21.8472,
 								"latitude": 5.3385,
@@ -38452,7 +38452,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Central African Republic",
 								"longitude": 24.152,
 								"latitude": 5.3385,
@@ -38464,7 +38464,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Central African Republic",
 								"longitude": 26.4568,
 								"latitude": 5.3385,
@@ -38476,7 +38476,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "South Sudan",
 								"longitude": 28.7616,
 								"latitude": 5.3385,
@@ -38488,7 +38488,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "South Sudan",
 								"longitude": 31.0664,
 								"latitude": 5.3385,
@@ -38500,7 +38500,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "South Sudan",
 								"longitude": 33.3712,
 								"latitude": 5.3385,
@@ -38512,7 +38512,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kenya",
 								"longitude": 35.676,
 								"latitude": 5.3385,
@@ -38524,7 +38524,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ethiopia",
 								"longitude": 37.9808,
 								"latitude": 5.3385,
@@ -38536,7 +38536,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ethiopia",
 								"longitude": 40.2856,
 								"latitude": 5.3385,
@@ -38548,7 +38548,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ethiopia",
 								"longitude": 42.5905,
 								"latitude": 5.3385,
@@ -38560,7 +38560,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ethiopia",
 								"longitude": 44.8953,
 								"latitude": 5.3385,
@@ -38572,7 +38572,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Somalia",
 								"longitude": 47.2001,
 								"latitude": 5.3385,
@@ -38584,7 +38584,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Indonesia",
 								"longitude": 95.6009,
 								"latitude": 5.3385,
@@ -38596,7 +38596,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Malaysia",
 								"longitude": 100.2105,
 								"latitude": 5.3385,
@@ -38608,7 +38608,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Malaysia",
 								"longitude": 102.5153,
 								"latitude": 5.3385,
@@ -38620,7 +38620,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Malaysia",
 								"longitude": 116.3441,
 								"latitude": 5.3385,
@@ -38632,7 +38632,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Malaysia",
 								"longitude": 118.6489,
 								"latitude": 5.3385,
@@ -38644,7 +38644,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Colombia",
 								"longitude": -77.2593,
 								"latitude": 3.0303,
@@ -38656,7 +38656,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Colombia",
 								"longitude": -74.9545,
 								"latitude": 3.0303,
@@ -38668,7 +38668,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Colombia",
 								"longitude": -72.6497,
 								"latitude": 3.0303,
@@ -38680,7 +38680,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Colombia",
 								"longitude": -70.3449,
 								"latitude": 3.0303,
@@ -38692,7 +38692,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Colombia",
 								"longitude": -68.0401,
 								"latitude": 3.0303,
@@ -38704,7 +38704,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Venezuela",
 								"longitude": -65.7353,
 								"latitude": 3.0303,
@@ -38716,7 +38716,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -63.4305,
 								"latitude": 3.0303,
@@ -38728,7 +38728,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -61.1257,
 								"latitude": 3.0303,
@@ -38740,7 +38740,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Guyana",
 								"longitude": -58.8209,
 								"latitude": 3.0303,
@@ -38752,7 +38752,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Suriname",
 								"longitude": -56.5161,
 								"latitude": 3.0303,
@@ -38764,7 +38764,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Suriname",
 								"longitude": -54.2113,
 								"latitude": 3.0303,
@@ -38776,7 +38776,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -51.9065,
 								"latitude": 3.0303,
@@ -38788,7 +38788,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Cameroon",
 								"longitude": 10.3232,
 								"latitude": 3.0303,
@@ -38800,7 +38800,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Cameroon",
 								"longitude": 12.628,
 								"latitude": 3.0303,
@@ -38812,7 +38812,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Cameroon",
 								"longitude": 14.9328,
 								"latitude": 3.0303,
@@ -38824,7 +38824,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Republic of Congo",
 								"longitude": 17.2376,
 								"latitude": 3.0303,
@@ -38836,7 +38836,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Democratic Republic of Congo",
 								"longitude": 19.5424,
 								"latitude": 3.0303,
@@ -38848,7 +38848,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Democratic Republic of Congo",
 								"longitude": 21.8472,
 								"latitude": 3.0303,
@@ -38860,7 +38860,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Democratic Republic of Congo",
 								"longitude": 24.152,
 								"latitude": 3.0303,
@@ -38872,7 +38872,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Democratic Republic of Congo",
 								"longitude": 26.4568,
 								"latitude": 3.0303,
@@ -38884,7 +38884,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Democratic Republic of Congo",
 								"longitude": 28.7616,
 								"latitude": 3.0303,
@@ -38896,7 +38896,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Uganda",
 								"longitude": 31.0664,
 								"latitude": 3.0303,
@@ -38908,7 +38908,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Uganda",
 								"longitude": 33.3712,
 								"latitude": 3.0303,
@@ -38920,7 +38920,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kenya",
 								"longitude": 35.676,
 								"latitude": 3.0303,
@@ -38932,7 +38932,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kenya",
 								"longitude": 37.9808,
 								"latitude": 3.0303,
@@ -38944,7 +38944,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kenya",
 								"longitude": 40.2856,
 								"latitude": 3.0303,
@@ -38956,7 +38956,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Somalia",
 								"longitude": 42.5905,
 								"latitude": 3.0303,
@@ -38968,7 +38968,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Somalia",
 								"longitude": 44.8953,
 								"latitude": 3.0303,
@@ -38980,7 +38980,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Indonesia",
 								"longitude": 97.9057,
 								"latitude": 3.0303,
@@ -38992,7 +38992,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Malaysia",
 								"longitude": 102.5153,
 								"latitude": 3.0303,
@@ -39004,7 +39004,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Malaysia",
 								"longitude": 114.0393,
 								"latitude": 3.0303,
@@ -39016,7 +39016,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Indonesia",
 								"longitude": 116.3441,
 								"latitude": 3.0303,
@@ -39028,7 +39028,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ecuador",
 								"longitude": -79.5641,
 								"latitude": 0.7191,
@@ -39040,7 +39040,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Colombia",
 								"longitude": -77.2593,
 								"latitude": 0.7191,
@@ -39052,7 +39052,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Colombia",
 								"longitude": -74.9545,
 								"latitude": 0.7191,
@@ -39064,7 +39064,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Colombia",
 								"longitude": -72.6497,
 								"latitude": 0.7191,
@@ -39076,7 +39076,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Colombia",
 								"longitude": -70.3449,
 								"latitude": 0.7191,
@@ -39088,7 +39088,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -68.0401,
 								"latitude": 0.7191,
@@ -39100,7 +39100,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Venezuela",
 								"longitude": -65.7353,
 								"latitude": 0.7191,
@@ -39112,7 +39112,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -63.4305,
 								"latitude": 0.7191,
@@ -39124,7 +39124,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -61.1257,
 								"latitude": 0.7191,
@@ -39136,7 +39136,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -58.8209,
 								"latitude": 0.7191,
@@ -39148,7 +39148,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -56.5161,
 								"latitude": 0.7191,
@@ -39160,7 +39160,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -54.2113,
 								"latitude": 0.7191,
@@ -39172,7 +39172,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -51.9065,
 								"latitude": 0.7191,
@@ -39184,7 +39184,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Gabon",
 								"longitude": 10.3232,
 								"latitude": 0.7191,
@@ -39196,7 +39196,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Gabon",
 								"longitude": 12.628,
 								"latitude": 0.7191,
@@ -39208,7 +39208,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Republic of Congo",
 								"longitude": 14.9328,
 								"latitude": 0.7191,
@@ -39220,7 +39220,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Republic of Congo",
 								"longitude": 17.2376,
 								"latitude": 0.7191,
@@ -39232,7 +39232,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Democratic Republic of Congo",
 								"longitude": 19.5424,
 								"latitude": 0.7191,
@@ -39244,7 +39244,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Democratic Republic of Congo",
 								"longitude": 21.8472,
 								"latitude": 0.7191,
@@ -39256,7 +39256,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Democratic Republic of Congo",
 								"longitude": 24.152,
 								"latitude": 0.7191,
@@ -39268,7 +39268,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Democratic Republic of Congo",
 								"longitude": 26.4568,
 								"latitude": 0.7191,
@@ -39280,7 +39280,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Democratic Republic of Congo",
 								"longitude": 28.7616,
 								"latitude": 0.7191,
@@ -39292,7 +39292,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Uganda",
 								"longitude": 31.0664,
 								"latitude": 0.7191,
@@ -39304,7 +39304,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Uganda",
 								"longitude": 33.3712,
 								"latitude": 0.7191,
@@ -39316,7 +39316,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kenya",
 								"longitude": 35.676,
 								"latitude": 0.7191,
@@ -39328,7 +39328,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kenya",
 								"longitude": 37.9808,
 								"latitude": 0.7191,
@@ -39340,7 +39340,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kenya",
 								"longitude": 40.2856,
 								"latitude": 0.7191,
@@ -39352,7 +39352,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Somalia",
 								"longitude": 42.5905,
 								"latitude": 0.7191,
@@ -39364,7 +39364,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Indonesia",
 								"longitude": 100.2105,
 								"latitude": 0.7191,
@@ -39376,7 +39376,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Indonesia",
 								"longitude": 102.5153,
 								"latitude": 0.7191,
@@ -39388,7 +39388,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Indonesia",
 								"longitude": 109.4297,
 								"latitude": 0.7191,
@@ -39400,7 +39400,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Indonesia",
 								"longitude": 111.7345,
 								"latitude": 0.7191,
@@ -39412,7 +39412,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Indonesia",
 								"longitude": 114.0393,
 								"latitude": 0.7191,
@@ -39424,7 +39424,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Indonesia",
 								"longitude": 116.3441,
 								"latitude": 0.7191,
@@ -39436,7 +39436,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Indonesia",
 								"longitude": 120.9537,
 								"latitude": 0.7191,
@@ -39448,7 +39448,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Indonesia",
 								"longitude": 123.2585,
 								"latitude": 0.7191,
@@ -39460,7 +39460,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Indonesia",
 								"longitude": 127.8682,
 								"latitude": 0.7191,
@@ -39472,7 +39472,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ecuador",
 								"longitude": -79.5641,
 								"latitude": -1.593,
@@ -39484,7 +39484,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ecuador",
 								"longitude": -77.2593,
 								"latitude": -1.593,
@@ -39496,7 +39496,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Peru",
 								"longitude": -74.9545,
 								"latitude": -1.593,
@@ -39508,7 +39508,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Colombia",
 								"longitude": -72.6497,
 								"latitude": -1.593,
@@ -39520,7 +39520,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Colombia",
 								"longitude": -70.3449,
 								"latitude": -1.593,
@@ -39532,7 +39532,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -68.0401,
 								"latitude": -1.593,
@@ -39544,7 +39544,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -65.7353,
 								"latitude": -1.593,
@@ -39556,7 +39556,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -63.4305,
 								"latitude": -1.593,
@@ -39568,7 +39568,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -61.1257,
 								"latitude": -1.593,
@@ -39580,7 +39580,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -58.8209,
 								"latitude": -1.593,
@@ -39592,7 +39592,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -56.5161,
 								"latitude": -1.593,
@@ -39604,7 +39604,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -54.2113,
 								"latitude": -1.593,
@@ -39616,7 +39616,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -51.9065,
 								"latitude": -1.593,
@@ -39628,7 +39628,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -49.6017,
 								"latitude": -1.593,
@@ -39640,7 +39640,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -47.2969,
 								"latitude": -1.593,
@@ -39652,7 +39652,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -44.9921,
 								"latitude": -1.593,
@@ -39664,7 +39664,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Gabon",
 								"longitude": 10.3232,
 								"latitude": -1.593,
@@ -39676,7 +39676,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Gabon",
 								"longitude": 12.628,
 								"latitude": -1.593,
@@ -39688,7 +39688,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Republic of Congo",
 								"longitude": 14.9328,
 								"latitude": -1.593,
@@ -39700,7 +39700,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Democratic Republic of Congo",
 								"longitude": 17.2376,
 								"latitude": -1.593,
@@ -39712,7 +39712,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Democratic Republic of Congo",
 								"longitude": 19.5424,
 								"latitude": -1.593,
@@ -39724,7 +39724,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Democratic Republic of Congo",
 								"longitude": 21.8472,
 								"latitude": -1.593,
@@ -39736,7 +39736,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Democratic Republic of Congo",
 								"longitude": 24.152,
 								"latitude": -1.593,
@@ -39748,7 +39748,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Democratic Republic of Congo",
 								"longitude": 26.4568,
 								"latitude": -1.593,
@@ -39760,7 +39760,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Democratic Republic of Congo",
 								"longitude": 28.7616,
 								"latitude": -1.593,
@@ -39772,7 +39772,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Tanzania",
 								"longitude": 31.0664,
 								"latitude": -1.593,
@@ -39784,7 +39784,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Tanzania",
 								"longitude": 33.3712,
 								"latitude": -1.593,
@@ -39796,7 +39796,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kenya",
 								"longitude": 35.676,
 								"latitude": -1.593,
@@ -39808,7 +39808,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kenya",
 								"longitude": 37.9808,
 								"latitude": -1.593,
@@ -39820,7 +39820,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Kenya",
 								"longitude": 40.2856,
 								"latitude": -1.593,
@@ -39832,7 +39832,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Indonesia",
 								"longitude": 102.5153,
 								"latitude": -1.593,
@@ -39844,7 +39844,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Indonesia",
 								"longitude": 111.7345,
 								"latitude": -1.593,
@@ -39856,7 +39856,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Indonesia",
 								"longitude": 114.0393,
 								"latitude": -1.593,
@@ -39868,7 +39868,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Indonesia",
 								"longitude": 116.3441,
 								"latitude": -1.593,
@@ -39880,7 +39880,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Indonesia",
 								"longitude": 120.9537,
 								"latitude": -1.593,
@@ -39892,7 +39892,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Indonesia",
 								"longitude": 132.4778,
 								"latitude": -1.593,
@@ -39904,7 +39904,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Ecuador",
 								"longitude": -79.5641,
 								"latitude": -3.9033,
@@ -39916,7 +39916,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Peru",
 								"longitude": -77.2593,
 								"latitude": -3.9033,
@@ -39928,7 +39928,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Peru",
 								"longitude": -74.9545,
 								"latitude": -3.9033,
@@ -39940,7 +39940,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Peru",
 								"longitude": -72.6497,
 								"latitude": -3.9033,
@@ -39952,7 +39952,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Peru",
 								"longitude": -70.3449,
 								"latitude": -3.9033,
@@ -39964,7 +39964,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -68.0401,
 								"latitude": -3.9033,
@@ -39976,7 +39976,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -65.7353,
 								"latitude": -3.9033,
@@ -39988,7 +39988,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -63.4305,
 								"latitude": -3.9033,
@@ -40000,7 +40000,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -61.1257,
 								"latitude": -3.9033,
@@ -40012,7 +40012,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -58.8209,
 								"latitude": -3.9033,
@@ -40024,7 +40024,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -56.5161,
 								"latitude": -3.9033,
@@ -40036,7 +40036,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -54.2113,
 								"latitude": -3.9033,
@@ -40048,7 +40048,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -51.9065,
 								"latitude": -3.9033,
@@ -40060,7 +40060,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -49.6017,
 								"latitude": -3.9033,
@@ -40072,7 +40072,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -47.2969,
 								"latitude": -3.9033,
@@ -40084,7 +40084,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -44.9921,
 								"latitude": -3.9033,
@@ -40096,7 +40096,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -42.6873,
 								"latitude": -3.9033,
@@ -40108,7 +40108,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -40.3824,
 								"latitude": -3.9033,
@@ -40120,7 +40120,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -38.0776,
 								"latitude": -3.9033,
@@ -40132,7 +40132,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Republic of Congo",
 								"longitude": 12.628,
 								"latitude": -3.9033,
@@ -40144,7 +40144,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Republic of Congo",
 								"longitude": 14.9328,
 								"latitude": -3.9033,
@@ -40156,7 +40156,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Democratic Republic of Congo",
 								"longitude": 17.2376,
 								"latitude": -3.9033,
@@ -40168,7 +40168,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Democratic Republic of Congo",
 								"longitude": 19.5424,
 								"latitude": -3.9033,
@@ -40180,7 +40180,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Democratic Republic of Congo",
 								"longitude": 21.8472,
 								"latitude": -3.9033,
@@ -40192,7 +40192,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Democratic Republic of Congo",
 								"longitude": 24.152,
 								"latitude": -3.9033,
@@ -40204,7 +40204,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Democratic Republic of Congo",
 								"longitude": 26.4568,
 								"latitude": -3.9033,
@@ -40216,7 +40216,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Democratic Republic of Congo",
 								"longitude": 28.7616,
 								"latitude": -3.9033,
@@ -40228,7 +40228,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Tanzania",
 								"longitude": 31.0664,
 								"latitude": -3.9033,
@@ -40240,7 +40240,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Tanzania",
 								"longitude": 33.3712,
 								"latitude": -3.9033,
@@ -40252,7 +40252,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Tanzania",
 								"longitude": 35.676,
 								"latitude": -3.9033,
@@ -40264,7 +40264,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Tanzania",
 								"longitude": 37.9808,
 								"latitude": -3.9033,
@@ -40276,7 +40276,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Indonesia",
 								"longitude": 102.5153,
 								"latitude": -3.9033,
@@ -40288,7 +40288,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Indonesia",
 								"longitude": 104.8201,
 								"latitude": -3.9033,
@@ -40300,7 +40300,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Indonesia",
 								"longitude": 116.3441,
 								"latitude": -3.9033,
@@ -40312,7 +40312,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Indonesia",
 								"longitude": 134.7826,
 								"latitude": -3.9033,
@@ -40324,7 +40324,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Indonesia",
 								"longitude": 137.0874,
 								"latitude": -3.9033,
@@ -40336,7 +40336,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Indonesia",
 								"longitude": 139.3922,
 								"latitude": -3.9033,
@@ -40348,7 +40348,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Papua New Guinea",
 								"longitude": 141.697,
 								"latitude": -3.9033,
@@ -40360,7 +40360,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Papua New Guinea",
 								"longitude": 144.0018,
 								"latitude": -3.9033,
@@ -40372,7 +40372,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Papua New Guinea",
 								"longitude": 153.221,
 								"latitude": -3.9033,
@@ -40384,7 +40384,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Peru",
 								"longitude": -79.5641,
 								"latitude": -6.2097,
@@ -40396,7 +40396,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Peru",
 								"longitude": -77.2593,
 								"latitude": -6.2097,
@@ -40408,7 +40408,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Peru",
 								"longitude": -74.9545,
 								"latitude": -6.2097,
@@ -40420,7 +40420,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -72.6497,
 								"latitude": -6.2097,
@@ -40432,7 +40432,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -70.3449,
 								"latitude": -6.2097,
@@ -40444,7 +40444,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -68.0401,
 								"latitude": -6.2097,
@@ -40456,7 +40456,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -65.7353,
 								"latitude": -6.2097,
@@ -40468,7 +40468,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -63.4305,
 								"latitude": -6.2097,
@@ -40480,7 +40480,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -61.1257,
 								"latitude": -6.2097,
@@ -40492,7 +40492,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -58.8209,
 								"latitude": -6.2097,
@@ -40504,7 +40504,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -56.5161,
 								"latitude": -6.2097,
@@ -40516,7 +40516,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -54.2113,
 								"latitude": -6.2097,
@@ -40528,7 +40528,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -51.9065,
 								"latitude": -6.2097,
@@ -40540,7 +40540,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -49.6017,
 								"latitude": -6.2097,
@@ -40552,7 +40552,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -47.2969,
 								"latitude": -6.2097,
@@ -40564,7 +40564,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -44.9921,
 								"latitude": -6.2097,
@@ -40576,7 +40576,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -42.6873,
 								"latitude": -6.2097,
@@ -40588,7 +40588,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -40.3824,
 								"latitude": -6.2097,
@@ -40600,7 +40600,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -38.0776,
 								"latitude": -6.2097,
@@ -40612,7 +40612,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -35.7728,
 								"latitude": -6.2097,
@@ -40624,7 +40624,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Angola",
 								"longitude": 12.628,
 								"latitude": -6.2097,
@@ -40636,7 +40636,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Angola",
 								"longitude": 14.9328,
 								"latitude": -6.2097,
@@ -40648,7 +40648,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Democratic Republic of Congo",
 								"longitude": 17.2376,
 								"latitude": -6.2097,
@@ -40660,7 +40660,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Democratic Republic of Congo",
 								"longitude": 19.5424,
 								"latitude": -6.2097,
@@ -40672,7 +40672,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Democratic Republic of Congo",
 								"longitude": 21.8472,
 								"latitude": -6.2097,
@@ -40684,7 +40684,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Democratic Republic of Congo",
 								"longitude": 24.152,
 								"latitude": -6.2097,
@@ -40696,7 +40696,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Democratic Republic of Congo",
 								"longitude": 26.4568,
 								"latitude": -6.2097,
@@ -40708,7 +40708,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Democratic Republic of Congo",
 								"longitude": 28.7616,
 								"latitude": -6.2097,
@@ -40720,7 +40720,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Tanzania",
 								"longitude": 31.0664,
 								"latitude": -6.2097,
@@ -40732,7 +40732,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Tanzania",
 								"longitude": 33.3712,
 								"latitude": -6.2097,
@@ -40744,7 +40744,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Tanzania",
 								"longitude": 35.676,
 								"latitude": -6.2097,
@@ -40756,7 +40756,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Tanzania",
 								"longitude": 37.9808,
 								"latitude": -6.2097,
@@ -40768,7 +40768,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Indonesia",
 								"longitude": 107.1249,
 								"latitude": -6.2097,
@@ -40780,7 +40780,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Indonesia",
 								"longitude": 134.7826,
 								"latitude": -6.2097,
@@ -40792,7 +40792,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Indonesia",
 								"longitude": 139.3922,
 								"latitude": -6.2097,
@@ -40804,7 +40804,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Papua New Guinea",
 								"longitude": 141.697,
 								"latitude": -6.2097,
@@ -40816,7 +40816,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Papua New Guinea",
 								"longitude": 144.0018,
 								"latitude": -6.2097,
@@ -40828,7 +40828,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Papua New Guinea",
 								"longitude": 146.3066,
 								"latitude": -6.2097,
@@ -40840,7 +40840,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Papua New Guinea",
 								"longitude": 155.5258,
 								"latitude": -6.2097,
@@ -40852,7 +40852,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Peru",
 								"longitude": -77.2593,
 								"latitude": -8.5095,
@@ -40864,7 +40864,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Peru",
 								"longitude": -74.9545,
 								"latitude": -8.5095,
@@ -40876,7 +40876,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -72.6497,
 								"latitude": -8.5095,
@@ -40888,7 +40888,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -70.3449,
 								"latitude": -8.5095,
@@ -40900,7 +40900,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -68.0401,
 								"latitude": -8.5095,
@@ -40912,7 +40912,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -65.7353,
 								"latitude": -8.5095,
@@ -40924,7 +40924,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -63.4305,
 								"latitude": -8.5095,
@@ -40936,7 +40936,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -61.1257,
 								"latitude": -8.5095,
@@ -40948,7 +40948,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -58.8209,
 								"latitude": -8.5095,
@@ -40960,7 +40960,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -56.5161,
 								"latitude": -8.5095,
@@ -40972,7 +40972,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -54.2113,
 								"latitude": -8.5095,
@@ -40984,7 +40984,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -51.9065,
 								"latitude": -8.5095,
@@ -40996,7 +40996,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -49.6017,
 								"latitude": -8.5095,
@@ -41008,7 +41008,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -47.2969,
 								"latitude": -8.5095,
@@ -41020,7 +41020,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -44.9921,
 								"latitude": -8.5095,
@@ -41032,7 +41032,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -42.6873,
 								"latitude": -8.5095,
@@ -41044,7 +41044,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -40.3824,
 								"latitude": -8.5095,
@@ -41056,7 +41056,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -38.0776,
 								"latitude": -8.5095,
@@ -41068,7 +41068,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -35.7728,
 								"latitude": -8.5095,
@@ -41080,7 +41080,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Angola",
 								"longitude": 14.9328,
 								"latitude": -8.5095,
@@ -41092,7 +41092,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Angola",
 								"longitude": 17.2376,
 								"latitude": -8.5095,
@@ -41104,7 +41104,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Angola",
 								"longitude": 19.5424,
 								"latitude": -8.5095,
@@ -41116,7 +41116,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Democratic Republic of Congo",
 								"longitude": 21.8472,
 								"latitude": -8.5095,
@@ -41128,7 +41128,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Democratic Republic of Congo",
 								"longitude": 24.152,
 								"latitude": -8.5095,
@@ -41140,7 +41140,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Democratic Republic of Congo",
 								"longitude": 26.4568,
 								"latitude": -8.5095,
@@ -41152,7 +41152,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Zambia",
 								"longitude": 28.7616,
 								"latitude": -8.5095,
@@ -41164,7 +41164,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Zambia",
 								"longitude": 31.0664,
 								"latitude": -8.5095,
@@ -41176,7 +41176,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Tanzania",
 								"longitude": 33.3712,
 								"latitude": -8.5095,
@@ -41188,7 +41188,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Tanzania",
 								"longitude": 35.676,
 								"latitude": -8.5095,
@@ -41200,7 +41200,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Tanzania",
 								"longitude": 37.9808,
 								"latitude": -8.5095,
@@ -41212,7 +41212,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Indonesia",
 								"longitude": 114.0393,
 								"latitude": -8.5095,
@@ -41224,7 +41224,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Indonesia",
 								"longitude": 118.6489,
 								"latitude": -8.5095,
@@ -41236,7 +41236,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Indonesia",
 								"longitude": 120.9537,
 								"latitude": -8.5095,
@@ -41248,7 +41248,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Timor-Leste",
 								"longitude": 125.5634,
 								"latitude": -8.5095,
@@ -41260,7 +41260,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Papua New Guinea",
 								"longitude": 141.697,
 								"latitude": -8.5095,
@@ -41272,7 +41272,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Papua New Guinea",
 								"longitude": 148.6114,
 								"latitude": -8.5095,
@@ -41284,7 +41284,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Solomon Islands",
 								"longitude": 160.1354,
 								"latitude": -8.5095,
@@ -41296,7 +41296,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Peru",
 								"longitude": -77.2593,
 								"latitude": -10.8006,
@@ -41308,7 +41308,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Peru",
 								"longitude": -74.9545,
 								"latitude": -10.8006,
@@ -41320,7 +41320,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Peru",
 								"longitude": -72.6497,
 								"latitude": -10.8006,
@@ -41332,7 +41332,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -70.3449,
 								"latitude": -10.8006,
@@ -41344,7 +41344,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -68.0401,
 								"latitude": -10.8006,
@@ -41356,7 +41356,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Bolivia",
 								"longitude": -65.7353,
 								"latitude": -10.8006,
@@ -41368,7 +41368,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -63.4305,
 								"latitude": -10.8006,
@@ -41380,7 +41380,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -61.1257,
 								"latitude": -10.8006,
@@ -41392,7 +41392,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -58.8209,
 								"latitude": -10.8006,
@@ -41404,7 +41404,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -56.5161,
 								"latitude": -10.8006,
@@ -41416,7 +41416,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -54.2113,
 								"latitude": -10.8006,
@@ -41428,7 +41428,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -51.9065,
 								"latitude": -10.8006,
@@ -41440,7 +41440,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -49.6017,
 								"latitude": -10.8006,
@@ -41452,7 +41452,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -47.2969,
 								"latitude": -10.8006,
@@ -41464,7 +41464,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -44.9921,
 								"latitude": -10.8006,
@@ -41476,7 +41476,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -42.6873,
 								"latitude": -10.8006,
@@ -41488,7 +41488,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -40.3824,
 								"latitude": -10.8006,
@@ -41500,7 +41500,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -38.0776,
 								"latitude": -10.8006,
@@ -41512,7 +41512,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Angola",
 								"longitude": 14.9328,
 								"latitude": -10.8006,
@@ -41524,7 +41524,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Angola",
 								"longitude": 17.2376,
 								"latitude": -10.8006,
@@ -41536,7 +41536,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Angola",
 								"longitude": 19.5424,
 								"latitude": -10.8006,
@@ -41548,7 +41548,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Angola",
 								"longitude": 21.8472,
 								"latitude": -10.8006,
@@ -41560,7 +41560,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Zambia",
 								"longitude": 24.152,
 								"latitude": -10.8006,
@@ -41572,7 +41572,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Democratic Republic of Congo",
 								"longitude": 26.4568,
 								"latitude": -10.8006,
@@ -41584,7 +41584,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Zambia",
 								"longitude": 28.7616,
 								"latitude": -10.8006,
@@ -41596,7 +41596,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Zambia",
 								"longitude": 31.0664,
 								"latitude": -10.8006,
@@ -41608,7 +41608,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Zambia",
 								"longitude": 33.3712,
 								"latitude": -10.8006,
@@ -41620,7 +41620,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Tanzania",
 								"longitude": 35.676,
 								"latitude": -10.8006,
@@ -41632,7 +41632,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Tanzania",
 								"longitude": 37.9808,
 								"latitude": -10.8006,
@@ -41644,7 +41644,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mozambique",
 								"longitude": 40.2856,
 								"latitude": -10.8006,
@@ -41656,7 +41656,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Solomon Islands",
 								"longitude": 162.4402,
 								"latitude": -10.8006,
@@ -41668,7 +41668,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Peru",
 								"longitude": -74.9545,
 								"latitude": -13.0806,
@@ -41680,7 +41680,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Peru",
 								"longitude": -72.6497,
 								"latitude": -13.0806,
@@ -41692,7 +41692,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Peru",
 								"longitude": -70.3449,
 								"latitude": -13.0806,
@@ -41704,7 +41704,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Bolivia",
 								"longitude": -68.0401,
 								"latitude": -13.0806,
@@ -41716,7 +41716,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Bolivia",
 								"longitude": -65.7353,
 								"latitude": -13.0806,
@@ -41728,7 +41728,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Bolivia",
 								"longitude": -63.4305,
 								"latitude": -13.0806,
@@ -41740,7 +41740,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -61.1257,
 								"latitude": -13.0806,
@@ -41752,7 +41752,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -58.8209,
 								"latitude": -13.0806,
@@ -41764,7 +41764,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -56.5161,
 								"latitude": -13.0806,
@@ -41776,7 +41776,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -54.2113,
 								"latitude": -13.0806,
@@ -41788,7 +41788,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -51.9065,
 								"latitude": -13.0806,
@@ -41800,7 +41800,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -49.6017,
 								"latitude": -13.0806,
@@ -41812,7 +41812,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -47.2969,
 								"latitude": -13.0806,
@@ -41824,7 +41824,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -44.9921,
 								"latitude": -13.0806,
@@ -41836,7 +41836,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -42.6873,
 								"latitude": -13.0806,
@@ -41848,7 +41848,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -40.3824,
 								"latitude": -13.0806,
@@ -41860,7 +41860,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Angola",
 								"longitude": 12.628,
 								"latitude": -13.0806,
@@ -41872,7 +41872,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Angola",
 								"longitude": 14.9328,
 								"latitude": -13.0806,
@@ -41884,7 +41884,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Angola",
 								"longitude": 17.2376,
 								"latitude": -13.0806,
@@ -41896,7 +41896,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Angola",
 								"longitude": 19.5424,
 								"latitude": -13.0806,
@@ -41908,7 +41908,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Zambia",
 								"longitude": 21.8472,
 								"latitude": -13.0806,
@@ -41920,7 +41920,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Zambia",
 								"longitude": 24.152,
 								"latitude": -13.0806,
@@ -41932,7 +41932,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Zambia",
 								"longitude": 26.4568,
 								"latitude": -13.0806,
@@ -41944,7 +41944,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Zambia",
 								"longitude": 28.7616,
 								"latitude": -13.0806,
@@ -41956,7 +41956,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Zambia",
 								"longitude": 31.0664,
 								"latitude": -13.0806,
@@ -41968,7 +41968,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Malawi",
 								"longitude": 33.3712,
 								"latitude": -13.0806,
@@ -41980,7 +41980,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mozambique",
 								"longitude": 35.676,
 								"latitude": -13.0806,
@@ -41992,7 +41992,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mozambique",
 								"longitude": 37.9808,
 								"latitude": -13.0806,
@@ -42004,7 +42004,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mozambique",
 								"longitude": 40.2856,
 								"latitude": -13.0806,
@@ -42016,7 +42016,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Madagascar",
 								"longitude": 49.5049,
 								"latitude": -13.0806,
@@ -42028,7 +42028,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 130.173,
 								"latitude": -13.0806,
@@ -42040,7 +42040,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 132.4778,
 								"latitude": -13.0806,
@@ -42052,7 +42052,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 134.7826,
 								"latitude": -13.0806,
@@ -42064,7 +42064,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 141.697,
 								"latitude": -13.0806,
@@ -42076,7 +42076,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Peru",
 								"longitude": -74.9545,
 								"latitude": -15.3473,
@@ -42088,7 +42088,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Peru",
 								"longitude": -72.6497,
 								"latitude": -15.3473,
@@ -42100,7 +42100,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Peru",
 								"longitude": -70.3449,
 								"latitude": -15.3473,
@@ -42112,7 +42112,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Bolivia",
 								"longitude": -68.0401,
 								"latitude": -15.3473,
@@ -42124,7 +42124,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Bolivia",
 								"longitude": -65.7353,
 								"latitude": -15.3473,
@@ -42136,7 +42136,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Bolivia",
 								"longitude": -63.4305,
 								"latitude": -15.3473,
@@ -42148,7 +42148,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Bolivia",
 								"longitude": -61.1257,
 								"latitude": -15.3473,
@@ -42160,7 +42160,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -58.8209,
 								"latitude": -15.3473,
@@ -42172,7 +42172,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -56.5161,
 								"latitude": -15.3473,
@@ -42184,7 +42184,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -54.2113,
 								"latitude": -15.3473,
@@ -42196,7 +42196,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -51.9065,
 								"latitude": -15.3473,
@@ -42208,7 +42208,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -49.6017,
 								"latitude": -15.3473,
@@ -42220,7 +42220,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -47.2969,
 								"latitude": -15.3473,
@@ -42232,7 +42232,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -44.9921,
 								"latitude": -15.3473,
@@ -42244,7 +42244,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -42.6873,
 								"latitude": -15.3473,
@@ -42256,7 +42256,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -40.3824,
 								"latitude": -15.3473,
@@ -42268,7 +42268,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Angola",
 								"longitude": 12.628,
 								"latitude": -15.3473,
@@ -42280,7 +42280,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Angola",
 								"longitude": 14.9328,
 								"latitude": -15.3473,
@@ -42292,7 +42292,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Angola",
 								"longitude": 17.2376,
 								"latitude": -15.3473,
@@ -42304,7 +42304,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Angola",
 								"longitude": 19.5424,
 								"latitude": -15.3473,
@@ -42316,7 +42316,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Zambia",
 								"longitude": 21.8472,
 								"latitude": -15.3473,
@@ -42328,7 +42328,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Zambia",
 								"longitude": 24.152,
 								"latitude": -15.3473,
@@ -42340,7 +42340,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Zambia",
 								"longitude": 26.4568,
 								"latitude": -15.3473,
@@ -42352,7 +42352,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Zambia",
 								"longitude": 28.7616,
 								"latitude": -15.3473,
@@ -42364,7 +42364,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mozambique",
 								"longitude": 31.0664,
 								"latitude": -15.3473,
@@ -42376,7 +42376,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mozambique",
 								"longitude": 33.3712,
 								"latitude": -15.3473,
@@ -42388,7 +42388,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mozambique",
 								"longitude": 35.676,
 								"latitude": -15.3473,
@@ -42400,7 +42400,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mozambique",
 								"longitude": 37.9808,
 								"latitude": -15.3473,
@@ -42412,7 +42412,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mozambique",
 								"longitude": 40.2856,
 								"latitude": -15.3473,
@@ -42424,7 +42424,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Madagascar",
 								"longitude": 47.2001,
 								"latitude": -15.3473,
@@ -42436,7 +42436,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Madagascar",
 								"longitude": 49.5049,
 								"latitude": -15.3473,
@@ -42448,7 +42448,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 125.5634,
 								"latitude": -15.3473,
@@ -42460,7 +42460,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 127.8682,
 								"latitude": -15.3473,
@@ -42472,7 +42472,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 130.173,
 								"latitude": -15.3473,
@@ -42484,7 +42484,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 132.4778,
 								"latitude": -15.3473,
@@ -42496,7 +42496,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 134.7826,
 								"latitude": -15.3473,
@@ -42508,7 +42508,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 141.697,
 								"latitude": -15.3473,
@@ -42520,7 +42520,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 144.0018,
 								"latitude": -15.3473,
@@ -42532,7 +42532,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Vanuatu",
 								"longitude": 167.0498,
 								"latitude": -15.3473,
@@ -42544,7 +42544,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Peru",
 								"longitude": -70.3449,
 								"latitude": -17.5985,
@@ -42556,7 +42556,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Bolivia",
 								"longitude": -68.0401,
 								"latitude": -17.5985,
@@ -42568,7 +42568,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Bolivia",
 								"longitude": -65.7353,
 								"latitude": -17.5985,
@@ -42580,7 +42580,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Bolivia",
 								"longitude": -63.4305,
 								"latitude": -17.5985,
@@ -42592,7 +42592,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Bolivia",
 								"longitude": -61.1257,
 								"latitude": -17.5985,
@@ -42604,7 +42604,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Bolivia",
 								"longitude": -58.8209,
 								"latitude": -17.5985,
@@ -42616,7 +42616,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -56.5161,
 								"latitude": -17.5985,
@@ -42628,7 +42628,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -54.2113,
 								"latitude": -17.5985,
@@ -42640,7 +42640,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -51.9065,
 								"latitude": -17.5985,
@@ -42652,7 +42652,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -49.6017,
 								"latitude": -17.5985,
@@ -42664,7 +42664,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -47.2969,
 								"latitude": -17.5985,
@@ -42676,7 +42676,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -44.9921,
 								"latitude": -17.5985,
@@ -42688,7 +42688,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -42.6873,
 								"latitude": -17.5985,
@@ -42700,7 +42700,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -40.3824,
 								"latitude": -17.5985,
@@ -42712,7 +42712,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Namibia",
 								"longitude": 12.628,
 								"latitude": -17.5985,
@@ -42724,7 +42724,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Namibia",
 								"longitude": 14.9328,
 								"latitude": -17.5985,
@@ -42736,7 +42736,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Namibia",
 								"longitude": 17.2376,
 								"latitude": -17.5985,
@@ -42748,7 +42748,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Namibia",
 								"longitude": 19.5424,
 								"latitude": -17.5985,
@@ -42760,7 +42760,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Namibia",
 								"longitude": 21.8472,
 								"latitude": -17.5985,
@@ -42772,7 +42772,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Namibia",
 								"longitude": 24.152,
 								"latitude": -17.5985,
@@ -42784,7 +42784,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Zambia",
 								"longitude": 26.4568,
 								"latitude": -17.5985,
@@ -42796,7 +42796,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Zimbabwe",
 								"longitude": 28.7616,
 								"latitude": -17.5985,
@@ -42808,7 +42808,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Zimbabwe",
 								"longitude": 31.0664,
 								"latitude": -17.5985,
@@ -42820,7 +42820,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mozambique",
 								"longitude": 33.3712,
 								"latitude": -17.5985,
@@ -42832,7 +42832,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mozambique",
 								"longitude": 35.676,
 								"latitude": -17.5985,
@@ -42844,7 +42844,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Madagascar",
 								"longitude": 44.8953,
 								"latitude": -17.5985,
@@ -42856,7 +42856,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Madagascar",
 								"longitude": 47.2001,
 								"latitude": -17.5985,
@@ -42868,7 +42868,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Madagascar",
 								"longitude": 49.5049,
 								"latitude": -17.5985,
@@ -42880,7 +42880,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 123.2585,
 								"latitude": -17.5985,
@@ -42892,7 +42892,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 125.5634,
 								"latitude": -17.5985,
@@ -42904,7 +42904,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 127.8682,
 								"latitude": -17.5985,
@@ -42916,7 +42916,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 130.173,
 								"latitude": -17.5985,
@@ -42928,7 +42928,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 132.4778,
 								"latitude": -17.5985,
@@ -42940,7 +42940,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 134.7826,
 								"latitude": -17.5985,
@@ -42952,7 +42952,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 137.0874,
 								"latitude": -17.5985,
@@ -42964,7 +42964,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 139.3922,
 								"latitude": -17.5985,
@@ -42976,7 +42976,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 141.697,
 								"latitude": -17.5985,
@@ -42988,7 +42988,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 144.0018,
 								"latitude": -17.5985,
@@ -43000,7 +43000,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 146.3066,
 								"latitude": -17.5985,
@@ -43012,7 +43012,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Fiji",
 								"longitude": 178.5738,
 								"latitude": -17.5985,
@@ -43024,7 +43024,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Bolivia",
 								"longitude": -68.0401,
 								"latitude": -19.8321,
@@ -43036,7 +43036,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Bolivia",
 								"longitude": -65.7353,
 								"latitude": -19.8321,
@@ -43048,7 +43048,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Bolivia",
 								"longitude": -63.4305,
 								"latitude": -19.8321,
@@ -43060,7 +43060,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Paraguay",
 								"longitude": -61.1257,
 								"latitude": -19.8321,
@@ -43072,7 +43072,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Paraguay",
 								"longitude": -58.8209,
 								"latitude": -19.8321,
@@ -43084,7 +43084,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -56.5161,
 								"latitude": -19.8321,
@@ -43096,7 +43096,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -54.2113,
 								"latitude": -19.8321,
@@ -43108,7 +43108,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -51.9065,
 								"latitude": -19.8321,
@@ -43120,7 +43120,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -49.6017,
 								"latitude": -19.8321,
@@ -43132,7 +43132,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -47.2969,
 								"latitude": -19.8321,
@@ -43144,7 +43144,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -44.9921,
 								"latitude": -19.8321,
@@ -43156,7 +43156,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -42.6873,
 								"latitude": -19.8321,
@@ -43168,7 +43168,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -40.3824,
 								"latitude": -19.8321,
@@ -43180,7 +43180,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Namibia",
 								"longitude": 14.9328,
 								"latitude": -19.8321,
@@ -43192,7 +43192,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Namibia",
 								"longitude": 17.2376,
 								"latitude": -19.8321,
@@ -43204,7 +43204,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Namibia",
 								"longitude": 19.5424,
 								"latitude": -19.8321,
@@ -43216,7 +43216,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Botswana",
 								"longitude": 21.8472,
 								"latitude": -19.8321,
@@ -43228,7 +43228,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Botswana",
 								"longitude": 24.152,
 								"latitude": -19.8321,
@@ -43240,7 +43240,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Botswana",
 								"longitude": 26.4568,
 								"latitude": -19.8321,
@@ -43252,7 +43252,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Zimbabwe",
 								"longitude": 28.7616,
 								"latitude": -19.8321,
@@ -43264,7 +43264,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Zimbabwe",
 								"longitude": 31.0664,
 								"latitude": -19.8321,
@@ -43276,7 +43276,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mozambique",
 								"longitude": 33.3712,
 								"latitude": -19.8321,
@@ -43288,7 +43288,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Madagascar",
 								"longitude": 44.8953,
 								"latitude": -19.8321,
@@ -43300,7 +43300,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Madagascar",
 								"longitude": 47.2001,
 								"latitude": -19.8321,
@@ -43312,7 +43312,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 120.9537,
 								"latitude": -19.8321,
@@ -43324,7 +43324,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 123.2585,
 								"latitude": -19.8321,
@@ -43336,7 +43336,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 125.5634,
 								"latitude": -19.8321,
@@ -43348,7 +43348,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 127.8682,
 								"latitude": -19.8321,
@@ -43360,7 +43360,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 130.173,
 								"latitude": -19.8321,
@@ -43372,7 +43372,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 132.4778,
 								"latitude": -19.8321,
@@ -43384,7 +43384,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 134.7826,
 								"latitude": -19.8321,
@@ -43396,7 +43396,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 137.0874,
 								"latitude": -19.8321,
@@ -43408,7 +43408,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 139.3922,
 								"latitude": -19.8321,
@@ -43420,7 +43420,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 141.697,
 								"latitude": -19.8321,
@@ -43432,7 +43432,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 144.0018,
 								"latitude": -19.8321,
@@ -43444,7 +43444,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 146.3066,
 								"latitude": -19.8321,
@@ -43456,7 +43456,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chile",
 								"longitude": -70.3449,
 								"latitude": -22.046,
@@ -43468,7 +43468,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chile",
 								"longitude": -68.0401,
 								"latitude": -22.046,
@@ -43480,7 +43480,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -65.7353,
 								"latitude": -22.046,
@@ -43492,7 +43492,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Bolivia",
 								"longitude": -63.4305,
 								"latitude": -22.046,
@@ -43504,7 +43504,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Paraguay",
 								"longitude": -61.1257,
 								"latitude": -22.046,
@@ -43516,7 +43516,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Paraguay",
 								"longitude": -58.8209,
 								"latitude": -22.046,
@@ -43528,7 +43528,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Paraguay",
 								"longitude": -56.5161,
 								"latitude": -22.046,
@@ -43540,7 +43540,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -54.2113,
 								"latitude": -22.046,
@@ -43552,7 +43552,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -51.9065,
 								"latitude": -22.046,
@@ -43564,7 +43564,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -49.6017,
 								"latitude": -22.046,
@@ -43576,7 +43576,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -47.2969,
 								"latitude": -22.046,
@@ -43588,7 +43588,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -44.9921,
 								"latitude": -22.046,
@@ -43600,7 +43600,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -42.6873,
 								"latitude": -22.046,
@@ -43612,7 +43612,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Namibia",
 								"longitude": 14.9328,
 								"latitude": -22.046,
@@ -43624,7 +43624,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Namibia",
 								"longitude": 17.2376,
 								"latitude": -22.046,
@@ -43636,7 +43636,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Namibia",
 								"longitude": 19.5424,
 								"latitude": -22.046,
@@ -43648,7 +43648,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Botswana",
 								"longitude": 21.8472,
 								"latitude": -22.046,
@@ -43660,7 +43660,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Botswana",
 								"longitude": 24.152,
 								"latitude": -22.046,
@@ -43672,7 +43672,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Botswana",
 								"longitude": 26.4568,
 								"latitude": -22.046,
@@ -43684,7 +43684,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Botswana",
 								"longitude": 28.7616,
 								"latitude": -22.046,
@@ -43696,7 +43696,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Zimbabwe",
 								"longitude": 31.0664,
 								"latitude": -22.046,
@@ -43708,7 +43708,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mozambique",
 								"longitude": 33.3712,
 								"latitude": -22.046,
@@ -43720,7 +43720,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mozambique",
 								"longitude": 35.676,
 								"latitude": -22.046,
@@ -43732,7 +43732,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Madagascar",
 								"longitude": 44.8953,
 								"latitude": -22.046,
@@ -43744,7 +43744,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Madagascar",
 								"longitude": 47.2001,
 								"latitude": -22.046,
@@ -43756,7 +43756,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 114.0393,
 								"latitude": -22.046,
@@ -43768,7 +43768,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 116.3441,
 								"latitude": -22.046,
@@ -43780,7 +43780,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 118.6489,
 								"latitude": -22.046,
@@ -43792,7 +43792,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 120.9537,
 								"latitude": -22.046,
@@ -43804,7 +43804,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 123.2585,
 								"latitude": -22.046,
@@ -43816,7 +43816,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 125.5634,
 								"latitude": -22.046,
@@ -43828,7 +43828,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 127.8682,
 								"latitude": -22.046,
@@ -43840,7 +43840,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 130.173,
 								"latitude": -22.046,
@@ -43852,7 +43852,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 132.4778,
 								"latitude": -22.046,
@@ -43864,7 +43864,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 134.7826,
 								"latitude": -22.046,
@@ -43876,7 +43876,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 137.0874,
 								"latitude": -22.046,
@@ -43888,7 +43888,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 139.3922,
 								"latitude": -22.046,
@@ -43900,7 +43900,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 141.697,
 								"latitude": -22.046,
@@ -43912,7 +43912,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 144.0018,
 								"latitude": -22.046,
@@ -43924,7 +43924,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 146.3066,
 								"latitude": -22.046,
@@ -43936,7 +43936,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 148.6114,
 								"latitude": -22.046,
@@ -43948,7 +43948,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "New Caledonia",
 								"longitude": 167.0498,
 								"latitude": -22.046,
@@ -43960,7 +43960,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chile",
 								"longitude": -70.3449,
 								"latitude": -24.2384,
@@ -43972,7 +43972,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chile",
 								"longitude": -68.0401,
 								"latitude": -24.2384,
@@ -43984,7 +43984,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -65.7353,
 								"latitude": -24.2384,
@@ -43996,7 +43996,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -63.4305,
 								"latitude": -24.2384,
@@ -44008,7 +44008,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -61.1257,
 								"latitude": -24.2384,
@@ -44020,7 +44020,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Paraguay",
 								"longitude": -58.8209,
 								"latitude": -24.2384,
@@ -44032,7 +44032,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Paraguay",
 								"longitude": -56.5161,
 								"latitude": -24.2384,
@@ -44044,7 +44044,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Paraguay",
 								"longitude": -54.2113,
 								"latitude": -24.2384,
@@ -44056,7 +44056,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -51.9065,
 								"latitude": -24.2384,
@@ -44068,7 +44068,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -49.6017,
 								"latitude": -24.2384,
@@ -44080,7 +44080,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -47.2969,
 								"latitude": -24.2384,
@@ -44092,7 +44092,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Namibia",
 								"longitude": 14.9328,
 								"latitude": -24.2384,
@@ -44104,7 +44104,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Namibia",
 								"longitude": 17.2376,
 								"latitude": -24.2384,
@@ -44116,7 +44116,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Namibia",
 								"longitude": 19.5424,
 								"latitude": -24.2384,
@@ -44128,7 +44128,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Botswana",
 								"longitude": 21.8472,
 								"latitude": -24.2384,
@@ -44140,7 +44140,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Botswana",
 								"longitude": 24.152,
 								"latitude": -24.2384,
@@ -44152,7 +44152,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Botswana",
 								"longitude": 26.4568,
 								"latitude": -24.2384,
@@ -44164,7 +44164,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "South Africa",
 								"longitude": 28.7616,
 								"latitude": -24.2384,
@@ -44176,7 +44176,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "South Africa",
 								"longitude": 31.0664,
 								"latitude": -24.2384,
@@ -44188,7 +44188,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Mozambique",
 								"longitude": 33.3712,
 								"latitude": -24.2384,
@@ -44200,7 +44200,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Madagascar",
 								"longitude": 44.8953,
 								"latitude": -24.2384,
@@ -44212,7 +44212,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Madagascar",
 								"longitude": 47.2001,
 								"latitude": -24.2384,
@@ -44224,7 +44224,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 114.0393,
 								"latitude": -24.2384,
@@ -44236,7 +44236,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 116.3441,
 								"latitude": -24.2384,
@@ -44248,7 +44248,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 118.6489,
 								"latitude": -24.2384,
@@ -44260,7 +44260,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 120.9537,
 								"latitude": -24.2384,
@@ -44272,7 +44272,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 123.2585,
 								"latitude": -24.2384,
@@ -44284,7 +44284,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 125.5634,
 								"latitude": -24.2384,
@@ -44296,7 +44296,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 127.8682,
 								"latitude": -24.2384,
@@ -44308,7 +44308,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 130.173,
 								"latitude": -24.2384,
@@ -44320,7 +44320,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 132.4778,
 								"latitude": -24.2384,
@@ -44332,7 +44332,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 134.7826,
 								"latitude": -24.2384,
@@ -44344,7 +44344,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 137.0874,
 								"latitude": -24.2384,
@@ -44356,7 +44356,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 139.3922,
 								"latitude": -24.2384,
@@ -44368,7 +44368,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 141.697,
 								"latitude": -24.2384,
@@ -44380,7 +44380,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 144.0018,
 								"latitude": -24.2384,
@@ -44392,7 +44392,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 146.3066,
 								"latitude": -24.2384,
@@ -44404,7 +44404,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 148.6114,
 								"latitude": -24.2384,
@@ -44416,7 +44416,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 150.9162,
 								"latitude": -24.2384,
@@ -44428,7 +44428,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chile",
 								"longitude": -70.3449,
 								"latitude": -26.4074,
@@ -44440,7 +44440,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -68.0401,
 								"latitude": -26.4074,
@@ -44452,7 +44452,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -65.7353,
 								"latitude": -26.4074,
@@ -44464,7 +44464,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -63.4305,
 								"latitude": -26.4074,
@@ -44476,7 +44476,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -61.1257,
 								"latitude": -26.4074,
@@ -44488,7 +44488,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -58.8209,
 								"latitude": -26.4074,
@@ -44500,7 +44500,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Paraguay",
 								"longitude": -56.5161,
 								"latitude": -26.4074,
@@ -44512,7 +44512,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -54.2113,
 								"latitude": -26.4074,
@@ -44524,7 +44524,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -51.9065,
 								"latitude": -26.4074,
@@ -44536,7 +44536,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -49.6017,
 								"latitude": -26.4074,
@@ -44548,7 +44548,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Namibia",
 								"longitude": 17.2376,
 								"latitude": -26.4074,
@@ -44560,7 +44560,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Namibia",
 								"longitude": 19.5424,
 								"latitude": -26.4074,
@@ -44572,7 +44572,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "South Africa",
 								"longitude": 21.8472,
 								"latitude": -26.4074,
@@ -44584,7 +44584,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "South Africa",
 								"longitude": 24.152,
 								"latitude": -26.4074,
@@ -44596,7 +44596,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "South Africa",
 								"longitude": 26.4568,
 								"latitude": -26.4074,
@@ -44608,7 +44608,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "South Africa",
 								"longitude": 28.7616,
 								"latitude": -26.4074,
@@ -44620,7 +44620,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Swaziland",
 								"longitude": 31.0664,
 								"latitude": -26.4074,
@@ -44632,7 +44632,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 114.0393,
 								"latitude": -26.4074,
@@ -44644,7 +44644,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 116.3441,
 								"latitude": -26.4074,
@@ -44656,7 +44656,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 118.6489,
 								"latitude": -26.4074,
@@ -44668,7 +44668,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 120.9537,
 								"latitude": -26.4074,
@@ -44680,7 +44680,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 123.2585,
 								"latitude": -26.4074,
@@ -44692,7 +44692,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 125.5634,
 								"latitude": -26.4074,
@@ -44704,7 +44704,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 127.8682,
 								"latitude": -26.4074,
@@ -44716,7 +44716,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 130.173,
 								"latitude": -26.4074,
@@ -44728,7 +44728,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 132.4778,
 								"latitude": -26.4074,
@@ -44740,7 +44740,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 134.7826,
 								"latitude": -26.4074,
@@ -44752,7 +44752,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 137.0874,
 								"latitude": -26.4074,
@@ -44764,7 +44764,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 139.3922,
 								"latitude": -26.4074,
@@ -44776,7 +44776,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 141.697,
 								"latitude": -26.4074,
@@ -44788,7 +44788,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 144.0018,
 								"latitude": -26.4074,
@@ -44800,7 +44800,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 146.3066,
 								"latitude": -26.4074,
@@ -44812,7 +44812,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 148.6114,
 								"latitude": -26.4074,
@@ -44824,7 +44824,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 150.9162,
 								"latitude": -26.4074,
@@ -44836,7 +44836,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 153.221,
 								"latitude": -26.4074,
@@ -44848,7 +44848,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chile",
 								"longitude": -70.3449,
 								"latitude": -28.5514,
@@ -44860,7 +44860,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -68.0401,
 								"latitude": -28.5514,
@@ -44872,7 +44872,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -65.7353,
 								"latitude": -28.5514,
@@ -44884,7 +44884,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -63.4305,
 								"latitude": -28.5514,
@@ -44896,7 +44896,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -61.1257,
 								"latitude": -28.5514,
@@ -44908,7 +44908,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -58.8209,
 								"latitude": -28.5514,
@@ -44920,7 +44920,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -56.5161,
 								"latitude": -28.5514,
@@ -44932,7 +44932,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -54.2113,
 								"latitude": -28.5514,
@@ -44944,7 +44944,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -51.9065,
 								"latitude": -28.5514,
@@ -44956,7 +44956,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -49.6017,
 								"latitude": -28.5514,
@@ -44968,7 +44968,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "South Africa",
 								"longitude": 17.2376,
 								"latitude": -28.5514,
@@ -44980,7 +44980,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "South Africa",
 								"longitude": 19.5424,
 								"latitude": -28.5514,
@@ -44992,7 +44992,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "South Africa",
 								"longitude": 21.8472,
 								"latitude": -28.5514,
@@ -45004,7 +45004,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "South Africa",
 								"longitude": 24.152,
 								"latitude": -28.5514,
@@ -45016,7 +45016,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "South Africa",
 								"longitude": 26.4568,
 								"latitude": -28.5514,
@@ -45028,7 +45028,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "South Africa",
 								"longitude": 28.7616,
 								"latitude": -28.5514,
@@ -45040,7 +45040,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "South Africa",
 								"longitude": 31.0664,
 								"latitude": -28.5514,
@@ -45052,7 +45052,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 116.3441,
 								"latitude": -28.5514,
@@ -45064,7 +45064,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 118.6489,
 								"latitude": -28.5514,
@@ -45076,7 +45076,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 120.9537,
 								"latitude": -28.5514,
@@ -45088,7 +45088,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 123.2585,
 								"latitude": -28.5514,
@@ -45100,7 +45100,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 125.5634,
 								"latitude": -28.5514,
@@ -45112,7 +45112,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 127.8682,
 								"latitude": -28.5514,
@@ -45124,7 +45124,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 130.173,
 								"latitude": -28.5514,
@@ -45136,7 +45136,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 132.4778,
 								"latitude": -28.5514,
@@ -45148,7 +45148,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 134.7826,
 								"latitude": -28.5514,
@@ -45160,7 +45160,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 137.0874,
 								"latitude": -28.5514,
@@ -45172,7 +45172,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 139.3922,
 								"latitude": -28.5514,
@@ -45184,7 +45184,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 141.697,
 								"latitude": -28.5514,
@@ -45196,7 +45196,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 144.0018,
 								"latitude": -28.5514,
@@ -45208,7 +45208,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 146.3066,
 								"latitude": -28.5514,
@@ -45220,7 +45220,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 148.6114,
 								"latitude": -28.5514,
@@ -45232,7 +45232,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 150.9162,
 								"latitude": -28.5514,
@@ -45244,7 +45244,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 153.221,
 								"latitude": -28.5514,
@@ -45256,7 +45256,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chile",
 								"longitude": -70.3449,
 								"latitude": -30.6687,
@@ -45268,7 +45268,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -68.0401,
 								"latitude": -30.6687,
@@ -45280,7 +45280,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -65.7353,
 								"latitude": -30.6687,
@@ -45292,7 +45292,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -63.4305,
 								"latitude": -30.6687,
@@ -45304,7 +45304,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -61.1257,
 								"latitude": -30.6687,
@@ -45316,7 +45316,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -58.8209,
 								"latitude": -30.6687,
@@ -45328,7 +45328,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Uruguay",
 								"longitude": -56.5161,
 								"latitude": -30.6687,
@@ -45340,7 +45340,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -54.2113,
 								"latitude": -30.6687,
@@ -45352,7 +45352,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Brazil",
 								"longitude": -51.9065,
 								"latitude": -30.6687,
@@ -45364,7 +45364,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "South Africa",
 								"longitude": 19.5424,
 								"latitude": -30.6687,
@@ -45376,7 +45376,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "South Africa",
 								"longitude": 21.8472,
 								"latitude": -30.6687,
@@ -45388,7 +45388,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "South Africa",
 								"longitude": 24.152,
 								"latitude": -30.6687,
@@ -45400,7 +45400,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "South Africa",
 								"longitude": 26.4568,
 								"latitude": -30.6687,
@@ -45412,7 +45412,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "South Africa",
 								"longitude": 28.7616,
 								"latitude": -30.6687,
@@ -45424,7 +45424,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 116.3441,
 								"latitude": -30.6687,
@@ -45436,7 +45436,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 118.6489,
 								"latitude": -30.6687,
@@ -45448,7 +45448,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 120.9537,
 								"latitude": -30.6687,
@@ -45460,7 +45460,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 123.2585,
 								"latitude": -30.6687,
@@ -45472,7 +45472,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 125.5634,
 								"latitude": -30.6687,
@@ -45484,7 +45484,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 127.8682,
 								"latitude": -30.6687,
@@ -45496,7 +45496,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 130.173,
 								"latitude": -30.6687,
@@ -45508,7 +45508,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 132.4778,
 								"latitude": -30.6687,
@@ -45520,7 +45520,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 134.7826,
 								"latitude": -30.6687,
@@ -45532,7 +45532,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 137.0874,
 								"latitude": -30.6687,
@@ -45544,7 +45544,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 139.3922,
 								"latitude": -30.6687,
@@ -45556,7 +45556,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 141.697,
 								"latitude": -30.6687,
@@ -45568,7 +45568,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 144.0018,
 								"latitude": -30.6687,
@@ -45580,7 +45580,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 146.3066,
 								"latitude": -30.6687,
@@ -45592,7 +45592,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 148.6114,
 								"latitude": -30.6687,
@@ -45604,7 +45604,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 150.9162,
 								"latitude": -30.6687,
@@ -45616,7 +45616,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 153.221,
 								"latitude": -30.6687,
@@ -45628,7 +45628,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chile",
 								"longitude": -70.3449,
 								"latitude": -32.7577,
@@ -45640,7 +45640,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -68.0401,
 								"latitude": -32.7577,
@@ -45652,7 +45652,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -65.7353,
 								"latitude": -32.7577,
@@ -45664,7 +45664,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -63.4305,
 								"latitude": -32.7577,
@@ -45676,7 +45676,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -61.1257,
 								"latitude": -32.7577,
@@ -45688,7 +45688,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -58.8209,
 								"latitude": -32.7577,
@@ -45700,7 +45700,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Uruguay",
 								"longitude": -56.5161,
 								"latitude": -32.7577,
@@ -45712,7 +45712,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Uruguay",
 								"longitude": -54.2113,
 								"latitude": -32.7577,
@@ -45724,7 +45724,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "South Africa",
 								"longitude": 19.5424,
 								"latitude": -32.7577,
@@ -45736,7 +45736,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "South Africa",
 								"longitude": 21.8472,
 								"latitude": -32.7577,
@@ -45748,7 +45748,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "South Africa",
 								"longitude": 24.152,
 								"latitude": -32.7577,
@@ -45760,7 +45760,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "South Africa",
 								"longitude": 26.4568,
 								"latitude": -32.7577,
@@ -45772,7 +45772,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 116.3441,
 								"latitude": -32.7577,
@@ -45784,7 +45784,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 118.6489,
 								"latitude": -32.7577,
@@ -45796,7 +45796,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 120.9537,
 								"latitude": -32.7577,
@@ -45808,7 +45808,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 123.2585,
 								"latitude": -32.7577,
@@ -45820,7 +45820,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 134.7826,
 								"latitude": -32.7577,
@@ -45832,7 +45832,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 137.0874,
 								"latitude": -32.7577,
@@ -45844,7 +45844,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 139.3922,
 								"latitude": -32.7577,
@@ -45856,7 +45856,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 141.697,
 								"latitude": -32.7577,
@@ -45868,7 +45868,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 144.0018,
 								"latitude": -32.7577,
@@ -45880,7 +45880,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 146.3066,
 								"latitude": -32.7577,
@@ -45892,7 +45892,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 148.6114,
 								"latitude": -32.7577,
@@ -45904,7 +45904,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 150.9162,
 								"latitude": -32.7577,
@@ -45916,7 +45916,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chile",
 								"longitude": -70.3449,
 								"latitude": -34.8172,
@@ -45928,7 +45928,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -68.0401,
 								"latitude": -34.8172,
@@ -45940,7 +45940,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -65.7353,
 								"latitude": -34.8172,
@@ -45952,7 +45952,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -63.4305,
 								"latitude": -34.8172,
@@ -45964,7 +45964,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -61.1257,
 								"latitude": -34.8172,
@@ -45976,7 +45976,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -58.8209,
 								"latitude": -34.8172,
@@ -45988,7 +45988,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 116.3441,
 								"latitude": -34.8172,
@@ -46000,7 +46000,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 137.0874,
 								"latitude": -34.8172,
@@ -46012,7 +46012,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 139.3922,
 								"latitude": -34.8172,
@@ -46024,7 +46024,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 141.697,
 								"latitude": -34.8172,
@@ -46036,7 +46036,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 144.0018,
 								"latitude": -34.8172,
@@ -46048,7 +46048,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 146.3066,
 								"latitude": -34.8172,
@@ -46060,7 +46060,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 148.6114,
 								"latitude": -34.8172,
@@ -46072,7 +46072,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 150.9162,
 								"latitude": -34.8172,
@@ -46084,7 +46084,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chile",
 								"longitude": -72.6497,
 								"latitude": -36.8459,
@@ -46096,7 +46096,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -70.3449,
 								"latitude": -36.8459,
@@ -46108,7 +46108,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -68.0401,
 								"latitude": -36.8459,
@@ -46120,7 +46120,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -65.7353,
 								"latitude": -36.8459,
@@ -46132,7 +46132,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -63.4305,
 								"latitude": -36.8459,
@@ -46144,7 +46144,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -61.1257,
 								"latitude": -36.8459,
@@ -46156,7 +46156,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -58.8209,
 								"latitude": -36.8459,
@@ -46168,7 +46168,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 141.697,
 								"latitude": -36.8459,
@@ -46180,7 +46180,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 144.0018,
 								"latitude": -36.8459,
@@ -46192,7 +46192,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 146.3066,
 								"latitude": -36.8459,
@@ -46204,7 +46204,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 148.6114,
 								"latitude": -36.8459,
@@ -46216,7 +46216,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chile",
 								"longitude": -72.6497,
 								"latitude": -38.8426,
@@ -46228,7 +46228,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -70.3449,
 								"latitude": -38.8426,
@@ -46240,7 +46240,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -68.0401,
 								"latitude": -38.8426,
@@ -46252,7 +46252,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -65.7353,
 								"latitude": -38.8426,
@@ -46264,7 +46264,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -63.4305,
 								"latitude": -38.8426,
@@ -46276,7 +46276,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -61.1257,
 								"latitude": -38.8426,
@@ -46288,7 +46288,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 146.3066,
 								"latitude": -38.8426,
@@ -46300,7 +46300,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "New Zealand",
 								"longitude": 176.269,
 								"latitude": -38.8426,
@@ -46312,7 +46312,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chile",
 								"longitude": -72.6497,
 								"latitude": -40.8063,
@@ -46324,7 +46324,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -70.3449,
 								"latitude": -40.8063,
@@ -46336,7 +46336,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -68.0401,
 								"latitude": -40.8063,
@@ -46348,7 +46348,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -65.7353,
 								"latitude": -40.8063,
@@ -46360,7 +46360,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -63.4305,
 								"latitude": -40.8063,
@@ -46372,7 +46372,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "New Zealand",
 								"longitude": 173.9642,
 								"latitude": -40.8063,
@@ -46384,7 +46384,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "New Zealand",
 								"longitude": 176.269,
 								"latitude": -40.8063,
@@ -46396,7 +46396,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chile",
 								"longitude": -72.6497,
 								"latitude": -42.7362,
@@ -46408,7 +46408,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -70.3449,
 								"latitude": -42.7362,
@@ -46420,7 +46420,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -68.0401,
 								"latitude": -42.7362,
@@ -46432,7 +46432,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -65.7353,
 								"latitude": -42.7362,
@@ -46444,7 +46444,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Australia",
 								"longitude": 146.3066,
 								"latitude": -42.7362,
@@ -46456,7 +46456,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "New Zealand",
 								"longitude": 171.6594,
 								"latitude": -42.7362,
@@ -46468,7 +46468,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chile",
 								"longitude": -72.6497,
 								"latitude": -44.6313,
@@ -46480,7 +46480,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -70.3449,
 								"latitude": -44.6313,
@@ -46492,7 +46492,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -68.0401,
 								"latitude": -44.6313,
@@ -46504,7 +46504,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -65.7353,
 								"latitude": -44.6313,
@@ -46516,7 +46516,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "New Zealand",
 								"longitude": 169.3546,
 								"latitude": -44.6313,
@@ -46528,7 +46528,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chile",
 								"longitude": -74.9545,
 								"latitude": -46.4911,
@@ -46540,7 +46540,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chile",
 								"longitude": -72.6497,
 								"latitude": -46.4911,
@@ -46552,7 +46552,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -70.3449,
 								"latitude": -46.4911,
@@ -46564,7 +46564,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -68.0401,
 								"latitude": -46.4911,
@@ -46576,7 +46576,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "New Zealand",
 								"longitude": 169.3546,
 								"latitude": -46.4911,
@@ -46588,7 +46588,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chile",
 								"longitude": -74.9545,
 								"latitude": -48.3149,
@@ -46600,7 +46600,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chile",
 								"longitude": -72.6497,
 								"latitude": -48.3149,
@@ -46612,7 +46612,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -70.3449,
 								"latitude": -48.3149,
@@ -46624,7 +46624,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -68.0401,
 								"latitude": -48.3149,
@@ -46636,7 +46636,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chile",
 								"longitude": -74.9545,
 								"latitude": -50.1023,
@@ -46648,7 +46648,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -72.6497,
 								"latitude": -50.1023,
@@ -46660,7 +46660,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -70.3449,
 								"latitude": -50.1023,
@@ -46672,7 +46672,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chile",
 								"longitude": -74.9545,
 								"latitude": -51.853,
@@ -46684,7 +46684,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chile",
 								"longitude": -72.6497,
 								"latitude": -51.853,
@@ -46696,7 +46696,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -70.3449,
 								"latitude": -51.853,
@@ -46708,7 +46708,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Falkland Islands",
 								"longitude": -61.1257,
 								"latitude": -51.853,
@@ -46720,7 +46720,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Falkland Islands",
 								"longitude": -58.8209,
 								"latitude": -51.853,
@@ -46732,7 +46732,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chile",
 								"longitude": -72.6497,
 								"latitude": -53.5666,
@@ -46744,7 +46744,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chile",
 								"longitude": -70.3449,
 								"latitude": -53.5666,
@@ -46756,7 +46756,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -68.0401,
 								"latitude": -53.5666,
@@ -46768,7 +46768,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Chile",
 								"longitude": -68.0401,
 								"latitude": -55.243,
@@ -46780,7 +46780,7 @@
 								"fixedSize": false
 							},
 							{
-								"selectable": true,
+								"selectable": false,
 								 //"title": "Argentina",
 								"longitude": -65.7353,
 								"latitude": -55.243,
