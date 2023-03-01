@@ -19,6 +19,40 @@ p {
    font-weight:500;
 }
 
+
+a {
+    font-family: 'Roboto', sans-serif!important;
+    color: #fe5f1a;
+    background-color: transparent;
+    text-decoration: underline;
+ }
+
+
+.a:link {
+    color: #fe5f1a;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+.a:visited {
+    color:#fe5f1a;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+a:hover {
+    color:#fe5f1a;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+.a:active {
+    color:#fe5f1a;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+
 .container-fluid {
     padding-left: 0px!important;
 }
@@ -41,7 +75,7 @@ a[href="http://www.amcharts.com/javascript-maps/"] {
 
 .maptext {
   position: absolute;
-    top: 1vw;
+    top: 0.5vw;
     left: 50vw;
     transform: translateX(-50%);
     z-index: 300;
@@ -951,36 +985,4 @@ overflow: hidden;
     }
   }
 
-
-a {
-    font-family: 'Roboto', sans-serif!important;
-    color: #fe5f1a;
-    background-color: transparent;
-    text-decoration: underline;
- }
-
-
-.a:link {
-    color: #fe5f1a;
-    background-color: transparent;
-    text-decoration: underline;
-  }
-  
-.a:visited {
-    color:#fe5f1a;
-    background-color: transparent;
-    text-decoration: underline;
-  }
-  
-a:hover {
-    color:#fe5f1a;
-    background-color: transparent;
-    text-decoration: underline;
-  }
-  
-.a:active {
-    color:#fe5f1a;
-    background-color: transparent;
-    text-decoration: underline;
-  }
 
