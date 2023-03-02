@@ -38,11 +38,21 @@ var controller = new ScrollMagic.Controller();
         
         new ScrollMagic.Scene({triggerElement: "#maps", triggerHook: 0.8, offset: 300, duration: 150 })
             .setTween("#maps", {opacity: "1"}, )
-//            .addIndicators({name: "maps on"})
+//          .addIndicators({name: "maps on"})
+            .addTo(controller);
+        
+        new ScrollMagic.Scene({triggerElement: "#carosel", triggerHook: 0.8, duration: 150 })
+            .setTween("#maps", {opacity: "0"})
+//            .addIndicators({name: "maps off"})
+            .addTo(controller);
+
+new ScrollMagic.Scene({triggerElement: "#carosel", triggerHook: 0.8, offset: 300, duration: 150 })
+            .setTween("#carosel", {opacity: "1"}, )
+//          .addIndicators({name: "maps on"})
             .addTo(controller);
         
         new ScrollMagic.Scene({triggerElement: "#footer", triggerHook: 0.8, duration: 150 })
-            .setTween("#maps", {opacity: "0"})
+            .setTween("#carosel", {opacity: "0"})
 //            .addIndicators({name: "maps off"})
             .addTo(controller);
         
