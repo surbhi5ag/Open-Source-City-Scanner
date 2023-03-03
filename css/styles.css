@@ -22,20 +22,20 @@ p {
 
 a {
     font-family: 'Roboto', sans-serif!important;
-    color: #fe5f1a;
+    color: #000000;
     background-color: transparent;
     text-decoration: underline;
  }
 
 
-.a:link {
-    color: #fe5f1a;
+a:link {
+    color: #000000;
     background-color: transparent;
     text-decoration: underline;
   }
   
-.a:visited {
-    color:#fe5f1a;
+a:visited {
+    color:#000000;
     background-color: transparent;
     text-decoration: underline;
   }
@@ -46,11 +46,17 @@ a:hover {
     text-decoration: underline;
   }
   
-.a:active {
+a:active {
     color:#fe5f1a;
     background-color: transparent;
     text-decoration: underline;
   }
+
+
+.emphasized { font-style: italic; }
+
+u {text-decoration: underline;}
+
 
 
 .container-fluid {
@@ -70,8 +76,17 @@ a[href="http://www.amcharts.com/javascript-maps/"] {
 #maps {
     padding-left: 2vw;
     padding-right: 2vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
  
 }
+
+/* #map {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  } */
 
 .maptext {
   position: absolute;
@@ -99,8 +114,8 @@ h1 {
   position: sticky;
   top: 100px;
   padding: 10px;
-  transition: opacity 0.8s;
- -webkit-transition: opacity 0.8s;
+  transition: opacity 1s;
+ -webkit-transition: opacity 1s;
  
 }
 
@@ -442,7 +457,7 @@ overflow: hidden;
 }
 
 .spacer01 {
-    height:100vh;
+    height:80vh;
 }
 
 .documentation {

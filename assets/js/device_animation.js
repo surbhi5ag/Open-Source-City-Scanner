@@ -5,7 +5,7 @@ var controller = new ScrollMagic.Controller();
       // scroll text appears
       new ScrollMagic.Scene({
         triggerElement: "#trigger1",
-        triggerHook: 0.8, // show, when scrolled 10% into view
+        triggerHook: 0.5, // show, when scrolled 10% into view
         duration: "80%", // hide 10% before exiting view (80% + 10% from bottom)
        // offset: 50 // move trigger to center of element
     })
@@ -59,8 +59,8 @@ var controller = new ScrollMagic.Controller();
     new ScrollMagic.Scene({
         triggerElement: "#trigger5",
         triggerHook: 0, // show, when scrolled 10% into view
-        duration: "80%", // hide 10% before exiting view (80% + 10% from bottom)
-       // offset: 50 // move trigger to center of element
+        duration: "50%", // hide 10% before exiting view (80% + 10% from bottom)
+        // offset: "60%"// move trigger to center of element
     })
     .setClassToggle("#text5", "visible") // add class to reveal
     .addTo(controller);
@@ -70,7 +70,7 @@ var controller = new ScrollMagic.Controller();
       triggerElement: "#trigger6",
       triggerHook: 0, // show, when scrolled 10% into view
       duration: "80%", // hide 10% before exiting view (80% + 10% from bottom)
-     // offset: 50 // move trigger to center of element
+      // move trigger to center of element
   })
   .setClassToggle("#text6", "visible") // add class to reveal
   .addTo(controller);
@@ -222,7 +222,7 @@ for (let i = 53; i <= 61; i++) {
 	);
 
 
-new ScrollMagic.Scene({triggerElement: "#trigger1", triggerHook: 0.8, duration: "80%", offset: "50%"})
+new ScrollMagic.Scene({triggerElement: "#trigger1", triggerHook: 0.5, duration: "80%", offset: "50%"})
             .setTween(runner3)
             //.addIndicators({name: "one"}) // add indicators (requires plugin)
             .addTo(controller);
@@ -242,7 +242,7 @@ new ScrollMagic.Scene({triggerElement: "#trigger1", triggerHook: 0.8, duration: 
            //.addIndicators({name: "four"}) // add indicators (requires plugin)
             .addTo(controller);
 
-        new ScrollMagic.Scene({triggerElement: "#trigger5", triggerHook: 0, duration: "80%", offset: "50%"})
+        new ScrollMagic.Scene({triggerElement: "#trigger5", triggerHook: 0, duration: "80%"})
             .setTween(runner7)
            //.addIndicators({name: "five"}) // add indicators (requires plugin)
             .addTo(controller);
