@@ -22,42 +22,42 @@ var controller = new ScrollMagic.Controller();
 			})
 			.setPin("#pinContainer")
 			.setTween(wipeAnimation)
-//			.addIndicators() // add indicators (requires plugin)
+.addIndicators() // add indicators (requires plugin)
 			.addTo(controller);
 
         
          new ScrollMagic.Scene({triggerElement: "#links", triggerHook: 0.8, offset:300,  duration: 150 })
             .setTween("#links", {opacity: "1"})
-//            .addIndicators({name: "links on"})
+  .addIndicators({name: "links on"})
             .addTo(controller);
         
         new ScrollMagic.Scene({triggerElement: "#maps", triggerHook: 0.8, duration: 150 })
             .setTween("#links", {opacity: "0"})
-//            .addIndicators({name: "links off"})
+  .addIndicators({name: "links off"})
             .addTo(controller);
         
-        new ScrollMagic.Scene({triggerElement: "#maps", triggerHook: 0.8, offset: 300, duration: 150 })
+        new ScrollMagic.Scene({triggerElement: "#maps", triggerHook: 0.8, offset: 100, duration: 150 })
             .setTween("#maps", {opacity: "1"}, )
-//          .addIndicators({name: "maps on"})
+.addIndicators({name: "maps on"})
             .addTo(controller);
         
-        new ScrollMagic.Scene({triggerElement: "#carosel", triggerHook: 0.8, duration: 150 })
+        new ScrollMagic.Scene({triggerElement: "#carosel", triggerHook: 0.5, duration: 150 })
             .setTween("#maps", {opacity: "0"})
-//            .addIndicators({name: "maps off"})
+.addIndicators({name: "maps off"})
             .addTo(controller);
 
 new ScrollMagic.Scene({triggerElement: "#carosel", triggerHook: 0.8, offset: 300, duration: 150 })
             .setTween("#carosel", {opacity: "1"}, )
-//          .addIndicators({name: "maps on"})
+.addIndicators({name: "carosel on"})
             .addTo(controller);
         
         new ScrollMagic.Scene({triggerElement: "#footer", triggerHook: 0.8, duration: 150 })
             .setTween("#carosel", {opacity: "0"})
-//            .addIndicators({name: "maps off"})
+.addIndicators({name: "carosel off"})
             .addTo(controller);
         
-        new ScrollMagic.Scene({triggerElement: "#footer", triggerHook: 0.8, offset: 300, duration: 150 })
+        new ScrollMagic.Scene({triggerElement: "#footer", triggerHook: 0.8, offset: 200, duration: 150 })
             .setTween("#footer", {opacity: "1"}, )
-//            .addIndicators({name: "footer"})
+  .addIndicators({name: "footer"})
             .addTo(controller);
         

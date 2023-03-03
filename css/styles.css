@@ -463,7 +463,8 @@ overflow: hidden;
 .documentation {
     display: flex;
     justify-content: center;
-    margin-top: 50vh;   
+    margin-top: 35vh;
+    margin-bottom: 40vh;
 }
 
 
@@ -901,6 +902,7 @@ overflow: hidden;
     justify-content: left;
     margin-top: 25vh; 
     padding-left: 20vw;
+    margin-bottom: 0vh;
 }
     
 .asterisc{
@@ -971,7 +973,7 @@ overflow: hidden;
 
     
 .footers{
-    padding-top: 15%;
+    padding-top: 7%;
     padding-right: 5%;
     padding-left: 7%;
     font-size:13px;
