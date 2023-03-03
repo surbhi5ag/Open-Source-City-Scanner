@@ -34,7 +34,7 @@
 				
 							{
 								"selectable": true,
-								"title": "Boston <br> 2017 | Greta <br> 2018 | Greta II <br> 2022 | Whiteburn",
+								"title": "Boston <br> 2017 | Greta I <br> 2018 | Greta II <br> 2022 | Whiteburn",
 								"longitude": -72.6497,
 								"latitude": 42.0107,
 								"type": "circle",
