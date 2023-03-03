@@ -31,10 +31,10 @@
 								"scale": 0.9,
 								"fixedSize": false
 							},
-
+				
 							{
 								"selectable": true,
-								"title": "Boston <br> 2018 | Greta <br> 2022 | Blackburn",
+								"title": "Boston <br> 2017 | Greta <br> 2018 | Greta II <br> 2022 | Whiteburn",
 								"longitude": -72.6497,
 								"latitude": 42.0107,
 								"type": "circle",
@@ -44,10 +44,10 @@
 								"scale": 0.9,
 								"fixedSize": false
 							},
-
+				
 							{
 								"selectable": true,
-								"title": "New York <br> Whiteburn | 2021",
+								"title": "New York <br> 2018 | Greta II <br> 2020 | Whiteburn ",
 								"longitude": -77.2593,
 								"latitude": 40.0679,
 								"type": "circle",
@@ -57,7 +57,7 @@
 								"scale": 0.9,
 								"fixedSize": false
 							},
-
+				
 							{
 								"selectable": true,
 								"title": "Rome <br> coming soon",
@@ -70,10 +70,10 @@
 								"scale": 0.9,
 								"fixedSize": false
 							},
-
+				
 							{
 								"selectable": true,
-								"title": "Sparwood <br> Blackburn | 2019",
+								"title": "Sparwood <br> 2019 | Blackburn",
 								"longitude": -111.8313,
 								"latitude": 49.4309,
 								"type": "circle",
@@ -83,10 +83,10 @@
 								"scale": 0.9,
 								"fixedSize": false
 							},
-
+				
 							{
 								"selectable": true,
-								"title": "Stockholm <br> Whiteburn | 2021",
+								"title": "Stockholm <br> 2021 | Whiteburn",
 								"longitude": 17.2376,
 								"latitude": 59.4615,
 								"type": "circle",
@@ -96,10 +96,10 @@
 								"scale": 0.9,
 								"fixedSize": false
 							},
-
+				
 							{
 								"selectable": true,
-								"title": "Amsterdam <br> Flatburn | 2023",
+								"title": "Amsterdam <br> 2023 | Flatburn",
 								"longitude": 5.7136,
 								"latitude": 52.9232,
 								"type": "circle",
@@ -109,10 +109,10 @@
 								"scale": 0.9,
 								"fixedSize": false
 							},
-
+				
 							{
 								"selectable": true,
-								"title": "Beirut <br> Flatburn | 2022",
+								"title": "Beirut <br> 2022 | Whiteburn",
 								"longitude": 35.676,
 								"latitude": 34.0423,
 								"type": "circle",
@@ -122,7 +122,7 @@
 								"scale": 0.9,
 								"fixedSize": false
 							},
-
+				
 							{
 								"selectable": true,
 								"title": "Lagos <br> coming soon",
@@ -135,10 +135,10 @@
 								"scale": 0.9,
 								"fixedSize": false
 							},
-
+				
 							{
 								"selectable": true,
-								"title": "Oskemen <br> Whiteburn | 2021",
+								"title": "Oskemen <br> 2021 | Whiteburn",
 								"longitude": 84.0769,
 								"latitude": 47.6297,
 								"type": "circle",
@@ -148,7 +148,6 @@
 								"scale": 0.9,
 								"fixedSize": false
 							},
-
 							{
 								"selectable": false,
 								 //"title": "Canada",
