@@ -481,6 +481,7 @@ overflow: hidden;
     font-size: 1.5vw;
     text-align: center;
     cursor: pointer;
+    padding-left: 5%;
     
 }
 
@@ -645,6 +646,17 @@ overflow: hidden;
    font-weight: 400;
     font-size: 2vw;
     color:white;
+}
+
+.footerlink {
+    font-size: 1.1vw;
+}
+
+.footerlogo {
+
+    height: 37px;
+    padding-left: 5%;
+    
 }
 
 
@@ -932,7 +944,7 @@ overflow: hidden;
     font-size: 7vw;
     text-align: center;
     cursor: pointer;
-    padding-bottom: 5vh;
+    padding-left: 2%;
     
 }
     
@@ -1028,6 +1040,18 @@ overflow: hidden;
       text-align: center;
       position: relative;
     }
+    
+    .footerlink {
+    font-size: 3.3vw;
+}
+
+.footerlogo {
+
+    height: 37px;
+    padding-left: 7%;
+    margin-bottom: 5vh;
+    
+}
   }
 
 
