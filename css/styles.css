@@ -597,31 +597,31 @@ overflow: hidden;
         display: none; /* for Chrome, Safari, and Opera */}
 
     .case1 {
-        background-image: url(../images/greta1.jpg);
+        background-image: url(../images/Flatburn_media/greta1.jpg);
         background-size: cover;
         background-repeat: no-repeat;
     }
     
     .case2 {
-        background-image: url(../images/greta2.jpg);
+        background-image: url(../images/Flatburn_media/greta2.jpg);
         background-size: cover;
         background-repeat: no-repeat;
     }
     
     .case3 {
-        background-image: url(../images/blackburn.jpg);
+        background-image: url(../images/Flatburn_media/blackburn.jpg);
         background-size: cover;
         background-repeat: no-repeat;
     }
     
     .case4 {
-        background-image: url(../images/whiteburn.jpg);
+        background-image: url(../images/Flatburn_media/whiteburn.jpg);
         background-size: cover;
         background-repeat: no-repeat;
     }
     
     .case5 {
-        background-image: url(../images/blackburn.jpg);
+        background-image: url(../images/Flatburn_media/flatburn.jpg);
         background-size: cover;
         background-repeat: no-repeat;
     }

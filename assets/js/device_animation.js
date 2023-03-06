@@ -5,7 +5,7 @@ var controller = new ScrollMagic.Controller();
       // scroll text appears
       new ScrollMagic.Scene({
         triggerElement: "#trigger1",
-        triggerHook: 0.5, // show, when scrolled 10% into view
+        triggerHook: 0, // show, when scrolled 10% into view
         duration: "80%", // hide 10% before exiting view (80% + 10% from bottom)
        // offset: 50 // move trigger to center of element
     })
@@ -59,7 +59,7 @@ var controller = new ScrollMagic.Controller();
     new ScrollMagic.Scene({
         triggerElement: "#trigger5",
         triggerHook: 0, // show, when scrolled 10% into view
-        duration: "50%", // hide 10% before exiting view (80% + 10% from bottom)
+        duration: "20%", // hide 10% before exiting view (80% + 10% from bottom)
         // offset: "60%"// move trigger to center of element
     })
     .setClassToggle("#text5", "visible") // add class to reveal
@@ -69,7 +69,7 @@ var controller = new ScrollMagic.Controller();
     new ScrollMagic.Scene({
       triggerElement: "#trigger6",
       triggerHook: 0, // show, when scrolled 10% into view
-      duration: "80%", // hide 10% before exiting view (80% + 10% from bottom)
+      duration: "100%", // hide 10% before exiting view (80% + 10% from bottom)
       // move trigger to center of element
   })
   .setClassToggle("#text6", "visible") // add class to reveal
