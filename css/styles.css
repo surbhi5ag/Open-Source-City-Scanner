@@ -534,10 +534,11 @@ overflow: hidden;
 }
 
 .logo {
-  position: fixed;
+  /* position: fixed; */
   top: 40px;
   left: 45px;
   z-index: 9999;
+  margin: 5vh;
 }
 
 .logo img {
@@ -600,31 +601,35 @@ overflow: hidden;
         background-image: url(../images/Flatburn_media/greta1.jpg);
         background-size: cover;
         background-repeat: no-repeat;
+        background-position: 12% 50%;
     }
     
     .case2 {
         background-image: url(../images/Flatburn_media/greta2.jpg);
         background-size: cover;
         background-repeat: no-repeat;
+        background-position: 12% 50%;
     }
     
     .case3 {
         background-image: url(../images/Flatburn_media/blackburn.jpg);
         background-size: cover;
         background-repeat: no-repeat;
+        background-position: 15% 50%;
     }
     
     .case4 {
         background-image: url(../images/Flatburn_media/whiteburn.jpg);
         background-size: cover;
         background-repeat: no-repeat;
+        background-position: 25% 50%;
     }
     
     .case5 {
         background-image: url(../images/flatbeirut.jpg);
         background-size: cover;
         background-repeat: no-repeat;
-        background-position: center;
+        background-position: 25% 50%;
     }
     
     .case6 {
@@ -633,6 +638,9 @@ overflow: hidden;
         background-repeat: no-repeat;
     }
  
+
+
+    
     .deploytext {
     font-family: 'Roboto', sans-serif;
     color:#fe5f1a;
