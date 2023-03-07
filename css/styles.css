@@ -621,13 +621,14 @@ overflow: hidden;
     }
     
     .case5 {
-        background-image: url(../images/Flatburn_media/flatburn.jpg);
+        background-image: url(../images/flatbeirut.jpg);
         background-size: cover;
         background-repeat: no-repeat;
+        background-position: center;
     }
     
     .case6 {
-        background-image: url(../images/blackburn.jpg);
+        background-image: url(../images/flatbeirut.jpg);
         background-size: cover;
         background-repeat: no-repeat;
     }
