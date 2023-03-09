@@ -41,13 +41,13 @@ a:visited {
   }
   
 a:hover {
-    color:#fe5f1a;
+    color:#f7370b;
     background-color: transparent;
     text-decoration: underline;
   }
   
 a:active {
-    color:#fe5f1a;
+    color:#f7370b;
     background-color: transparent;
     text-decoration: underline;
   }
@@ -476,7 +476,7 @@ overflow: hidden;
 
 .asterisctext {
     font-family: 'Roboto', sans-serif;
-    color:#fe5f1a;
+    color:#f7370b;
     font-weight: 400;
     font-size: 1.5vw;
     text-align: center;
@@ -504,7 +504,7 @@ overflow: hidden;
   width: 70%;
   height: 50%;
   background-color: #fff;
-  border: 1px solid #fe5f1a;
+  border: 1px solid #f7370b;
   padding: 45px;
   display: flex;
   flex-direction: column;
@@ -522,7 +522,7 @@ overflow: hidden;
 
 .modal-title {
   font-size: 28px;
-  color: #fe5f1a;
+  color: #f7370b;
   margin-bottom: 20px;
   text-align: left;
 }
@@ -643,7 +643,7 @@ overflow: hidden;
     
     .deploytext {
     font-family: 'Roboto', sans-serif;
-    color:#fe5f1a;
+    color:#f7370b;
     font-weight: 400;
     font-size: 2.5vw;
     text-align: center; 
@@ -949,7 +949,7 @@ overflow: hidden;
 
 .asterisctext {
     font-family: 'Roboto', sans-serif;
-    color:#fe5f1a;
+    color:#f7370b;
     font-weight: 400;
     font-size: 7vw;
     text-align: center;
@@ -976,7 +976,7 @@ overflow: hidden;
   width: 75%;
   height: 60%;
   background-color: #fff;
-  border: 1px solid #fe5f1a;
+  border: 1px solid #f7370b;
   padding: 45px;
   display: flex;
   flex-direction: column;
@@ -994,7 +994,7 @@ overflow: hidden;
 
 .modal-title {
   font-size: 7vw;
-  color: #fe5f1a;
+  color: #f7370b;
   margin-bottom: 20px;
   text-align: left;
 }
@@ -1030,7 +1030,7 @@ overflow: hidden;
     
     .deploytext {
     font-family: 'Roboto', sans-serif;
-    color:#fe5f1a;
+    color:#f7370b;
     font-weight: 400;
     font-size: 7vw;
     text-align: center; 
