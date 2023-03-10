@@ -645,7 +645,7 @@ overflow: hidden;
     font-family: 'Roboto', sans-serif;
     color:#f7370b;
     font-weight: 400;
-    font-size: 2.5vw;
+    font-size: 2vw;
     text-align: center; 
     margin-left: 5%;
     display: none;
@@ -653,7 +653,7 @@ overflow: hidden;
 
 .hovertext{
    font-weight: 400;
-    font-size: 2vw;
+    font-size: 2.5vw;
     color:white;
 }
 
