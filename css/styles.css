@@ -178,6 +178,12 @@ height: 100%;
 
 }
 
+ .covertextmob {
+        font-size: 5vw;
+        margin-left: 14vw;
+        margin-top: 100px;
+    }
+
 /*
 .col-sm {
 text: center;
@@ -245,6 +251,7 @@ font-size:2.2vw;
     padding-right: 5%;
     padding-left: 5%;
     font-size:14px;
+    
 }
 
 .story {
@@ -538,11 +545,12 @@ overflow: hidden;
   top: 40px;
   left: 45px;
   z-index: 9999;
-  margin: 5vh;
+  position: absolute;
 }
 
 .logo img {
   height: 40px;
+  
 }
 
 #carosel {
@@ -645,7 +653,7 @@ overflow: hidden;
     font-family: 'Roboto', sans-serif;
     color:#f7370b;
     font-weight: 400;
-    font-size: 2vw;
+    font-size: 2.5vw;
     text-align: center; 
     margin-left: 5%;
     display: none;
@@ -654,6 +662,12 @@ overflow: hidden;
 .hovertext{
    font-weight: 400;
     font-size: 2.5vw;
+    color:white;
+}
+
+.hoveryear{
+   font-weight: 400;
+    font-size: 1.8vw;
     color:white;
 }
 
@@ -693,6 +707,7 @@ overflow: hidden;
     .covertextmob {
         font-size: 5vw;
         margin-left: 14vw;
+        margin-top: 0px;
     }
     
     .bigtext {
@@ -924,12 +939,15 @@ overflow: hidden;
   top: 20px;
   left: 20px;
   z-index: 9999;
-  margin: 2vh
+  margin: 2vh;
+      position: absolute;
+    
 }
      
 
 .logo img {
   height: 6vw;
+z-index: 9999;
 }
     
 .documentation {
@@ -1062,6 +1080,20 @@ overflow: hidden;
     margin-bottom: 5vh;
     
 }
+    
+.hovertext{
+   font-weight: 400;
+    font-size: 2.5vw;
+    color:white;
+}
+
+.hoveryear{
+   font-weight: 400;
+    font-size: 2vw;
+    color:white;
+}
+    
+
   }
 
 
