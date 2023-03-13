@@ -36,7 +36,12 @@ var controller = new ScrollMagic.Controller();
             .addTo(controller);
 
 
-         new ScrollMagic.Scene({triggerElement: "#links", triggerHook: 0.8, offset:300,  duration: 150 })
+         new ScrollMagic.Scene({triggerElement: "#links", triggerHook: 1, offset:150,  duration: 100 })
+            .setTween("#img1", {opacity: "0"})
+  //.addIndicators({name: "links on"})
+            .addTo(controller);
+
+        new ScrollMagic.Scene({triggerElement: "#links", triggerHook: 0.8, offset:300,  duration: 150 })
             .setTween("#links", {opacity: "1"})
   //.addIndicators({name: "links on"})
             .addTo(controller);
