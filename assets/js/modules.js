@@ -25,7 +25,17 @@ var controller = new ScrollMagic.Controller();
 //.addIndicators() // add indicators (requires plugin)
 			.addTo(controller);
 
-        
+        new ScrollMagic.Scene({triggerElement: "#start", triggerHook: 0,  duration: 25 })
+            .setTween("#logo", {opacity: "0",})
+          //.addIndicators({name: "logo off"})
+            .addTo(controller);
+
+        new ScrollMagic.Scene({triggerElement: "#start", triggerHook: 0,  duration: 150 })
+            .setTween("#logo", {top: -200,})
+          //.addIndicators({name: "logo off"})
+            .addTo(controller);
+
+
          new ScrollMagic.Scene({triggerElement: "#links", triggerHook: 0.8, offset:300,  duration: 150 })
             .setTween("#links", {opacity: "1"})
   //.addIndicators({name: "links on"})

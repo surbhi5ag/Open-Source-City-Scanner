@@ -545,6 +545,7 @@ overflow: hidden;
   top: 40px;
   left: 45px;
   z-index: 9999;
+opacity: 1;
   position: absolute;
 }
 
@@ -940,6 +941,7 @@ overflow: hidden;
   left: 20px;
   z-index: 9999;
   margin: 2vh;
+  opacity: 1;
       position: absolute;
     
 }
