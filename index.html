@@ -59,6 +59,14 @@
          $('.rabbitmobile').css('margin-top', marginTop);
          });
          }
+         
+         else $(document).ready(function() {
+         var imgHeightDesk = $('#white').width();
+         console.log('Image width: ' + imgHeightDesk + 'px');
+         var marginTopDesk = '-' + (imgHeightDesk / 3.5) + 'px';
+         console.log('Margin-top: ' + marginTopDesk);
+         $('.rabbit').css('margin-top', marginTopDesk);
+         });
      
      </script>
      
