@@ -591,7 +591,8 @@ opacity: 1;
       opacity: 0;
       transition: opacity 0.5s ease;
     }
-    .box:hover .overlay {
+    .box:hover .overlay,
+    .box:active .overlay {
       opacity: 1;
     }
 
@@ -662,13 +663,13 @@ opacity: 1;
 
 .hovertext{
    font-weight: 400;
-    font-size: 2.5vw;
+    font-size: 3.0vh;
     color:white;
 }
 
 .hoveryear{
    font-weight: 400;
-    font-size: 1.8vw;
+    font-size: 2vh;
     color:white;
 }
 
